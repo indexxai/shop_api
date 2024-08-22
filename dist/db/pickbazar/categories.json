@@ -30,7 +30,7 @@
                 "productCard": "neon",
                 "_id": "66c755423ec96af7b25a4c2a"
             },
-            "slug": "Gift",
+            "slug": "grocery",
             "icon": "Gift",
             "promotional_sliders": [
                 {
@@ -101,7 +101,7 @@
                 "productCard": "neon",
                 "_id": "66c755423ec96af7b25a4c31"
             },
-            "slug": "greeting",
+            "slug": "grocery",
             "icon": "Greeting",
             "promotional_sliders": [
                 {
@@ -173,7 +173,7 @@
                 "productCard": "neon",
                 "_id": "66c755423ec96af7b25a4c38"
             },
-            "slug": "carnival",
+            "slug": "grocery",
             "icon": "Carnival",
             "promotional_sliders": [
                 {
@@ -244,7 +244,7 @@
                 "productCard": "neon",
                 "_id": "66c755423ec96af7b25a4c3f"
             },
-            "slug": "hive-pack",
+            "slug": "grocery",
             "icon": "HivePack",
             "promotional_sliders": [
                 {
