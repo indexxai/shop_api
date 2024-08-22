@@ -27,6 +27,7 @@ let UsersService = class UsersService {
         this.users = users;
     }
     create(createUserDto) {
+        console.log(createUserDto);
         return this.users[0];
     }
     async getUsers({ text, limit, page, search, }) {

@@ -6,7 +6,7 @@ endpoints:
   # +required Unique name for the endpoint. (This name will be used when generating the managed API)
   - name: Indexx Shop REST Endpoint
     # +required Numeric port value that gets exposed via this endpoint
-    port: 5000
+    port: 5500
     # +required Type of the traffic this endpoint is accepting. Example: REST, GraphQL, etc.
     # Allowed values: REST, GraphQL, GRPC
     type: REST

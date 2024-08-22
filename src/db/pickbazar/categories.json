@@ -1,5 +1,289 @@
 [
   {
+    "products_count": 0,
+    "_id": "66c5ced7e0d4310148b7baf6",
+    "id": 1,
+    "name": "Gift",
+    "slug": "gift",
+    "icon": "Gift",
+    "image": [],
+    "details": null,
+    "language": "en",
+    "translated_languages": [
+      "en"
+    ],
+    "parent": null,
+    "type_id": 1,
+    "updated_at": "2024-08-21T07:21:31.000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 1,
+      "name": "Gift",
+      "language": "en",
+      "translated_languages": [
+        "en"
+      ],
+      "settings": {
+        "isHome": true,
+        "layoutType": "classic",
+        "productCard": "neon",
+        "_id": "66c755423ec96af7b25a4c2a"
+      },
+      "slug": "Gift",
+      "icon": "Gift",
+      "promotional_sliders": [
+        {
+          "_id": "66c755423ec96af7b25a4c2b",
+          "id": "902",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c2c",
+          "id": "903",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c2d",
+          "id": "904",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c2e",
+          "id": "905",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c2f",
+          "id": "906",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+        }
+      ],
+      "updated_at": "2024-08-21T07:21:31.000Z",
+      "created_at": "2024-08-22T15:12:02.225Z",
+      "_id": "66c755423ec96af7b25a4c30"
+    },
+    "created_at": "2024-08-22T15:12:02.247Z"
+  },
+  {
+    "products_count": 0,
+    "_id": "66c5d46fe0d4310148bdfe54",
+    "id": 4,
+    "name": "Greeting",
+    "slug": "Greeting",
+    "icon": "Greeting",
+    "image": [],
+    "details": null,
+    "language": "en",
+    "translated_languages": [
+      "en"
+    ],
+    "parent": null,
+    "type_id": 1,
+    "updated_at": "2024-08-21T07:21:31.000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 1,
+      "name": "Greeting",
+      "language": "en",
+      "translated_languages": [
+        "en"
+      ],
+      "settings": {
+        "isHome": true,
+        "layoutType": "classic",
+        "productCard": "neon",
+        "_id": "66c755423ec96af7b25a4c31"
+      },
+      "slug": "greeting",
+      "icon": "Greeting",
+      "promotional_sliders": [
+        {
+          "_id": "66c755423ec96af7b25a4c32",
+          "id": "902",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c33",
+          "id": "903",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c34",
+          "id": "904",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c35",
+          "id": "905",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c36",
+          "id": "906",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+        }
+      ],
+      "updated_at": "2024-08-21T07:21:31.000Z",
+      "created_at": "2024-08-22T15:12:02.259Z",
+      "_id": "66c755423ec96af7b25a4c37"
+    },
+    "created_at": "2024-08-22T15:12:02.267Z"
+  },
+  {
+    "products_count": 0,
+    "_id": "66c5d57fe0d4310148bf2496",
+    "id": 7,
+    "name": "Carnival",
+    "slug": "carnival",
+    "icon": "Carnival",
+    "image": [],
+    "details": null,
+    "language": "en",
+    "translated_languages": [
+      "en"
+    ],
+    "parent": null,
+    "type_id": 1,
+    "created_at": "2021-03-08T08:55:56.000Z",
+    "updated_at": "2021-03-08T08:55:56.000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 1,
+      "name": "Carnival",
+      "language": "en",
+      "translated_languages": [
+        "en"
+      ],
+      "settings": {
+        "isHome": true,
+        "layoutType": "classic",
+        "productCard": "neon",
+        "_id": "66c755423ec96af7b25a4c38"
+      },
+      "slug": "carnival",
+      "icon": "Carnival",
+      "promotional_sliders": [
+        {
+          "_id": "66c755423ec96af7b25a4c39",
+          "id": "902",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c3a",
+          "id": "903",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c3b",
+          "id": "904",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c3c",
+          "id": "905",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c3d",
+          "id": "906",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000Z",
+      "updated_at": "2021-09-26T15:23:32.000Z",
+      "_id": "66c755423ec96af7b25a4c3e"
+    }
+  },
+  {
+    "products_count": 0,
+    "_id": "66c5d7a4e0d4310148c1ad7a",
+    "id": 13,
+    "name": "Hive Pack",
+    "slug": "hive-pack",
+    "icon": "HivePack",
+    "image": [],
+    "details": null,
+    "language": "en",
+    "translated_languages": [
+      "en"
+    ],
+    "parent": null,
+    "type_id": 1,
+    "created_at": "2021-03-08T09:47:41.000Z",
+    "updated_at": "2021-03-08T09:47:41.000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 1,
+      "name": "Hive Pack",
+      "language": "en",
+      "translated_languages": [
+        "en"
+      ],
+      "settings": {
+        "isHome": true,
+        "layoutType": "classic",
+        "productCard": "neon",
+        "_id": "66c755423ec96af7b25a4c3f"
+      },
+      "slug": "hive-pack",
+      "icon": "HivePack",
+      "promotional_sliders": [
+        {
+          "_id": "66c755423ec96af7b25a4c40",
+          "id": "902",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c41",
+          "id": "903",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c42",
+          "id": "904",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c43",
+          "id": "905",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+        },
+        {
+          "_id": "66c755423ec96af7b25a4c44",
+          "id": "906",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000Z",
+      "updated_at": "2021-09-26T15:23:32.000Z",
+      "_id": "66c755423ec96af7b25a4c45"
+    }
+  },
+  {
     "id": 1,
     "name": "Fruits & Vegetables",
     "slug": "fruits-vegetables",

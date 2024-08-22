@@ -6,10 +6,10 @@ export declare class WithdrawsService {
     private withdraws;
     create(createWithdrawDto: CreateWithdrawDto): {
         shop_id: number;
-        details: string;
         amount: number;
-        payment_method: string;
         note: string;
+        details: string;
+        payment_method: string;
         id: number;
     };
     getWithdraws({ limit, page, status, shop_id, }: GetWithdrawsDto): WithdrawPaginator;
