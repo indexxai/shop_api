@@ -1,652 +1,632 @@
 [
-  {
-    "products_count": 0,
-    "_id": "66c5ced7e0d4310148b7baf6",
-    "id": 1,
-    "name": "Gift",
-    "slug": "gift",
-    "icon": "Gift",
-    "image": [],
-    "details": null,
-    "language": "en",
-    "translated_languages": ["en"],
-    "parent": null,
-    "type_id": 1,
-    "updated_at": "2024-08-21T07:21:31.000Z",
-    "deleted_at": null,
-    "parent_id": null,
-    "type": {
-      "id": 1,
-      "name": "Gift",
-      "language": "en",
-      "translated_languages": ["en"],
-      "settings": {
-        "isHome": true,
-        "layoutType": "classic",
-        "productCard": "neon",
-        "_id": "66c770d9f0995079778a4213"
-      },
-      "slug": "grocery",
-      "icon": "Gift",
-      "promotional_sliders": [
-        {
-          "_id": "66c770d9f0995079778a4214",
-          "id": "902",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4215",
-          "id": "903",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4216",
-          "id": "904",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4217",
-          "id": "905",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4218",
-          "id": "906",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
-        }
-      ],
-      "updated_at": "2024-08-21T07:21:31.000Z",
-      "created_at": "2024-08-22T17:09:45.534Z",
-      "_id": "66c770d9f0995079778a4219"
-    },
-    "children": [
-      [
-        {
-          "id": 2,
-          "name": "Gift Cards",
-          "slug": "gift-cards",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
+    {
+        "products_count": 0,
+        "_id": "66c5ced7e0d4310148b7baf6",
+        "id": 1,
+        "name": "Gift",
+        "slug": "gift",
+        "icon": "Gift",
+        "image": [],
+        "details": null,
+        "language": "en",
+        "translated_languages": ["en"],
+        "parent": null,
+        "type_id": 1,
+        "updated_at": "2024-08-21T07:21:31.000Z",
+        "deleted_at": null,
+        "parent_id": null,
+        "type": {
             "id": 1,
             "name": "Gift",
-            "slug": "gift",
-            "icon": "Gift",
-            "image": [],
-            "details": null,
             "language": "en",
             "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2024-08-21-T07:21:31.000000Z",
-            "updated_at": "2024-08-21T07:21:31.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T07:22:04.000000Z",
-          "updated_at": "2021-03-08T07:22:04.000000Z",
-          "deleted_at": null,
-          "products_count": 9,
-          "parent_id": 1,
-          "children": []
-        }
-      ],
-      [
-        {
-          "id": 3,
-          "name": "Gift Pack",
-          "slug": "gift-pack",
-          "icon": null,
-          "image": {
-            "id": null,
-            "original": null,
-            "thumbnail": null
-          },
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "neon",
+                "_id": "66c770d9f0995079778a4213"
+            },
+            "slug": "grocery",
+            "icon": "Gift",
+            "promotional_sliders": [
+                {
+                    "_id": "66c770d9f0995079778a4214",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4215",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4216",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4217",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4218",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "updated_at": "2024-08-21T07:21:31.000Z",
+            "created_at": "2024-08-22T17:09:45.534Z",
+            "_id": "66c770d9f0995079778a4219"
+        },
+        "children": [
+            {
+                "id": 2,
+                "name": "Gift Cards",
+                "slug": "gift-cards",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 1,
+                    "name": "Gift",
+                    "slug": "gift",
+                    "icon": "Gift",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2024-08-21-T07:21:31.000000Z",
+                    "updated_at": "2024-08-21T07:21:31.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000000Z",
+                "updated_at": "2021-03-08T07:22:04.000000Z",
+                "deleted_at": null,
+                "products_count": 9,
+                "parent_id": 1,
+                "children": []
+            },
+            {
+                "id": 3,
+                "name": "Gift Pack",
+                "slug": "gift-pack",
+                "icon": null,
+                "image": {
+                    "id": null,
+                    "original": null,
+                    "thumbnail": null
+                },
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 1,
+                    "name": "Gift",
+                    "slug": "gift",
+                    "icon": "Gift",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T07:22:04.000000Z",
+                    "updated_at": "2021-03-08T07:22:04.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000000Z",
+                "updated_at": "2021-03-08T07:22:04.000000Z",
+                "deleted_at": null,
+                "products_count": 11,
+                "parent_id": 1,
+                "children": []
+            }
+        ],
+        "created_at": "2024-08-22T17:09:45.535Z"
+    },
+    {
+        "products_count": 0,
+        "_id": "66c5d46fe0d4310148bdfe54",
+        "id": 4,
+        "name": "Greeting",
+        "slug": "greeting",
+        "icon": "Greeting",
+        "image": [],
+        "details": null,
+        "language": "en",
+        "translated_languages": ["en"],
+        "parent": null,
+        "type_id": 1,
+        "updated_at": "2024-08-21T07:21:31.000Z",
+        "deleted_at": null,
+        "parent_id": null,
+        "type": {
             "id": 1,
-            "name": "Gift",
-            "slug": "gift",
-            "icon": "Gift",
-            "image": [],
-            "details": null,
+            "name": "Greeting",
             "language": "en",
             "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T07:22:04.000000Z",
-            "updated_at": "2021-03-08T07:22:04.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T07:22:04.000000Z",
-          "updated_at": "2021-03-08T07:22:04.000000Z",
-          "deleted_at": null,
-          "products_count": 11,
-          "parent_id": 1,
-          "children": []
-        }
-      ]
-    ],
-    "created_at": "2024-08-22T17:09:45.535Z"
-  },
-  {
-    "products_count": 0,
-    "_id": "66c5d46fe0d4310148bdfe54",
-    "id": 4,
-    "name": "Greeting",
-    "slug": "Greeting",
-    "icon": "Greeting",
-    "image": [],
-    "details": null,
-    "language": "en",
-    "translated_languages": ["en"],
-    "parent": null,
-    "type_id": 1,
-    "updated_at": "2024-08-21T07:21:31.000Z",
-    "deleted_at": null,
-    "parent_id": null,
-    "type": {
-      "id": 1,
-      "name": "Greeting",
-      "language": "en",
-      "translated_languages": ["en"],
-      "settings": {
-        "isHome": true,
-        "layoutType": "classic",
-        "productCard": "neon",
-        "_id": "66c770d9f0995079778a421a"
-      },
-      "slug": "grocery",
-      "icon": "Greeting",
-      "promotional_sliders": [
-        {
-          "_id": "66c770d9f0995079778a421b",
-          "id": "902",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "neon",
+                "_id": "66c770d9f0995079778a421a"
+            },
+            "slug": "grocery",
+            "icon": "Greeting",
+            "promotional_sliders": [
+                {
+                    "_id": "66c770d9f0995079778a421b",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a421c",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a421d",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a421e",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a421f",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "updated_at": "2024-08-21T07:21:31.000Z",
+            "created_at": "2024-08-22T17:09:45.541Z",
+            "_id": "66c770d9f0995079778a4220"
         },
-        {
-          "_id": "66c770d9f0995079778a421c",
-          "id": "903",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a421d",
-          "id": "904",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a421e",
-          "id": "905",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a421f",
-          "id": "906",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
-        }
-      ],
-      "updated_at": "2024-08-21T07:21:31.000Z",
-      "created_at": "2024-08-22T17:09:45.541Z",
-      "_id": "66c770d9f0995079778a4220"
+        "children": [
+            {
+                "id": 5,
+                "name": "Greeting Cards",
+                "slug": "greeting-cards",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 4,
+                    "name": "Greeting Cards",
+                    "slug": "greeting",
+                    "icon": "GreetingCards",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2024-08-21-T07:21:31.000000Z",
+                    "updated_at": "2024-08-21T07:21:31.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T08:54:47.000000Z",
+                "updated_at": "2021-03-08T08:54:47.000000Z",
+                "deleted_at": null,
+                "products_count": 5,
+                "parent_id": 4,
+                "children": []
+            },
+            {
+                "id": 6,
+                "name": "Birthday Cards",
+                "slug": "birthday-cards",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 4,
+                    "name": "Greeting Cards",
+                    "slug": "greeting",
+                    "icon": "GreetingCards",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T08:54:16.000000Z",
+                    "updated_at": "2021-03-08T08:54:16.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T08:55:14.000000Z",
+                "updated_at": "2021-03-08T08:55:14.000000Z",
+                "deleted_at": null,
+                "products_count": 5,
+                "parent_id": 4,
+                "children": []
+            }
+        ],
+        "created_at": "2024-08-22T17:09:45.541Z"
     },
-    "children": [
-      [
-        {
-          "id": 5,
-          "name": "Greeting Cards",
-          "slug": "greeting-cards",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 4,
-            "name": "Greeting Cards",
-            "slug": "greeting",
-            "icon": "GreetingCards",
-            "image": [],
-            "details": null,
-            "language": "en",
-            "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2024-08-21-T07:21:31.000000Z",
-            "updated_at": "2024-08-21T07:21:31.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T08:54:47.000000Z",
-          "updated_at": "2021-03-08T08:54:47.000000Z",
-          "deleted_at": null,
-          "products_count": 5,
-          "parent_id": 4,
-          "children": []
-        }
-      ],
-      [
-        {
-          "id": 6,
-          "name": "Meat",
-          "slug": "meat",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 4,
-            "name": "Birthday Cards",
-            "slug": "greeting",
-            "icon": "BirthdayCards",
-            "image": [],
-            "details": null,
-            "language": "en",
-            "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T08:54:16.000000Z",
-            "updated_at": "2021-03-08T08:54:16.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T08:55:14.000000Z",
-          "updated_at": "2021-03-08T08:55:14.000000Z",
-          "deleted_at": null,
-          "products_count": 5,
-          "parent_id": 4,
-          "children": []
-        }
-      ]
-    ],
-    "created_at": "2024-08-22T17:09:45.541Z"
-  },
-  {
-    "products_count": 0,
-    "_id": "66c5d57fe0d4310148bf2496",
-    "id": 7,
-    "name": "Carnival",
-    "slug": "carnival",
-    "icon": "Carnival",
-    "image": [],
-    "details": null,
-    "language": "en",
-    "translated_languages": ["en"],
-    "parent": null,
-    "type_id": 1,
-    "created_at": "2021-03-08T08:55:56.000Z",
-    "updated_at": "2021-03-08T08:55:56.000Z",
-    "deleted_at": null,
-    "parent_id": null,
-    "type": {
-      "id": 1,
-      "name": "Carnival",
-      "language": "en",
-      "translated_languages": ["en"],
-      "settings": {
-        "isHome": true,
-        "layoutType": "classic",
-        "productCard": "neon",
-        "_id": "66c770d9f0995079778a4221"
-      },
-      "slug": "grocery",
-      "icon": "Carnival",
-      "promotional_sliders": [
-        {
-          "_id": "66c770d9f0995079778a4222",
-          "id": "902",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4223",
-          "id": "903",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4224",
-          "id": "904",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4225",
-          "id": "905",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a4226",
-          "id": "906",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
-        }
-      ],
-      "created_at": "2021-03-08T07:18:25.000Z",
-      "updated_at": "2021-09-26T15:23:32.000Z",
-      "_id": "66c770d9f0995079778a4227"
-    },
-    "children": [
-      [
-        {
-          "id": 8,
-          "name": "Bonus",
-          "slug": "bonus",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 7,
+    {
+        "products_count": 0,
+        "_id": "66c5d57fe0d4310148bf2496",
+        "id": 7,
+        "name": "Carnival",
+        "slug": "carnival",
+        "icon": "Carnival",
+        "image": [],
+        "details": null,
+        "language": "en",
+        "translated_languages": ["en"],
+        "parent": null,
+        "type_id": 1,
+        "created_at": "2021-03-08T08:55:56.000Z",
+        "updated_at": "2021-03-08T08:55:56.000Z",
+        "deleted_at": null,
+        "parent_id": null,
+        "type": {
+            "id": 1,
             "name": "Carnival",
-            "slug": "carnival",
-            "icon": "Carnival",
-            "image": [],
-            "details": null,
             "language": "en",
             "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T08:55:56.000000Z",
-            "updated_at": "2021-03-08T08:55:56.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T08:57:28.000000Z",
-          "updated_at": "2021-03-08T08:57:28.000000Z",
-          "deleted_at": null,
-          "products_count": 20,
-          "parent_id": 7,
-          "children": []
-        }
-      ],
-      [
-        {
-          "id": 9,
-          "name": "INEX Pre-Sale",
-          "slug": "inex-pre-sale",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 7,
-            "name": "Carnival",
-            "slug": "carnival",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "neon",
+                "_id": "66c770d9f0995079778a4221"
+            },
+            "slug": "grocery",
             "icon": "Carnival",
-            "image": [],
-            "details": null,
-            "language": "en",
-            "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T08:55:56.000000Z",
-            "updated_at": "2021-03-08T08:55:56.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T08:58:44.000000Z",
-          "updated_at": "2021-03-08T08:58:44.000000Z",
-          "deleted_at": null,
-          "products_count": 12,
-          "parent_id": 7,
-          "children": []
-        }
-      ]
-    ]
-  },
-  {
-    "products_count": 0,
-    "_id": "66c5d7a4e0d4310148c1ad7a",
-    "id": 13,
-    "name": "Hive Pack",
-    "slug": "hive-pack",
-    "icon": "HivePack",
-    "image": [],
-    "details": null,
-    "language": "en",
-    "translated_languages": ["en"],
-    "parent": null,
-    "type_id": 1,
-    "created_at": "2021-03-08T09:47:41.000Z",
-    "updated_at": "2021-03-08T09:47:41.000Z",
-    "deleted_at": null,
-    "parent_id": null,
-    "type": {
-      "id": 1,
-      "name": "Hive Pack",
-      "language": "en",
-      "translated_languages": ["en"],
-      "settings": {
-        "isHome": true,
-        "layoutType": "classic",
-        "productCard": "neon",
-        "_id": "66c770d9f0995079778a4228"
-      },
-      "slug": "grocery",
-      "icon": "HivePack",
-      "promotional_sliders": [
-        {
-          "_id": "66c770d9f0995079778a4229",
-          "id": "902",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+            "promotional_sliders": [
+                {
+                    "_id": "66c770d9f0995079778a4222",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4223",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4224",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4225",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4226",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "_id": "66c770d9f0995079778a4227"
         },
-        {
-          "_id": "66c770d9f0995079778a422a",
-          "id": "903",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a422b",
-          "id": "904",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a422c",
-          "id": "905",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
-        },
-        {
-          "_id": "66c770d9f0995079778a422d",
-          "id": "906",
-          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
-          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
-        }
-      ],
-      "created_at": "2021-03-08T07:18:25.000Z",
-      "updated_at": "2021-09-26T15:23:32.000Z",
-      "_id": "66c770d9f0995079778a422e"
+        "children": [
+            {
+                "id": 8,
+                "name": "Bonus",
+                "slug": "bonus",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 7,
+                    "name": "Carnival",
+                    "slug": "carnival",
+                    "icon": "Carnival",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T08:55:56.000000Z",
+                    "updated_at": "2021-03-08T08:55:56.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T08:57:28.000000Z",
+                "updated_at": "2021-03-08T08:57:28.000000Z",
+                "deleted_at": null,
+                "products_count": 20,
+                "parent_id": 7,
+                "children": []
+            },
+            {
+                "id": 9,
+                "name": "INEX Pre-Sale",
+                "slug": "inex-pre-sale",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 7,
+                    "name": "Carnival",
+                    "slug": "carnival",
+                    "icon": "Carnival",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T08:55:56.000000Z",
+                    "updated_at": "2021-03-08T08:55:56.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T08:58:44.000000Z",
+                "updated_at": "2021-03-08T08:58:44.000000Z",
+                "deleted_at": null,
+                "products_count": 12,
+                "parent_id": 7,
+                "children": []
+            }
+        ]
     },
-    "children": [
-      [
-        {
-          "id": 15,
-          "name": "Power Pack",
-          "slug": "power-pack",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 13,
+    {
+        "products_count": 0,
+        "_id": "66c5d7a4e0d4310148c1ad7a",
+        "id": 13,
+        "name": "Hive Pack",
+        "slug": "hive-pack",
+        "icon": "HivePack",
+        "image": [],
+        "details": null,
+        "language": "en",
+        "translated_languages": ["en"],
+        "parent": null,
+        "type_id": 1,
+        "created_at": "2021-03-08T09:47:41.000Z",
+        "updated_at": "2021-03-08T09:47:41.000Z",
+        "deleted_at": null,
+        "parent_id": null,
+        "type": {
+            "id": 1,
             "name": "Hive Pack",
-            "slug": "hive-pack",
-            "icon": "HivePack",
-            "image": [],
-            "details": null,
             "language": "en",
             "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T09:47:41.000000Z",
-            "updated_at": "2021-03-08T09:47:41.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T09:49:17.000000Z",
-          "updated_at": "2021-03-08T09:49:17.000000Z",
-          "deleted_at": null,
-          "products_count": 7,
-          "parent_id": 13,
-          "children": []
-        }
-      ],
-      [
-        {
-          "id": 16,
-          "name": "Crypto Pack",
-          "slug": "crypto-pack",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 13,
-            "name": "Hive Pack",
-            "slug": "hive-pack",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "neon",
+                "_id": "66c770d9f0995079778a4228"
+            },
+            "slug": "grocery",
             "icon": "HivePack",
-            "image": [],
-            "details": null,
-            "language": "en",
-            "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T09:47:41.000000Z",
-            "updated_at": "2021-03-08T09:47:41.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T09:49:51.000000Z",
-          "updated_at": "2021-03-08T09:49:51.000000Z",
-          "deleted_at": null,
-          "products_count": 7,
-          "parent_id": 13,
-          "children": []
-        }
-      ],
-      [
-        {
-          "id": 17,
-          "name": "Action Pack",
-          "slug": "action-pack",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 13,
-            "name": "Hive Pack",
-            "slug": "hive-pack",
-            "icon": "HivePack",
-            "image": [],
-            "details": null,
-            "language": "en",
-            "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T09:47:41.000000Z",
-            "updated_at": "2021-03-08T09:47:41.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T09:50:51.000000Z",
-          "updated_at": "2021-03-08T09:50:51.000000Z",
-          "deleted_at": null,
-          "products_count": 4,
-          "parent_id": 13,
-          "children": []
-        }
-      ],
-      [
-        {
-          "id": 17,
-          "name": "Token Pack",
-          "slug": "token-pack",
-          "icon": null,
-          "image": [],
-          "details": null,
-          "language": "en",
-          "translated_languages": ["en"],
-          "parent": {
-            "id": 13,
-            "name": "Hive Pack",
-            "slug": "hive-pack",
-            "icon": "HivePack",
-            "image": [],
-            "details": null,
-            "language": "en",
-            "translated_languages": ["en"],
-            "parent": null,
-            "type_id": 1,
-            "created_at": "2021-03-08T09:47:41.000000Z",
-            "updated_at": "2021-03-08T09:47:41.000000Z",
-            "deleted_at": null,
-            "parent_id": null,
-            "type": null,
-            "children": null
-          },
-          "type_id": 1,
-          "created_at": "2021-03-08T09:50:51.000000Z",
-          "updated_at": "2021-03-08T09:50:51.000000Z",
-          "deleted_at": null,
-          "products_count": 4,
-          "parent_id": 13,
-          "children": []
-        }
-      ]
-    ]
-  }
+            "promotional_sliders": [
+                {
+                    "_id": "66c770d9f0995079778a4229",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a422a",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a422b",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a422c",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a422d",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "_id": "66c770d9f0995079778a422e"
+        },
+        "children": [
+            {
+                "id": 15,
+                "name": "Power Pack",
+                "slug": "power-pack",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 13,
+                    "name": "Hive Pack",
+                    "slug": "hive-pack",
+                    "icon": "HivePack",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T09:47:41.000000Z",
+                    "updated_at": "2021-03-08T09:47:41.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T09:49:17.000000Z",
+                "updated_at": "2021-03-08T09:49:17.000000Z",
+                "deleted_at": null,
+                "products_count": 7,
+                "parent_id": 13,
+                "children": []
+            },
+            {
+                "id": 16,
+                "name": "Crypto Pack",
+                "slug": "crypto-pack",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 13,
+                    "name": "Hive Pack",
+                    "slug": "hive-pack",
+                    "icon": "HivePack",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T09:47:41.000000Z",
+                    "updated_at": "2021-03-08T09:47:41.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T09:49:51.000000Z",
+                "updated_at": "2021-03-08T09:49:51.000000Z",
+                "deleted_at": null,
+                "products_count": 7,
+                "parent_id": 13,
+                "children": []
+            },
+            {
+                "id": 17,
+                "name": "Action Pack",
+                "slug": "action-pack",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 13,
+                    "name": "Hive Pack",
+                    "slug": "hive-pack",
+                    "icon": "HivePack",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T09:47:41.000000Z",
+                    "updated_at": "2021-03-08T09:47:41.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T09:50:51.000000Z",
+                "updated_at": "2021-03-08T09:50:51.000000Z",
+                "deleted_at": null,
+                "products_count": 4,
+                "parent_id": 13,
+                "children": []
+            },
+            {
+                "id": 17,
+                "name": "Token Pack",
+                "slug": "token-pack",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 13,
+                    "name": "Hive Pack",
+                    "slug": "hive-pack",
+                    "icon": "HivePack",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2021-03-08T09:47:41.000000Z",
+                    "updated_at": "2021-03-08T09:47:41.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T09:50:51.000000Z",
+                "updated_at": "2021-03-08T09:50:51.000000Z",
+                "deleted_at": null,
+                "products_count": 4,
+                "parent_id": 13,
+                "children": []
+            }
+        ]
+    }
 ]
