@@ -95,13 +95,19 @@
             {
                 "name": "stripe",
                 "title": "Stripe"
-            }
+            },
+            { "name": "paypal", "title": "Paypal" },
+            { "name": "zello", "title": "Zelle" },
+            { "name": "tygapay", "title": "TygaPay" },
+            { "name": "ach", "title": "ACH" },
+            { "name": "wiretransfer", "title": "Wire transfer" },
+            { "name": "creditcard", "title": "Credit Card" }
         ],
         "currencyOptions": {
             "formation": "en-US",
             "fractions": 2
         },
-        "useEnableGateway": false,
+        "useEnableGateway": true,
         "useCashOnDelivery": true,
         "freeShippingAmount": 0,
         "minimumOrderAmount": 0,
