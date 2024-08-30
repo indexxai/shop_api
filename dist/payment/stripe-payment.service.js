@@ -47,6 +47,7 @@ let StripePaymentService = class StripePaymentService {
             return await this.stripeClient.customers.create(createCustomerDto);
         }
         catch (error) {
+            console.log("error");
             console.log(error);
         }
     }
@@ -139,14 +140,13 @@ let StripePaymentService = class StripePaymentService {
         const currentCustomer = customerList.data.find((customer) => customer.email === me.email);
         if (!currentCustomer) {
             const newCustomer = await this.createCustomer({
-                name: me.name,
                 email: me.email,
             });
-            currentCustomer.id = newCustomer.id;
+            currentCustomer.id = newCustomer.email;
         }
         return {
             customer: currentCustomer.id,
-            amount: Math.ceil(order.paid_total),
+            amount: Math.ceil(order.paid_total * 100),
             currency: process.env.DEFAULT_CURRENCY || setting.options.currency,
             payment_method_types: ['card'],
             metadata: {

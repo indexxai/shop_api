@@ -90,7 +90,7 @@ let PaypalPaymentService = class PaypalPaymentService {
                         currency_code: 'USD',
                         value: 56,
                     },
-                    description: 'Order From Marvel',
+                    description: `Order From ${order.customer_contact}`,
                     reference_id: order.tracking_number.toString(),
                 },
             ],

@@ -33,6 +33,8 @@ const stripe_payment_service_1 = require("../payment/stripe-payment.service");
 const setting_entity_1 = require("../settings/entities/setting.entity");
 const order_status_entity_1 = require("./entities/order-status.entity");
 const order_entity_1 = require("./entities/order.entity");
+const axios_1 = __importDefault(require("axios"));
+const tygapay_payment_service_1 = require("../payment/tygapay-payment.service");
 const orders = (0, class_transformer_1.plainToClass)(order_entity_1.Order, orders_json_1.default);
 const paymentIntents = (0, class_transformer_1.plainToClass)(payment_intent_entity_1.PaymentIntent, payment_intent_json_1.default);
 const paymentGateways = (0, class_transformer_1.plainToClass)(payment_gateway_entity_1.PaymentGateWay, payment_gateway_json_1.default);
@@ -45,23 +47,24 @@ const fuse = new fuse_js_1.default(orderStatus, options);
 const orderFiles = (0, class_transformer_1.plainToClass)(order_entity_1.OrderFiles, order_files_json_1.default);
 const settings = (0, class_transformer_1.plainToClass)(setting_entity_1.Setting, settings_json_1.default);
 let OrdersService = class OrdersService {
-    constructor(authService, stripeService, paypalService) {
+    constructor(authService, stripeService, paypalService, tygaPayPayentService) {
         this.authService = authService;
         this.stripeService = stripeService;
         this.paypalService = paypalService;
+        this.tygaPayPayentService = tygaPayPayentService;
         this.orders = orders;
         this.orderStatus = orderStatus;
         this.orderFiles = orderFiles;
         this.setting = Object.assign({}, settings);
     }
     async create(createOrderInput) {
-        const order = this.orders[0];
-        const payment_gateway_type = createOrderInput.payment_gateway
+        const order = createOrderInput;
+        const paymentGatewayType = createOrderInput.payment_gateway
             ? createOrderInput.payment_gateway
             : order_entity_1.PaymentGatewayType.CASH_ON_DELIVERY;
-        order.payment_gateway = payment_gateway_type;
+        order.payment_gateway = paymentGatewayType;
         order.payment_intent = null;
-        switch (payment_gateway_type) {
+        switch (paymentGatewayType) {
             case order_entity_1.PaymentGatewayType.CASH_ON_DELIVERY:
                 order.order_status = order_entity_1.OrderStatusType.PROCESSING;
                 order.payment_status = order_entity_1.PaymentStatusType.CASH_ON_DELIVERY;
@@ -79,19 +82,32 @@ let OrdersService = class OrdersService {
                 order.payment_status = order_entity_1.PaymentStatusType.PENDING;
                 break;
         }
-        order.children = this.processChildrenOrder(order);
+        console.log('order', order);
         try {
             if ([
                 order_entity_1.PaymentGatewayType.STRIPE,
                 order_entity_1.PaymentGatewayType.PAYPAL,
                 order_entity_1.PaymentGatewayType.RAZORPAY,
-            ].includes(payment_gateway_type)) {
+                order_entity_1.PaymentGatewayType.TYGAPAY,
+                order_entity_1.PaymentGatewayType.CREDIT_CARD,
+            ].includes(paymentGatewayType)) {
                 const paymentIntent = await this.processPaymentIntent(order, this.setting);
                 order.payment_intent = paymentIntent;
+            }
+            try {
+                const results = await axios_1.default.post('https://api.indexx.ai/api/v1/inex/shop/createOrder', Object.assign({}, order));
+                console.log('Order data sent to API:', results.data);
+            }
+            catch (error) {
+                console.error('Failed to send order data to API:', error);
+                return;
             }
             return order;
         }
         catch (error) {
+            console.error('Error processing the order:', error);
+            order.order_status = order_entity_1.OrderStatusType.FAILED;
+            order.payment_status = order_entity_1.PaymentStatusType.FAILED;
             return order;
         }
     }
@@ -194,13 +210,6 @@ let OrdersService = class OrdersService {
     async downloadInvoiceUrl(shop_id) {
         return order_invoice_json_1.default[0].url;
     }
-    processChildrenOrder(order) {
-        return [...order.children].map((child) => {
-            child.order_status = order.order_status;
-            child.payment_status = order.payment_status;
-            return child;
-        });
-    }
     async processPaymentIntent(order, setting) {
         const paymentIntent = paymentIntents.find((intent) => intent.tracking_number === order.tracking_number &&
             intent.payment_gateway.toString().toLowerCase() ===
@@ -225,14 +234,18 @@ let OrdersService = class OrdersService {
         return paymentIntentInfo;
     }
     async savePaymentIntent(order, paymentGateway) {
-        const me = this.authService.me();
+        const user = await axios_1.default.post(`https://api.indexx.ai/api/v1/inex/user/getUserDetails/${order.customer_contact}`);
+        console.log('user', user.data.data);
+        const me = user.data.data;
         switch (order.payment_gateway) {
             case order_entity_1.PaymentGatewayType.STRIPE:
                 const paymentIntentParam = await this.stripeService.makePaymentIntentParam(order, me);
                 return await this.stripeService.createPaymentIntent(paymentIntentParam);
             case order_entity_1.PaymentGatewayType.PAYPAL:
+            case order_entity_1.PaymentGatewayType.CREDIT_CARD:
                 return this.paypalService.createPaymentIntent(order);
-                break;
+            case order_entity_1.PaymentGatewayType.TYGAPAY:
+                return this.tygaPayPayentService.createNewOrder(order.customer_contact, order.tracking_number, order.paid_total);
             default:
                 break;
         }
@@ -259,7 +272,8 @@ OrdersService = __decorate([
     (0, common_1.Injectable)(),
     __metadata("design:paramtypes", [auth_service_1.AuthService,
         stripe_payment_service_1.StripePaymentService,
-        paypal_payment_service_1.PaypalPaymentService])
+        paypal_payment_service_1.PaypalPaymentService,
+        tygapay_payment_service_1.TygaPayPayentService])
 ], OrdersService);
 exports.OrdersService = OrdersService;
 //# sourceMappingURL=orders.service.js.map

@@ -97,7 +97,7 @@
                 "title": "Stripe"
             },
             { "name": "paypal", "title": "Paypal" },
-            { "name": "zello", "title": "Zelle" },
+            { "name": "zelle", "title": "Zelle" },
             { "name": "tygapay", "title": "TygaPay" },
             { "name": "ach", "title": "ACH" },
             { "name": "wiretransfer", "title": "Wire transfer" },

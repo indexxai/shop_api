@@ -40,6 +40,8 @@ import {
   PaymentGatewayType,
   PaymentStatusType,
 } from './entities/order.entity';
+import axios from 'axios';
+import { TygaPayPayentService } from 'src/payment/tygapay-payment.service';
 
 const orders = plainToClass(Order, ordersJson);
 const paymentIntents = plainToClass(PaymentIntent, paymentIntentJson);
@@ -66,17 +68,21 @@ export class OrdersService {
     private readonly authService: AuthService,
     private readonly stripeService: StripePaymentService,
     private readonly paypalService: PaypalPaymentService,
+    private readonly tygaPayPayentService: TygaPayPayentService,
   ) {}
   async create(createOrderInput: CreateOrderDto): Promise<Order> {
-    const order: Order = this.orders[0];
-    const payment_gateway_type = createOrderInput.payment_gateway
+    // Initialize a new Order instance
+    const order: any = createOrderInput;
+
+    // Set order properties from input or defaults
+    const paymentGatewayType = createOrderInput.payment_gateway
       ? createOrderInput.payment_gateway
       : PaymentGatewayType.CASH_ON_DELIVERY;
-    order.payment_gateway = payment_gateway_type;
+    order.payment_gateway = paymentGatewayType;
     order.payment_intent = null;
-    // set the order type and payment type
 
-    switch (payment_gateway_type) {
+    // Set initial order and payment status based on the payment gateway type
+    switch (paymentGatewayType) {
       case PaymentGatewayType.CASH_ON_DELIVERY:
         order.order_status = OrderStatusType.PROCESSING;
         order.payment_status = PaymentStatusType.CASH_ON_DELIVERY;
@@ -94,14 +100,23 @@ export class OrdersService {
         order.payment_status = PaymentStatusType.PENDING;
         break;
     }
-    order.children = this.processChildrenOrder(order);
+
+    // Process any children orders if applicable
+    //order.children = this.processChildrenOrder(order);
+    console.log('order', order);
     try {
+      // If the payment gateway is one of the external ones, process the payment intent
       if (
         [
           PaymentGatewayType.STRIPE,
           PaymentGatewayType.PAYPAL,
           PaymentGatewayType.RAZORPAY,
-        ].includes(payment_gateway_type)
+          //PaymentGatewayType.ZELLE,
+          PaymentGatewayType.TYGAPAY,
+          //PaymentGatewayType.ACH,
+          //PaymentGatewayType.WIRE_TRANSFER,
+          PaymentGatewayType.CREDIT_CARD,
+        ].includes(paymentGatewayType)
       ) {
         const paymentIntent = await this.processPaymentIntent(
           order,
@@ -109,8 +124,27 @@ export class OrdersService {
         );
         order.payment_intent = paymentIntent;
       }
+
+      // Pass all order data to your API
+      try {
+        const results = await axios.post(
+          'https://api.indexx.ai/api/v1/inex/shop/createOrder',
+          {
+            ...order, // Pass any other order data returned by the API
+          },
+        );
+        console.log('Order data sent to API:', results.data);
+      } catch (error) {
+        console.error('Failed to send order data to API:', error);
+        return;
+      }
+
       return order;
     } catch (error) {
+      console.error('Error processing the order:', error);
+      // Set order to error state if payment processing fails
+      order.order_status = OrderStatusType.FAILED;
+      order.payment_status = PaymentStatusType.FAILED;
       return order;
     }
   }
@@ -269,13 +303,13 @@ export class OrdersService {
    * @param order
    * @returns Children[]
    */
-  processChildrenOrder(order: Order) {
-    return [...order.children].map((child) => {
-      child.order_status = order.order_status;
-      child.payment_status = order.payment_status;
-      return child;
-    });
-  }
+  // processChildrenOrder(order: Order) {
+  //   return [...order.children].map((child) => {
+  //     child.order_status = order.order_status;
+  //     child.payment_status = order.payment_status;
+  //     return child;
+  //   });
+  // }
   /**
    * This action will return Payment Intent
    * @param order
@@ -340,17 +374,26 @@ export class OrdersService {
    * @param paymentGateway
    */
   async savePaymentIntent(order: Order, paymentGateway?: string): Promise<any> {
-    const me = this.authService.me();
+    const user = await axios.post(
+      `https://api.indexx.ai/api/v1/inex/user/getUserDetails/${order.customer_contact}`,
+    );
+    console.log('user', user.data.data);
+    const me = user.data.data;
     switch (order.payment_gateway) {
       case PaymentGatewayType.STRIPE:
         const paymentIntentParam =
           await this.stripeService.makePaymentIntentParam(order, me);
         return await this.stripeService.createPaymentIntent(paymentIntentParam);
       case PaymentGatewayType.PAYPAL:
-        // here goes PayPal
+      case PaymentGatewayType.CREDIT_CARD:
+        // here goes PayPal or CreditCard
         return this.paypalService.createPaymentIntent(order);
-        break;
-
+      case PaymentGatewayType.TYGAPAY:
+        return this.tygaPayPayentService.createNewOrder(
+          order.customer_contact,
+          order.tracking_number,
+          order.paid_total,
+        );
       default:
         //
         break;

@@ -5,10 +5,10 @@ import { GetWithdrawsDto, WithdrawPaginator } from './dto/get-withdraw.dto';
 export declare class WithdrawsService {
     private withdraws;
     create(createWithdrawDto: CreateWithdrawDto): {
-        payment_method: string;
-        amount: number;
         shop_id: number;
         details: string;
+        amount: number;
+        payment_method: string;
         note: string;
         id: number;
     };

@@ -5,12 +5,12 @@ import { Tag } from './entities/tag.entity';
 export declare class TagsService {
     private tags;
     create(createTagDto: CreateTagDto): {
+        type: import("../types/entities/type.entity").Type;
         language: string;
         name: string;
-        type: import("../types/entities/type.entity").Type;
         image: import("../common/entities/attachment.entity").Attachment;
-        details: string;
         icon: string;
+        details: string;
         id: number;
     };
     findAll({ page, limit, search }: GetTagsDto): {

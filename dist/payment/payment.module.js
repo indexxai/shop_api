@@ -11,13 +11,14 @@ const common_1 = require("@nestjs/common");
 const auth_module_1 = require("../auth/auth.module");
 const paypal_payment_service_1 = require("./paypal-payment.service");
 const stripe_payment_service_1 = require("./stripe-payment.service");
+const tygapay_payment_service_1 = require("./tygapay-payment.service");
 let PaymentModule = class PaymentModule {
 };
 PaymentModule = __decorate([
     (0, common_1.Module)({
         imports: [auth_module_1.AuthModule],
-        providers: [stripe_payment_service_1.StripePaymentService, paypal_payment_service_1.PaypalPaymentService],
-        exports: [stripe_payment_service_1.StripePaymentService, paypal_payment_service_1.PaypalPaymentService],
+        providers: [stripe_payment_service_1.StripePaymentService, paypal_payment_service_1.PaypalPaymentService, tygapay_payment_service_1.TygaPayPayentService],
+        exports: [stripe_payment_service_1.StripePaymentService, paypal_payment_service_1.PaypalPaymentService, tygapay_payment_service_1.TygaPayPayentService],
     })
 ], PaymentModule);
 exports.PaymentModule = PaymentModule;

@@ -6,10 +6,10 @@ export declare class WithdrawsController {
     private readonly withdrawsService;
     constructor(withdrawsService: WithdrawsService);
     createWithdraw(createWithdrawDto: CreateWithdrawDto): {
-        payment_method: string;
-        amount: number;
         shop_id: number;
         details: string;
+        amount: number;
+        payment_method: string;
         note: string;
         id: number;
     };

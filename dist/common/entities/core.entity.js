@@ -14,7 +14,7 @@ const openapi = require("@nestjs/swagger");
 const class_transformer_1 = require("class-transformer");
 class CoreEntity {
     static _OPENAPI_METADATA_FACTORY() {
-        return { id: { required: true, type: () => Number }, created_at: { required: true, type: () => Date }, updated_at: { required: true, type: () => Date } };
+        return { id: { required: false, type: () => Number }, created_at: { required: false, type: () => Date }, updated_at: { required: false, type: () => Date } };
     }
 }
 __decorate([

@@ -62,7 +62,6 @@ let OrdersController = class OrdersController {
             default:
                 break;
         }
-        this.ordersService.processChildrenOrder(order);
     }
 };
 __decorate([

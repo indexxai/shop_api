@@ -12,15 +12,17 @@ import { UpdateOrderDto } from './dto/update-order.dto';
 import { CheckoutVerificationDto, VerifiedCheckoutData } from './dto/verify-checkout.dto';
 import { OrderStatus } from './entities/order-status.entity';
 import { Order, OrderFiles, OrderStatusType, PaymentStatusType } from './entities/order.entity';
+import { TygaPayPayentService } from 'src/payment/tygapay-payment.service';
 export declare class OrdersService {
     private readonly authService;
     private readonly stripeService;
     private readonly paypalService;
+    private readonly tygaPayPayentService;
     private orders;
     private orderStatus;
     private orderFiles;
     private setting;
-    constructor(authService: AuthService, stripeService: StripePaymentService, paypalService: PaypalPaymentService);
+    constructor(authService: AuthService, stripeService: StripePaymentService, paypalService: PaypalPaymentService, tygaPayPayentService: TygaPayPayentService);
     create(createOrderInput: CreateOrderDto): Promise<Order>;
     getOrders({ limit, page, customer_id, tracking_number, search, shop_id, }: GetOrdersDto): Promise<OrderPaginator>;
     getOrderByIdOrTrackingNumber(id: number): Promise<Order>;
@@ -48,7 +50,6 @@ export declare class OrdersService {
     getDigitalFileDownloadUrl(digitalFileId: number): Promise<string>;
     exportOrder(shop_id: string): Promise<string>;
     downloadInvoiceUrl(shop_id: string): Promise<string>;
-    processChildrenOrder(order: Order): Order[];
     processPaymentIntent(order: Order, setting: Setting): Promise<PaymentIntent>;
     savePaymentIntent(order: Order, paymentGateway?: string): Promise<any>;
     stripePay(order: Order): Promise<void>;

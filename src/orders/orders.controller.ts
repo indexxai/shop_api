@@ -76,7 +76,7 @@ export class OrdersController {
       default:
         break;
     }
-    this.ordersService.processChildrenOrder(order);
+    //this.ordersService.processChildrenOrder(order);
   }
 }
 

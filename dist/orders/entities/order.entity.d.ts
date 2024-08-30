@@ -5,14 +5,18 @@ import { PaymentIntent } from 'src/payment-intent/entries/payment-intent.entity'
 import { File, Product } from 'src/products/entities/product.entity';
 import { Shop } from 'src/shops/entities/shop.entity';
 import { User } from 'src/users/entities/user.entity';
-import { OrderStatus } from './order-status.entity';
 export declare enum PaymentGatewayType {
     STRIPE = "STRIPE",
     CASH_ON_DELIVERY = "CASH_ON_DELIVERY",
     CASH = "CASH",
     FULL_WALLET_PAYMENT = "FULL_WALLET_PAYMENT",
     PAYPAL = "PAYPAL",
-    RAZORPAY = "RAZORPAY"
+    RAZORPAY = "RAZORPAY",
+    ZELLE = "ZELLE",
+    TYGAPAY = "TYGAPAY",
+    ACH = "ACH",
+    WIRE_TRANSFER = "WIRETRANSFER",
+    CREDIT_CARD = "CREDITCARD"
 }
 export declare enum OrderStatusType {
     PENDING = "order-pending",
@@ -38,32 +42,32 @@ export declare enum PaymentStatusType {
     DEFAULT_PAYMENT_STATUS = "payment-pending"
 }
 export declare class Order extends CoreEntity {
-    tracking_number: string;
-    customer_id: number;
+    tracking_number?: string;
+    customer_id?: number;
     customer_contact: string;
-    customer: User;
+    customer?: User;
     parent_order?: Order;
-    children: Order[];
-    status: OrderStatus;
-    order_status: OrderStatusType;
-    payment_status: PaymentStatusType;
+    children?: Order[];
+    status?: any;
+    order_status?: OrderStatusType;
+    payment_status?: PaymentStatusType;
     amount: number;
     sales_tax: number;
-    total: number;
-    paid_total: number;
+    total?: number;
+    paid_total?: number;
     payment_id?: string;
-    payment_gateway: PaymentGatewayType;
+    payment_gateway?: PaymentGatewayType;
     coupon?: Coupon;
-    shop: Shop;
+    shop?: Shop;
     discount?: number;
-    delivery_fee: number;
-    delivery_time: string;
-    products: Product[];
-    billing_address: UserAddress;
-    shipping_address: UserAddress;
-    language: string;
-    translated_languages: string[];
-    payment_intent: PaymentIntent;
+    delivery_fee?: number;
+    delivery_time?: string;
+    products?: Product[];
+    billing_address?: UserAddress;
+    shipping_address?: UserAddress;
+    language?: string;
+    translated_languages?: string[];
+    payment_intent?: PaymentIntent;
     altered_payment_gateway?: string;
 }
 export declare class OrderFiles extends CoreEntity {
