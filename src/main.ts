@@ -2,6 +2,8 @@ import { ValidationPipe } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import { AppModule } from './app.module';
+import * as dotenv from "dotenv";
+dotenv.config({ path: __dirname + "/.env" });
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, { cors: true });
