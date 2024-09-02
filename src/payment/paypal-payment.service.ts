@@ -41,6 +41,8 @@ export class PaypalPaymentService {
         id: id,
       };
     } catch (error) {
+      console.log("process.env.PAYPAL_SECRET_KEY_MAIN", process.env.PAYPAL_SECRET_KEY_MAIN)
+      console.log("process.env.PAYPAL_CLIENT_ID_MAIN", process.env.PAYPAL_CLIENT_ID_MAIN)
       console.log(error);
     }
   }
