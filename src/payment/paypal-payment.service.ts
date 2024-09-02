@@ -12,10 +12,10 @@ export class PaypalPaymentService {
   private paypal: any;
   constructor() {
     this.paypal = Paypal;
-    this.clientId = process.env.PAYPAL_SANDBOX_CLIENT_ID;
-    this.clientSecret = process.env.PAYPAL_SANDBOX_CLIENT_SECRET;
+    this.clientId = process.env.PAYPAL_CLIENT_ID_MAIN;//process.env.PAYPAL_SANDBOX_CLIENT_ID;
+    this.clientSecret = process.env.PAYPAL_SECRET_KEY_MAIN; //process.env.PAYPAL_SANDBOX_CLIENT_SECRET;
     // This sample uses SandboxEnvironment. In production, use LiveEnvironment
-    this.environment = new this.paypal.core.SandboxEnvironment(
+    this.environment = new this.paypal.core.LiveEnvironment(
       this.clientId,
       this.clientSecret,
     );

@@ -39,9 +39,9 @@ const uuid_1 = require("uuid");
 let PaypalPaymentService = class PaypalPaymentService {
     constructor() {
         this.paypal = Paypal;
-        this.clientId = process.env.PAYPAL_SANDBOX_CLIENT_ID;
-        this.clientSecret = process.env.PAYPAL_SANDBOX_CLIENT_SECRET;
-        this.environment = new this.paypal.core.SandboxEnvironment(this.clientId, this.clientSecret);
+        this.clientId = process.env.PAYPAL_CLIENT_ID_MAIN;
+        this.clientSecret = process.env.PAYPAL_SECRET_KEY_MAIN;
+        this.environment = new this.paypal.core.LiveEnvironment(this.clientId, this.clientSecret);
         this.client = new this.paypal.core.PayPalHttpClient(this.environment);
     }
     async createPaymentIntent(order) {
