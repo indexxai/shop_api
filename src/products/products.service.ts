@@ -47,6 +47,7 @@ export class ProductsService {
     const startIndex = (page - 1) * limit;
     const endIndex = page * limit;
     let data: Product[] = this.products;
+    let slugValue = '';
     if (search) {
       const parseSearchParams = search.split(';');
       const searchText: any = [];
@@ -58,6 +59,9 @@ export class ProductsService {
             [key]: value,
           });
         }
+        if(key === "categories.slug"){
+          slugValue = value;
+        }
       }
 
       data = fuse
@@ -66,6 +70,24 @@ export class ProductsService {
         })
         ?.map(({ item }) => item);
     }
+
+    console.log("before data", data.length);
+    if (slugValue) {
+      if (slugValue === 'power-pack') {
+        console.log("true in power")
+        // Filter products where any category's slug is 'power-pack'
+        data = data.filter(product =>
+          product.categories.some(category => category.slug === 'power-pack')
+        );
+      } else if (slugValue === 'token-pack') {
+        console.log("true in token")
+        // Filter products with slug 'token-pack'
+        data = data.filter(product =>
+          product.categories.some(category => category.slug === 'token-pack')
+        );
+      } 
+    }
+    console.log("after data", data.length);
 
     const results = data.slice(startIndex, endIndex);
     const url = `/products?search=${search}&limit=${limit}`;

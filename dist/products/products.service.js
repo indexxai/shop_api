@@ -53,6 +53,7 @@ let ProductsService = class ProductsService {
         const startIndex = (page - 1) * limit;
         const endIndex = page * limit;
         let data = this.products;
+        let slugValue = '';
         if (search) {
             const parseSearchParams = search.split(';');
             const searchText = [];
@@ -63,12 +64,27 @@ let ProductsService = class ProductsService {
                         [key]: value,
                     });
                 }
+                if (key === "categories.slug") {
+                    slugValue = value;
+                }
             }
             data = (_a = fuse
                 .search({
                 $and: searchText,
             })) === null || _a === void 0 ? void 0 : _a.map(({ item }) => item);
         }
+        console.log("before data", data.length);
+        if (slugValue) {
+            if (slugValue === 'power-pack') {
+                console.log("true in power");
+                data = data.filter(product => product.categories.some(category => category.slug === 'power-pack'));
+            }
+            else if (slugValue === 'token-pack') {
+                console.log("true in token");
+                data = data.filter(product => product.categories.some(category => category.slug === 'token-pack'));
+            }
+        }
+        console.log("after data", data.length);
         const results = data.slice(startIndex, endIndex);
         const url = `/products?search=${search}&limit=${limit}`;
         return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
