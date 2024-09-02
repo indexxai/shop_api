@@ -47,7 +47,7 @@ let StripePaymentService = class StripePaymentService {
             return await this.stripeClient.customers.create(createCustomerDto);
         }
         catch (error) {
-            console.log("error");
+            console.log('error');
             console.log(error);
         }
     }
@@ -136,23 +136,28 @@ let StripePaymentService = class StripePaymentService {
         }
     }
     async makePaymentIntentParam(order, me) {
-        const customerList = await this.listAllCustomer();
-        const currentCustomer = customerList.data.find((customer) => customer.email === me.email);
-        if (!currentCustomer) {
-            const newCustomer = await this.createCustomer({
-                email: me.email,
-            });
-            currentCustomer.id = newCustomer.email;
+        try {
+            const customerList = await this.listAllCustomer();
+            const currentCustomer = customerList.data.find((customer) => customer.email === me.email);
+            if (!currentCustomer) {
+                const newCustomer = await this.createCustomer({
+                    email: me.email,
+                });
+                currentCustomer.id = newCustomer.email;
+            }
+            return {
+                customer: currentCustomer.id,
+                amount: Math.ceil(order.paid_total * 100),
+                currency: process.env.DEFAULT_CURRENCY || setting.options.currency,
+                payment_method_types: ['card'],
+                metadata: {
+                    order_tracking_number: order.tracking_number,
+                },
+            };
         }
-        return {
-            customer: currentCustomer.id,
-            amount: Math.ceil(order.paid_total * 100),
-            currency: process.env.DEFAULT_CURRENCY || setting.options.currency,
-            payment_method_types: ['card'],
-            metadata: {
-                order_tracking_number: order.tracking_number,
-            },
-        };
+        catch (error) {
+            console.log('err', error);
+        }
     }
 };
 StripePaymentService = __decorate([
