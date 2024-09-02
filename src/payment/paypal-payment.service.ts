@@ -14,6 +14,8 @@ export class PaypalPaymentService {
     this.paypal = Paypal;
     this.clientId = process.env.PAYPAL_CLIENT_ID_MAIN;//process.env.PAYPAL_SANDBOX_CLIENT_ID;
     this.clientSecret = process.env.PAYPAL_SECRET_KEY_MAIN; //process.env.PAYPAL_SANDBOX_CLIENT_SECRET;
+    console.log("process.env.PAYPAL_SECRET_KEY_MAIN", process.env.PAYPAL_SECRET_KEY_MAIN)
+    console.log("process.env.PAYPAL_CLIENT_ID_MAIN", process.env.PAYPAL_CLIENT_ID_MAIN)
     // This sample uses SandboxEnvironment. In production, use LiveEnvironment
     this.environment = new this.paypal.core.LiveEnvironment(
       this.clientId,
