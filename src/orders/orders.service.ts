@@ -170,13 +170,13 @@ export class OrdersService {
     if (tracking_number) {
       // Fetch order data by tracking number
       let orderResult = await axios.get(
-        `http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`,
+        `https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`,
       );
       data = [orderResult.data.data]; // Assuming API returns a single order
     } else {
       // Fetch all orders data from the external API by email
       let orderResult = await axios.get(
-        `http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`,
+        `https://api.indexx.ai/api/v1/inex/shop/getUserOrders/${email}`,
       );
       data = orderResult.data.data;
     }
@@ -201,7 +201,7 @@ export class OrdersService {
 
   async getOrdersByEmail(email: string): Promise<Order[]> {
     let orderResult = await axios.get(
-      `http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`,
+      `https://api.indexx.ai/api/v1/inex/shop/getUserOrders/${email}`,
     );
     let data: Order[] = orderResult.data;
 
@@ -215,7 +215,7 @@ export class OrdersService {
   async getOrderByIdOrTrackingNumber(id: number): Promise<Order> {
     try {
       let orderResult = await axios.get(
-        `http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`,
+        `https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`,
       );
       let data: Order = orderResult.data;
 
