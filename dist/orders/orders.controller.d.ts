@@ -13,6 +13,7 @@ export declare class OrdersController {
     constructor(ordersService: OrdersService);
     create(createOrderDto: CreateOrderDto): Promise<Order>;
     getOrders(query: GetOrdersDto): Promise<OrderPaginator>;
+    getOrdersByEmail(email: string): Promise<Order[]>;
     getOrderById(id: number): Promise<Order>;
     getOrderByTrackingNumber(tracking_id: number): Promise<Order>;
     update(id: string, updateOrderDto: UpdateOrderDto): Order;

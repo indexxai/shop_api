@@ -34,6 +34,9 @@ let OrdersController = class OrdersController {
     async getOrders(query) {
         return this.ordersService.getOrders(query);
     }
+    async getOrdersByEmail(email) {
+        return this.ordersService.getOrdersByEmail(String(email));
+    }
     getOrderById(id) {
         return this.ordersService.getOrderByIdOrTrackingNumber(Number(id));
     }
@@ -80,6 +83,14 @@ __decorate([
     __metadata("design:paramtypes", [get_orders_dto_1.GetOrdersDto]),
     __metadata("design:returntype", Promise)
 ], OrdersController.prototype, "getOrders", null);
+__decorate([
+    (0, common_1.Get)(':email'),
+    openapi.ApiResponse({ status: 200, type: [require("./entities/order.entity").Order] }),
+    __param(0, (0, common_1.Param)('email')),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", [String]),
+    __metadata("design:returntype", Promise)
+], OrdersController.prototype, "getOrdersByEmail", null);
 __decorate([
     (0, common_1.Get)(':id'),
     openapi.ApiResponse({ status: 200, type: require("./entities/order.entity").Order }),

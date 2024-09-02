@@ -35,6 +35,11 @@ export class OrdersController {
     return this.ordersService.getOrders(query);
   }
 
+  @Get(':email')
+  async getOrdersByEmail(@Param('email') email:string): Promise<Order[]> {
+    return this.ordersService.getOrdersByEmail(String(email));
+  }
+
   @Get(':id')
   getOrderById(@Param('id') id: number) {
     return this.ordersService.getOrderByIdOrTrackingNumber(Number(id));

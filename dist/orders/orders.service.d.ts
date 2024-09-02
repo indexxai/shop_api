@@ -24,7 +24,8 @@ export declare class OrdersService {
     private setting;
     constructor(authService: AuthService, stripeService: StripePaymentService, paypalService: PaypalPaymentService, tygaPayPayentService: TygaPayPayentService);
     create(createOrderInput: CreateOrderDto): Promise<Order>;
-    getOrders({ limit, page, customer_id, tracking_number, search, shop_id, }: GetOrdersDto): Promise<OrderPaginator>;
+    getOrders({ limit, page, customer_id, tracking_number, search, shop_id, email, }: GetOrdersDto): Promise<OrderPaginator>;
+    getOrdersByEmail(email: string): Promise<Order[]>;
     getOrderByIdOrTrackingNumber(id: number): Promise<Order>;
     getOrderStatuses({ limit, page, search, orderBy, }: GetOrderStatusesDto): OrderStatusPaginator;
     getOrderStatus(param: string, language: string): OrderStatus;

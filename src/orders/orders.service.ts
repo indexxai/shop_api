@@ -156,33 +156,70 @@ export class OrdersService {
     tracking_number,
     search,
     shop_id,
+    email,
   }: GetOrdersDto): Promise<OrderPaginator> {
     if (!page) page = 1;
     if (!limit) limit = 15;
     const startIndex = (page - 1) * limit;
     const endIndex = page * limit;
 
-    let data: Order[] = this.orders;
-
-    if (shop_id && shop_id !== 'undefined') {
-      data = this.orders?.filter((p) => p?.shop?.id === Number(shop_id));
+    let data: Order[];
+    console.log('tracking_numer', tracking_number);
+    console.log('email', email);
+    // Check if tracking_number is provided
+    if (tracking_number) {
+      // Fetch order data by tracking number
+      let orderResult = await axios.get(
+        `http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`,
+      );
+      data = [orderResult.data.data]; // Assuming API returns a single order
+    } else {
+      // Fetch all orders data from the external API by email
+      let orderResult = await axios.get(
+        `http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`,
+      );
+      data = orderResult.data.data;
     }
-    const results = data.slice(startIndex, endIndex);
+
+    // Filter by shop_id if provided
+    if (shop_id && shop_id !== 'undefined') {
+      data = data.filter((p) => p?.shop?.id === Number(shop_id));
+    }
+
+    // Apply limit and pagination by slicing the data
+    const paginatedResults = data.slice(startIndex, endIndex);
+
+    // Construct the URL for pagination (if needed)
     const url = `/orders?search=${search}&limit=${limit}`;
+
+    // Return the paginated results with pagination information
     return {
-      data: results,
-      ...paginate(data.length, page, limit, results.length, url),
+      data: paginatedResults,
+      ...paginate(data.length, page, limit, paginatedResults.length, url),
     };
+  }
+
+  async getOrdersByEmail(email: string): Promise<Order[]> {
+    let orderResult = await axios.get(
+      `http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`,
+    );
+    let data: Order[] = orderResult.data;
+
+    try {
+      return data;
+    } catch (error) {
+      console.log(error);
+    }
   }
 
   async getOrderByIdOrTrackingNumber(id: number): Promise<Order> {
     try {
-      return (
-        this.orders.find(
-          (o: Order) =>
-            o.id === Number(id) || o.tracking_number === id.toString(),
-        ) ?? this.orders[0]
+      let orderResult = await axios.get(
+        `http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`,
       );
+      let data: Order = orderResult.data;
+
+      return data;
     } catch (error) {
       console.log(error);
     }

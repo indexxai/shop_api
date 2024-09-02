@@ -11,4 +11,5 @@ export declare class GetOrdersDto extends PaginationArgs {
     customer_id?: number;
     shop_id?: string;
     search?: string;
+    email?: string;
 }

@@ -12,7 +12,7 @@ class OrderPaginator extends paginator_dto_1.Paginator {
 exports.OrderPaginator = OrderPaginator;
 class GetOrdersDto extends pagination_args_dto_1.PaginationArgs {
     static _OPENAPI_METADATA_FACTORY() {
-        return { tracking_number: { required: false, type: () => String }, orderBy: { required: false, type: () => String }, sortedBy: { required: false, type: () => String }, customer_id: { required: false, type: () => Number }, shop_id: { required: false, type: () => String }, search: { required: false, type: () => String } };
+        return { tracking_number: { required: false, type: () => String }, orderBy: { required: false, type: () => String }, sortedBy: { required: false, type: () => String }, customer_id: { required: false, type: () => Number }, shop_id: { required: false, type: () => String }, search: { required: false, type: () => String }, email: { required: false, type: () => String } };
     }
 }
 exports.GetOrdersDto = GetOrdersDto;

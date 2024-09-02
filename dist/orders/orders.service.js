@@ -111,26 +111,46 @@ let OrdersService = class OrdersService {
             return order;
         }
     }
-    async getOrders({ limit, page, customer_id, tracking_number, search, shop_id, }) {
-        var _a;
+    async getOrders({ limit, page, customer_id, tracking_number, search, shop_id, email, }) {
         if (!page)
             page = 1;
         if (!limit)
             limit = 15;
         const startIndex = (page - 1) * limit;
         const endIndex = page * limit;
-        let data = this.orders;
-        if (shop_id && shop_id !== 'undefined') {
-            data = (_a = this.orders) === null || _a === void 0 ? void 0 : _a.filter((p) => { var _a; return ((_a = p === null || p === void 0 ? void 0 : p.shop) === null || _a === void 0 ? void 0 : _a.id) === Number(shop_id); });
+        let data;
+        console.log("tracking_numer", tracking_number);
+        console.log("email", email);
+        if (tracking_number) {
+            let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`);
+            data = [orderResult.data.data];
         }
-        const results = data.slice(startIndex, endIndex);
+        else {
+            let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`);
+            data = orderResult.data.data;
+        }
+        if (shop_id && shop_id !== 'undefined') {
+            data = data.filter((p) => { var _a; return ((_a = p === null || p === void 0 ? void 0 : p.shop) === null || _a === void 0 ? void 0 : _a.id) === Number(shop_id); });
+        }
+        const paginatedResults = data.slice(startIndex, endIndex);
         const url = `/orders?search=${search}&limit=${limit}`;
-        return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
+        return Object.assign({ data: paginatedResults }, (0, paginate_1.paginate)(data.length, page, limit, paginatedResults.length, url));
+    }
+    async getOrdersByEmail(email) {
+        let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`);
+        let data = orderResult.data;
+        try {
+            return data;
+        }
+        catch (error) {
+            console.log(error);
+        }
     }
     async getOrderByIdOrTrackingNumber(id) {
-        var _a;
         try {
-            return ((_a = this.orders.find((o) => o.id === Number(id) || o.tracking_number === id.toString())) !== null && _a !== void 0 ? _a : this.orders[0]);
+            let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`);
+            let data = orderResult.data;
+            return data;
         }
         catch (error) {
             console.log(error);
