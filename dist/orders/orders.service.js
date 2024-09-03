@@ -119,14 +119,14 @@ let OrdersService = class OrdersService {
         const startIndex = (page - 1) * limit;
         const endIndex = page * limit;
         let data;
-        console.log("tracking_numer", tracking_number);
-        console.log("email", email);
+        console.log('tracking_numer', tracking_number);
+        console.log('email', email);
         if (tracking_number) {
-            let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`);
+            let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`);
             data = [orderResult.data.data];
         }
         else {
-            let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`);
+            let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrders/${email}`);
             data = orderResult.data.data;
         }
         if (shop_id && shop_id !== 'undefined') {
@@ -137,7 +137,7 @@ let OrdersService = class OrdersService {
         return Object.assign({ data: paginatedResults }, (0, paginate_1.paginate)(data.length, page, limit, paginatedResults.length, url));
     }
     async getOrdersByEmail(email) {
-        let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrders/${email}`);
+        let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrders/${email}`);
         let data = orderResult.data;
         try {
             return data;
@@ -148,7 +148,7 @@ let OrdersService = class OrdersService {
     }
     async getOrderByIdOrTrackingNumber(id) {
         try {
-            let orderResult = await axios_1.default.get(`http://localhost:5000/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`);
+            let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`);
             let data = orderResult.data;
             return data;
         }

@@ -11,6 +11,7 @@ export class TygaPayPayentService {
       '4db73b8d5997857aad795408f3cb15d9738ddbf1114167d0ce6e0954c487c5d0';
 
     const service = new TygaPayService(apiKey, apiSecret);
+    const redirectUrl = process.env.SHOP_URL || 'http://localhost:3003';
 
     // 2. POST EXAMPLE
     const order = await service.createOrder({
@@ -19,7 +20,7 @@ export class TygaPayPayentService {
       email: email,
       amount: amount,
       notifyUrl: 'https://api.indexx.ai/api/v1/inex/order/paypalWebhook',
-      returnUrl: `{redirectUrl}/orders/${orderId}/payment`,
+      returnUrl: `${redirectUrl}/orders/${orderId}/payment`,
     }) as any;
     console.log(order);
     // Transform the response to match the required format
