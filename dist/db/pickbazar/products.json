@@ -4808,8 +4808,8 @@
         "shop_id": 6,
         "sale_price": 1000,
         "language": "en",
-        "min_price": 1000,
-        "max_price": 1000,
+        "min_price": 50,
+        "max_price": 10000,
         "sku": "1",
         "quantity": 18,
         "in_stock": 1,
@@ -4971,9 +4971,9 @@
         },
         "variations": [
             {
-                "id": 8,
+                "id": 50,
                 "attribute_id": 3,
-                "value": "12oz",
+                "value": "50",
                 "attribute": {
                     "id": 3,
                     "slug": "available-in",
@@ -4998,9 +4998,9 @@
                 }
             },
             {
-                "id": 9,
+                "id": 100,
                 "attribute_id": 3,
-                "value": "24oz",
+                "value": "100",
                 "attribute": {
                     "id": 3,
                     "slug": "available-in",
@@ -5025,9 +5025,144 @@
                 }
             },
             {
-                "id": 10,
+                "id": 300,
                 "attribute_id": 3,
-                "value": "36oz",
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "12oz"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "24oz"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "36oz"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "12oz"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "24oz"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "36oz"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "12oz"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "24oz"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "36oz"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2000,
+                "attribute_id": 3,
+                "value": "2000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "12oz"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "24oz"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "36oz"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 4000,
+                "attribute_id": 3,
+                "value": "4000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "12oz"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "24oz"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "36oz"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10000,
+                "attribute_id": 3,
+                "value": "10000",
                 "attribute": {
                     "id": 3,
                     "slug": "available-in",
