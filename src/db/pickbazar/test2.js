@@ -33,6 +33,20 @@ function updateDescriptions(data) {
         });
         break;
 
+        case 'Carnival':
+          // Add descriptions for "Greeting" category as a new property 'description'
+          item.description = "A perfect way to celebrate every occasion with future investments.";
+          
+          // Add descriptions to the children of "Greeting"
+          item.children.forEach(child => {
+            if (child.name === 'Bonus') {
+              child.description = " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure.";
+            } else if (child.name === 'INEX Pre-Sale') {
+              child.description = " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure.";
+            }
+          });
+          break;
+
       case 'Hive Pack':
         // Add descriptions for "Hive Pack" category as a new property 'description'
         item.description = "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!";
