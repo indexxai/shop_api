@@ -9,7 +9,9 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": ["en"],
+        "translated_languages": [
+            "en"
+        ],
         "parent": null,
         "type_id": 1,
         "updated_at": "2024-08-21T07:21:31.000Z",
@@ -19,7 +21,9 @@
             "id": 1,
             "name": "Gift",
             "language": "en",
-            "translated_languages": ["en"],
+            "translated_languages": [
+                "en"
+            ],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -73,7 +77,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 1,
                     "name": "Gift",
@@ -82,7 +88,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2024-08-21-T07:21:31.000000Z",
@@ -98,7 +106,8 @@
                 "deleted_at": null,
                 "products_count": 9,
                 "parent_id": 1,
-                "children": []
+                "children": [],
+                "description": "The Gift of the Future! The Indexx Gift Card can be redeemed for our stable coin, IUSD+, and traded for any cryptocurrency on our platform. Give the ultimate flexible and valuable gift in the crypto space."
             },
             {
                 "id": 3,
@@ -112,7 +121,9 @@
                 },
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 1,
                     "name": "Gift",
@@ -121,7 +132,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T07:22:04.000000Z",
@@ -137,10 +150,12 @@
                 "deleted_at": null,
                 "products_count": 11,
                 "parent_id": 1,
-                "children": []
+                "children": [],
+                "description": "Introduce your loved ones to the world of crypto with the Indexx Gift Pack. This innovative gift includes a balanced mix of two Indexx cryptocurrencies, offering a unique and thoughtful way to start a crypto journey."
             }
         ],
-        "created_at": "2024-08-22T17:09:45.535Z"
+        "created_at": "2024-08-22T17:09:45.535Z",
+        "description": "Gift your loved ones with future assets in the crypto space."
     },
     {
         "products_count": 0,
@@ -152,7 +167,9 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": ["en"],
+        "translated_languages": [
+            "en"
+        ],
         "parent": null,
         "type_id": 1,
         "updated_at": "2024-08-21T07:21:31.000Z",
@@ -162,7 +179,9 @@
             "id": 1,
             "name": "Greeting",
             "language": "en",
-            "translated_languages": ["en"],
+            "translated_languages": [
+                "en"
+            ],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -216,7 +235,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 4,
                     "name": "Greeting Cards",
@@ -225,7 +246,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2024-08-21-T07:21:31.000000Z",
@@ -241,7 +264,8 @@
                 "deleted_at": null,
                 "products_count": 5,
                 "parent_id": 4,
-                "children": []
+                "children": [],
+                "description": "Out of gift ideas? Our Indexx Greeting Cards are perfect for any occasion. More than a card, it's the gift of the future. Invest in your child's future today—like your kids, their assets will grow too!"
             },
             {
                 "id": 6,
@@ -251,7 +275,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 4,
                     "name": "Greeting Cards",
@@ -260,7 +286,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T08:54:16.000000Z",
@@ -276,10 +304,12 @@
                 "deleted_at": null,
                 "products_count": 5,
                 "parent_id": 4,
-                "children": []
+                "children": [],
+                "description": "Surprise someone special with the gift of the future on their big day. Our Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. It's more than a gift; it's a growing investment in their future."
             }
         ],
-        "created_at": "2024-08-22T17:09:45.541Z"
+        "created_at": "2024-08-22T17:09:45.541Z",
+        "description": "A perfect way to celebrate every occasion with future investments."
     },
     {
         "products_count": 0,
@@ -291,7 +321,9 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": ["en"],
+        "translated_languages": [
+            "en"
+        ],
         "parent": null,
         "type_id": 1,
         "created_at": "2021-03-08T08:55:56.000Z",
@@ -302,7 +334,9 @@
             "id": 1,
             "name": "Carnival",
             "language": "en",
-            "translated_languages": ["en"],
+            "translated_languages": [
+                "en"
+            ],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -356,7 +390,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 7,
                     "name": "Carnival",
@@ -365,7 +401,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T08:55:56.000000Z",
@@ -391,7 +429,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 7,
                     "name": "Carnival",
@@ -400,7 +440,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T08:55:56.000000Z",
@@ -430,7 +472,9 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": ["en"],
+        "translated_languages": [
+            "en"
+        ],
         "parent": null,
         "type_id": 1,
         "created_at": "2021-03-08T09:47:41.000Z",
@@ -441,7 +485,9 @@
             "id": 1,
             "name": "Hive Pack",
             "language": "en",
-            "translated_languages": ["en"],
+            "translated_languages": [
+                "en"
+            ],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -495,7 +541,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -504,7 +552,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -520,7 +570,8 @@
                 "deleted_at": null,
                 "products_count": 7,
                 "parent_id": 13,
-                "children": []
+                "children": [],
+                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
             },
             {
                 "id": 16,
@@ -530,7 +581,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -539,7 +592,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -555,7 +610,8 @@
                 "deleted_at": null,
                 "products_count": 7,
                 "parent_id": 13,
-                "children": []
+                "children": [],
+                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
             },
             {
                 "id": 17,
@@ -565,7 +621,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -574,7 +632,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -590,7 +650,8 @@
                 "deleted_at": null,
                 "products_count": 4,
                 "parent_id": 13,
-                "children": []
+                "children": [],
+                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
             },
             {
                 "id": 17,
@@ -600,7 +661,9 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": ["en"],
+                "translated_languages": [
+                    "en"
+                ],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -609,7 +672,9 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": ["en"],
+                    "translated_languages": [
+                        "en"
+                    ],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -625,8 +690,10 @@
                 "deleted_at": null,
                 "products_count": 4,
                 "parent_id": 13,
-                "children": []
+                "children": [],
+                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
             }
-        ]
+        ],
+        "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
     }
 ]
