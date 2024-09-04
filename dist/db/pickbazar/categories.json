@@ -419,48 +419,11 @@
                 "deleted_at": null,
                 "products_count": 20,
                 "parent_id": 7,
-                "children": []
-            },
-            {
-                "id": 9,
-                "name": "INEX Pre-Sale",
-                "slug": "inex-pre-sale",
-                "icon": null,
-                "image": [],
-                "details": null,
-                "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
-                "parent": {
-                    "id": 7,
-                    "name": "Carnival",
-                    "slug": "carnival",
-                    "icon": "Carnival",
-                    "image": [],
-                    "details": null,
-                    "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
-                    "parent": null,
-                    "type_id": 1,
-                    "created_at": "2021-03-08T08:55:56.000000Z",
-                    "updated_at": "2021-03-08T08:55:56.000000Z",
-                    "deleted_at": null,
-                    "parent_id": null,
-                    "type": null,
-                    "children": null
-                },
-                "type_id": 1,
-                "created_at": "2021-03-08T08:58:44.000000Z",
-                "updated_at": "2021-03-08T08:58:44.000000Z",
-                "deleted_at": null,
-                "products_count": 12,
-                "parent_id": 7,
-                "children": []
+                "children": [],
+                "description": " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure."
             }
-        ]
+        ],
+        "description": "A perfect way to celebrate every occasion with future investments."
     },
     {
         "products_count": 0,

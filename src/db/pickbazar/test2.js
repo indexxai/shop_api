@@ -41,9 +41,10 @@ function updateDescriptions(data) {
           item.children.forEach(child => {
             if (child.name === 'Bonus') {
               child.description = " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure.";
-            } else if (child.name === 'INEX Pre-Sale') {
-              child.description = " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure.";
-            }
+            } 
+            // else if (child.name === 'INEX Pre-Sale') {
+            //   child.description = " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure.";
+            // }
           });
           break;
 
