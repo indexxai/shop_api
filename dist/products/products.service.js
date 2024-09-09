@@ -85,10 +85,12 @@ let ProductsService = class ProductsService {
             }
         }
         console.log('after data', data.length);
-        data.sort((a, b) => a.name.localeCompare(b.name, undefined, {
-            numeric: true,
-            sensitivity: 'base',
-        }));
+        if (slugValue) {
+            data.sort((a, b) => a.name.localeCompare(b.name, undefined, {
+                numeric: true,
+                sensitivity: 'base',
+            }));
+        }
         const results = data.slice(startIndex, endIndex);
         const url = `/products?search=${search}&limit=${limit}`;
         return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));

@@ -88,7 +88,7 @@ export class ProductsService {
       }
     }
     console.log('after data', data.length);
-
+    if (slugValue) {
     // Sort the data by the `name` property using natural sorting
     data.sort((a, b) =>
       a.name.localeCompare(b.name, undefined, {
@@ -96,6 +96,7 @@ export class ProductsService {
         sensitivity: 'base',
       }),
     );
+  }
 
     const results = data.slice(startIndex, endIndex);
     const url = `/products?search=${search}&limit=${limit}`;
