@@ -95,7 +95,7 @@ let OrdersService = class OrdersService {
                 order.payment_intent = paymentIntent;
             }
             try {
-                const results = await axios_1.default.post('http://localhost:5000/api/v1/inex/shop/createOrder', Object.assign({}, order));
+                const results = await axios_1.default.post('https://api.indexx.ai/api/v1/inex/shop/createOrder', Object.assign({}, order));
                 console.log('Order data sent to API:', results.data);
             }
             catch (error) {

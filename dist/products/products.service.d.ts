@@ -12,7 +12,7 @@ export declare class ProductsService {
     getProducts({ limit, page, search }: GetProductsDto): ProductPaginator;
     getProductBySlug(slug: string): Product;
     getPopularProducts({ limit, type_slug }: GetPopularProductsDto): Product[];
-    getBestSellingProducts({ limit, type_slug }: GetBestSellingProductsDto): Product[];
+    getBestSellingProducts({ limit, type_slug, }: GetBestSellingProductsDto): Product[];
     getProductsStock({ limit, page, search }: GetProductsDto): ProductPaginator;
     getDraftProducts({ limit, page, search }: GetProductsDto): ProductPaginator;
     update(id: number, updateProductDto: UpdateProductDto): any;

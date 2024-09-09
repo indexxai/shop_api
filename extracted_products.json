@@ -1,0 +1,202 @@
+[
+    {
+        "slug": "gift-card-50",
+        "name": "Gift Card $50"
+    },
+    {
+        "slug": "gift-card-100",
+        "name": "Gift Card $100"
+    },
+    {
+        "slug": "gift-card-200",
+        "name": "Gift Card $200"
+    },
+    {
+        "slug": "gift-card-300",
+        "name": "Gift Card $300"
+    },
+    {
+        "slug": "gift-card-400",
+        "name": "Gift Card $400"
+    },
+    {
+        "slug": "gift-card-500",
+        "name": "Gift Card $500"
+    },
+    {
+        "slug": "gift-card-800",
+        "name": "Gift Card $800"
+    },
+    {
+        "slug": "gift-card-1000",
+        "name": "Gift Card $1000"
+    },
+    {
+        "slug": "gift-pack-btc-inex-wibs-1",
+        "name": "Bitcoin + INEX & WIBS"
+    },
+    {
+        "slug": "gift-pack-btc-inex-iusdp-1",
+        "name": "Bitcoin + INEX & IUSD+"
+    },
+    {
+        "slug": "gift-pack-btc-inex-iusdp-1",
+        "name": "Bitcoin + INEX & IUSD+"
+    },
+    {
+        "slug": "gift-pack-btc-inex-1",
+        "name": "Bitcoin + INEX"
+    },
+    {
+        "slug": "gift-pack-btc-wibs-1",
+        "name": "Bitcoin + WIBS"
+    },
+    {
+        "slug": "gift-pack-btc-iusdp-1",
+        "name": "Bitcoin + IUSD+"
+    },
+    {
+        "slug": "gift-pack-btc-in500-1",
+        "name": "Bitcoin + IN500"
+    },
+    {
+        "slug": "gift-pack-btc-fantasy-lotto-tckt-1",
+        "name": "Bitcoin + Fantasy Lotto Ticket"
+    },
+    {
+        "slug": "bonus-card-50",
+        "name": "Bonus Card $50"
+    },
+    {
+        "slug": "bonus-card-100",
+        "name": "Bonus Card $100"
+    },
+    {
+        "slug": "bonus-card-150",
+        "name": "Bonus Card $150"
+    },
+    {
+        "slug": "bonus-card-250",
+        "name": "Bonus Card $250"
+    },
+    {
+        "slug": "greetings-card-8",
+        "name": "Birthday Card 8"
+    },
+    {
+        "slug": "greetings-card-9",
+        "name": "Birthday Card 9"
+    },
+    {
+        "slug": "greetings-card-10",
+        "name": "Birthday Card 10"
+    },
+    {
+        "slug": "greetings-card-11",
+        "name": "Birthday Card 11"
+    },
+    {
+        "slug": "greetings-card-12",
+        "name": "Birthday Card 12"
+    },
+    {
+        "slug": "greetings-card-13",
+        "name": "Birthday Card 13"
+    },
+    {
+        "slug": "greetings-card-3",
+        "name": "Birthday Card 3"
+    },
+    {
+        "slug": "greetings-card-14",
+        "name": "Birthday Card 14"
+    },
+    {
+        "slug": "greetings-card-15",
+        "name": "Birthday Card 15"
+    },
+    {
+        "slug": "greetings-card-16",
+        "name": "Birthday Card 16"
+    },
+    {
+        "slug": "greetings-card-17",
+        "name": "Birthday Card 17"
+    },
+    {
+        "slug": "greetings-card-18",
+        "name": "Birthday Card 18"
+    },
+    {
+        "slug": "greetings-card-19",
+        "name": "Birthday Card 19"
+    },
+    {
+        "slug": "greetings-card-20",
+        "name": "Birthday Card 20"
+    },
+    {
+        "slug": "greetings-card-21",
+        "name": "Birthday Card 21"
+    },
+    {
+        "slug": "greetings-card-22",
+        "name": "Birthday Card 22"
+    },
+    {
+        "slug": "greetings-card-23",
+        "name": "Birthday Card 23"
+    },
+    {
+        "slug": "greetings-card-24",
+        "name": "Birthday Card 24"
+    },
+    {
+        "slug": "greetings-card-4",
+        "name": "Birthday Card 4"
+    },
+    {
+        "slug": "greetings-card-2",
+        "name": "Birthday Card 2"
+    },
+    {
+        "slug": "greetings-card-6",
+        "name": "Birthday Card 6"
+    },
+    {
+        "slug": "greetings-card-7",
+        "name": "Birthday Card 7"
+    },
+    {
+        "slug": "greetings-card-5",
+        "name": "Birthday Card 5"
+    },
+    {
+        "slug": "greetings-card-gc-2",
+        "name": "Greeting Card 2"
+    },
+    {
+        "slug": "greetings-card-gc-1",
+        "name": "Greeting Card 1"
+    },
+    {
+        "slug": "greetings-card-gc-3",
+        "name": "Greeting Card 3"
+    },
+    {
+        "slug": "action-pack",
+        "name": "Action Pack"
+    },
+    {
+        "slug": "crypto-pack",
+        "name": "Crypto Pack"
+    },
+    {
+        "slug": "power-pack",
+        "name": "Power Pack"
+    },
+    {
+        "slug": "token-pack",
+        "name": "Token Pack"
+    }
+]

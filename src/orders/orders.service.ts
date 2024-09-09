@@ -128,7 +128,7 @@ export class OrdersService {
       // Pass all order data to your API
       try {
         const results = await axios.post(
-          'http://localhost:5000/api/v1/inex/shop/createOrder',
+          'https://api.indexx.ai/api/v1/inex/shop/createOrder',
           {
             ...order, // Pass any other order data returned by the API
           },

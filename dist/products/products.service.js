@@ -64,7 +64,7 @@ let ProductsService = class ProductsService {
                         [key]: value,
                     });
                 }
-                if (key === "categories.slug") {
+                if (key === 'categories.slug') {
                     slugValue = value;
                 }
             }
@@ -73,18 +73,22 @@ let ProductsService = class ProductsService {
                 $and: searchText,
             })) === null || _a === void 0 ? void 0 : _a.map(({ item }) => item);
         }
-        console.log("before data", data.length);
+        console.log('before data', data.length);
         if (slugValue) {
             if (slugValue === 'power-pack') {
-                console.log("true in power");
-                data = data.filter(product => product.categories.some(category => category.slug === 'power-pack'));
+                console.log('true in power');
+                data = data.filter((product) => product.categories.some((category) => category.slug === 'power-pack'));
             }
             else if (slugValue === 'token-pack') {
-                console.log("true in token");
-                data = data.filter(product => product.categories.some(category => category.slug === 'token-pack'));
+                console.log('true in token');
+                data = data.filter((product) => product.categories.some((category) => category.slug === 'token-pack'));
             }
         }
-        console.log("after data", data.length);
+        console.log('after data', data.length);
+        data.sort((a, b) => a.name.localeCompare(b.name, undefined, {
+            numeric: true,
+            sensitivity: 'base',
+        }));
         const results = data.slice(startIndex, endIndex);
         const url = `/products?search=${search}&limit=${limit}`;
         return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
@@ -104,7 +108,7 @@ let ProductsService = class ProductsService {
         }
         return data === null || data === void 0 ? void 0 : data.slice(0, limit);
     }
-    getBestSellingProducts({ limit, type_slug }) {
+    getBestSellingProducts({ limit, type_slug, }) {
         var _a;
         let data = this.bestSellingProducts;
         if (type_slug) {

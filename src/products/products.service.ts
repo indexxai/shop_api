@@ -59,7 +59,7 @@ export class ProductsService {
             [key]: value,
           });
         }
-        if(key === "categories.slug"){
+        if (key === 'categories.slug') {
           slugValue = value;
         }
       }
@@ -71,23 +71,31 @@ export class ProductsService {
         ?.map(({ item }) => item);
     }
 
-    console.log("before data", data.length);
+    console.log('before data', data.length);
     if (slugValue) {
       if (slugValue === 'power-pack') {
-        console.log("true in power")
+        console.log('true in power');
         // Filter products where any category's slug is 'power-pack'
-        data = data.filter(product =>
-          product.categories.some(category => category.slug === 'power-pack')
+        data = data.filter((product) =>
+          product.categories.some((category) => category.slug === 'power-pack'),
         );
       } else if (slugValue === 'token-pack') {
-        console.log("true in token")
+        console.log('true in token');
         // Filter products with slug 'token-pack'
-        data = data.filter(product =>
-          product.categories.some(category => category.slug === 'token-pack')
+        data = data.filter((product) =>
+          product.categories.some((category) => category.slug === 'token-pack'),
         );
-      } 
+      }
     }
-    console.log("after data", data.length);
+    console.log('after data', data.length);
+
+    // Sort the data by the `name` property using natural sorting
+    data.sort((a, b) =>
+      a.name.localeCompare(b.name, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    );
 
     const results = data.slice(startIndex, endIndex);
     const url = `/products?search=${search}&limit=${limit}`;
@@ -115,7 +123,10 @@ export class ProductsService {
     }
     return data?.slice(0, limit);
   }
-  getBestSellingProducts({ limit, type_slug }: GetBestSellingProductsDto): Product[] {
+  getBestSellingProducts({
+    limit,
+    type_slug,
+  }: GetBestSellingProductsDto): Product[] {
     let data: any = this.bestSellingProducts;
     if (type_slug) {
       data = fuse.search(type_slug)?.map(({ item }) => item);
