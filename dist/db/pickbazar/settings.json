@@ -101,7 +101,8 @@
             { "name": "tygapay", "title": "TygaPay" },
             { "name": "ach", "title": "ACH" },
             { "name": "wiretransfer", "title": "Wire transfer" },
-            { "name": "creditcard", "title": "Credit Card" }
+            { "name": "creditcard", "title": "Credit Card" },
+            { "name": "venmo", "title": "Venmo" }
         ],
         "currencyOptions": {
             "formation": "en-US",

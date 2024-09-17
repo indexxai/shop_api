@@ -1,20 +1,20 @@
 const { v4: uuidv4 } = require('uuid');
 const fs = require('fs');
 
-function generateProducts(num) {
+function generateProducts(num, start = 11) {
     const products = [];
     // URLs for new images
     const imageUrls = [
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas1.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas2.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas3.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas4.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas5.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks1.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks2.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks3.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks4.png',
-        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks5.png'
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas6.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas7.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas8.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas9.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas10.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal1.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal2.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal3.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal4.png',
+        'https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal5.png'
     ];
 
     const template = {
@@ -199,7 +199,9 @@ function generateProducts(num) {
             }
         ]
     };
-    for (let i = 0; i < num; i++) {
+    
+    // Start loop from the provided start value
+    for (let i = start; i < start + num; i++) {
         const newProduct = JSON.parse(JSON.stringify(template));
         const url = imageUrls[i % imageUrls.length]; // Cyclically use the image URLs
         newProduct._id = uuidv4();
@@ -218,9 +220,10 @@ function generateProducts(num) {
     return products;
 }
 
-const products = generateProducts(10);
+// Call the function to generate 10 products, starting from 11
+const products = generateProducts(10, 11);
 
 // Save to a JSON file
 fs.writeFileSync('products_seasonal.json', JSON.stringify(products, null, 2), 'utf8');
 
-console.log('Products saved to products.json');
+console.log('Products saved to products_seasonal_new.json');

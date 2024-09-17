@@ -16,6 +16,7 @@ var PaymentGatewayType;
     PaymentGatewayType["ACH"] = "ACH";
     PaymentGatewayType["WIRE_TRANSFER"] = "WIRETRANSFER";
     PaymentGatewayType["CREDIT_CARD"] = "CREDITCARD";
+    PaymentGatewayType["VENMO"] = "VENMO";
 })(PaymentGatewayType = exports.PaymentGatewayType || (exports.PaymentGatewayType = {}));
 var OrderStatusType;
 (function (OrderStatusType) {

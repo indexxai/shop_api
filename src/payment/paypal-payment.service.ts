@@ -74,7 +74,7 @@ export class PaypalPaymentService {
         {
           amount: {
             currency_code: 'USD',
-            value: 56,
+            value: order.amount,
           },
           description: `Order From ${order.customer_contact}`,
           reference_id: order.tracking_number.toString(),

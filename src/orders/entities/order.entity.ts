@@ -18,7 +18,8 @@ export enum PaymentGatewayType {
   TYGAPAY = 'TYGAPAY',
   ACH = 'ACH',
   WIRE_TRANSFER = 'WIRETRANSFER',
-  CREDIT_CARD = 'CREDITCARD'
+  CREDIT_CARD = 'CREDITCARD',
+  VENMO = 'VENMO'
 }
 
 export enum OrderStatusType {

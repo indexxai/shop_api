@@ -70,6 +70,46 @@
     },
     "children": [
       {
+        "id": 9,
+        "name": "Crypto Gift Cards",
+        "slug": "crypto-gift-cards",
+        "icon": null,
+        "image": [],
+        "details": null,
+        "language": "en",
+        "translated_languages": [
+          "en"
+        ],
+        "parent": {
+          "id": 1,
+          "name": "Gift",
+          "slug": "gift",
+          "icon": "Gift",
+          "image": [],
+          "details": null,
+          "language": "en",
+          "translated_languages": [
+            "en"
+          ],
+          "parent": null,
+          "type_id": 1,
+          "created_at": "2024-08-21-T07:21:31.000000Z",
+          "updated_at": "2024-08-21T07:21:31.000000Z",
+          "deleted_at": null,
+          "parent_id": null,
+          "type": null,
+          "children": null
+        },
+        "type_id": 1,
+        "created_at": "2021-03-08T07:22:04.000000Z",
+        "updated_at": "2021-03-08T07:22:04.000000Z",
+        "deleted_at": null,
+        "products_count": 9,
+        "parent_id": 1,
+        "children": [],
+        "description": "The Gift of the Future! The Indexx Gift Card can be redeemed for our stable coin, IUSD+, and traded for any cryptocurrency on our platform. Give the ultimate flexible and valuable gift in the crypto space."
+      },
+      {
         "id": 2,
         "name": "Gift Cards",
         "slug": "gift-cards",

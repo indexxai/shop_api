@@ -58,10 +58,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "7a6e90e6-47a5-4f6b-8607-91aafa5802ba",
-    "id": "p0",
-    "name": "Seasonal Card 0",
-    "slug": "seasonal-card-0",
+    "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+    "id": "p11",
+    "name": "Seasonal Card 11",
+    "slug": "seasonal-card-11",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -70,8 +70,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "0",
-    "quantity": 70,
+    "sku": "11",
+    "quantity": 19,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -83,8 +83,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas1.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas1.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas7.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas7.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -92,8 +92,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas1.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas1.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas7.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas7.png"
       }
     ],
     "deleted_at": null,
@@ -246,10 +246,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "e49a0e01-38cc-4613-94a7-4da282d71ffc",
-    "id": "p1",
-    "name": "Seasonal Card 1",
-    "slug": "seasonal-card-1",
+    "_id": "faf77163-04dd-4859-b7b1-8f1aa68b4d88",
+    "id": "p12",
+    "name": "Seasonal Card 12",
+    "slug": "seasonal-card-12",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -258,195 +258,7 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "1",
-    "quantity": 71,
-    "in_stock": 1,
-    "is_taxable": 0,
-    "shipping_class_id": null,
-    "status": "publish",
-    "product_type": "variable",
-    "unit": "1lb",
-    "height": null,
-    "width": null,
-    "length": null,
-    "image": {
-      "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas2.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas2.png",
-      "_id": "66c75afcbdc1efe45d90236a"
-    },
-    "video": null,
-    "gallery": [
-      {
-        "_id": "66c75afcbdc1efe45d90236b",
-        "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas2.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas2.png"
-      }
-    ],
-    "deleted_at": null,
-    "created_at": "2021-03-08T10:24:53.000Z",
-    "updated_at": "2021-12-23T18:16:06.000Z",
-    "author_id": null,
-    "manufacturer_id": null,
-    "is_digital": 0,
-    "is_external": 0,
-    "external_product_url": null,
-    "external_product_button_text": null,
-    "ratings": 4.67,
-    "total_reviews": 3,
-    "rating_count": [
-      {
-        "_id": "66c75afcbdc1efe45d90236c",
-        "rating": 5,
-        "total": 2,
-        "positive_feedbacks_count": 0,
-        "negative_feedbacks_count": 0,
-        "my_feedback": null,
-        "abusive_reports_count": 0
-      },
-      {
-        "_id": "66c75afcbdc1efe45d90236d",
-        "rating": 4,
-        "total": 1,
-        "positive_feedbacks_count": 0,
-        "negative_feedbacks_count": 0,
-        "my_feedback": null,
-        "abusive_reports_count": 0
-      }
-    ],
-    "my_review": null,
-    "in_wishlist": false,
-    "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
-    "categories": [
-      {
-        "type": null,
-        "children": [],
-        "products_count": 0,
-        "_id": "66c75afcbdc1efe45d90236e",
-        "id": 1,
-        "name": "Greeting",
-        "slug": "Greeting",
-        "icon": "Greeting",
-        "language": "en",
-        "image": [],
-        "details": null,
-        "parent": null,
-        "type_id": 1,
-        "created_at": "2021-03-08T07:21:31.000Z",
-        "updated_at": "2021-03-08T07:21:31.000Z",
-        "deleted_at": null,
-        "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
-        "pivot": {
-          "product_id": 1,
-          "category_id": 1
-        }
-      },
-      {
-        "type": null,
-        "children": [],
-        "products_count": 0,
-        "_id": "66c75afcbdc1efe45d90236f",
-        "id": 2,
-        "name": "Seasonal Cards",
-        "slug": "seasonal-cards",
-        "icon": "SeasonalCards",
-        "language": "en",
-        "image": [],
-        "details": null,
-        "type_id": 1,
-        "created_at": "2021-03-08T07:22:04.000Z",
-        "updated_at": "2021-03-08T07:22:04.000Z",
-        "deleted_at": null,
-        "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
-        "pivot": {
-          "product_id": 1,
-          "category_id": 2
-        }
-      }
-    ]
-  },
-  {
-    "shop": {
-      "address": {
-        "zip": "61032",
-        "city": "Freeport",
-        "state": "Illinois",
-        "country": "USA",
-        "street_address": "1986  Spinnaker Lane"
-      },
-      "settings": {
-        "location": {
-          "lat": 38.9032325,
-          "lng": -77.0211068,
-          "city": "Washington",
-          "state": "DC",
-          "country": "United States",
-          "formattedAddress": "New York Ave NW, Washington, DC, USA"
-        },
-        "contact": "018927525111",
-        "socials": [
-          {
-            "_id": "66c75afcbdc1efe45d902372",
-            "url": "https://www.facebook.com/",
-            "icon": "FacebookIcon"
-          },
-          {
-            "_id": "66c75afcbdc1efe45d902373",
-            "url": "https://www.instagram.com/",
-            "icon": "InstagramIcon"
-          },
-          {
-            "_id": "66c75afcbdc1efe45d902374",
-            "url": "https://www.twitter.com/",
-            "icon": "TwitterIcon"
-          }
-        ],
-        "website": "https://redq.io/"
-      },
-      "id": 6,
-      "owner_id": 1,
-      "name": "Grocery Shop",
-      "slug": "grocery-shop",
-      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
-      "cover_image": {
-        "id": "894",
-        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
-        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
-        "_id": "66c75afcbdc1efe45d902370"
-      },
-      "logo": {
-        "id": "893",
-        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
-        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
-        "_id": "66c75afcbdc1efe45d902371"
-      },
-      "is_active": 1,
-      "created_at": "2021-06-27T03:48:23.000Z",
-      "updated_at": "2021-07-08T09:22:38.000Z"
-    },
-    "_id": "a3a03d30-d69b-449c-b757-aa0d653704e5",
-    "id": "p2",
-    "name": "Seasonal Card 2",
-    "slug": "seasonal-card-2",
-    "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
-    "type_id": 1,
-    "price": 2,
-    "shop_id": 6,
-    "sale_price": 1000,
-    "language": "en",
-    "min_price": 50,
-    "max_price": 10000,
-    "sku": "2",
+    "sku": "12",
     "quantity": 37,
     "in_stock": 1,
     "is_taxable": 0,
@@ -459,8 +271,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas3.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas3.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas8.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas8.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -468,8 +280,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas3.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas3.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas8.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas8.png"
       }
     ],
     "deleted_at": null,
@@ -622,10 +434,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "b5093ae2-9884-47f7-affc-b114b5ef582a",
-    "id": "p3",
-    "name": "Seasonal Card 3",
-    "slug": "seasonal-card-3",
+    "_id": "534a49f8-e1f3-4b99-8f95-a8272f52ca33",
+    "id": "p13",
+    "name": "Seasonal Card 13",
+    "slug": "seasonal-card-13",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -634,8 +446,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "3",
-    "quantity": 53,
+    "sku": "13",
+    "quantity": 39,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -647,8 +459,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas4.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas4.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas9.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas9.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -656,8 +468,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas4.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas4.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas9.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas9.png"
       }
     ],
     "deleted_at": null,
@@ -810,10 +622,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "a8116c45-d9e3-4ff8-9646-947fc17e0df4",
-    "id": "p4",
-    "name": "Seasonal Card 4",
-    "slug": "seasonal-card-4",
+    "_id": "8a345c7c-8d91-4e9d-b7b1-a6ad57b433ab",
+    "id": "p14",
+    "name": "Seasonal Card 14",
+    "slug": "seasonal-card-14",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -822,8 +634,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "4",
-    "quantity": 92,
+    "sku": "14",
+    "quantity": 93,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -835,8 +647,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas5.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas5.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas10.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas10.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -844,8 +656,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas5.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas5.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas10.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas10.png"
       }
     ],
     "deleted_at": null,
@@ -998,10 +810,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "bd237c27-2d89-41ef-9588-084ae314fa83",
-    "id": "p5",
-    "name": "Seasonal Card 5",
-    "slug": "seasonal-card-5",
+    "_id": "9ae84d6c-07d6-4c1f-835a-50c740987a37",
+    "id": "p15",
+    "name": "Seasonal Card 15",
+    "slug": "seasonal-card-15",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -1010,8 +822,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "5",
-    "quantity": 85,
+    "sku": "15",
+    "quantity": 27,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -1023,8 +835,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks1.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks1.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal1.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal1.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -1032,8 +844,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks1.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks1.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal1.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal1.png"
       }
     ],
     "deleted_at": null,
@@ -1186,10 +998,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "824e8f4e-145b-4230-b417-2a3f690eedcb",
-    "id": "p6",
-    "name": "Seasonal Card 6",
-    "slug": "seasonal-card-6",
+    "_id": "5d8ecd55-fece-4cd3-9772-de950574057a",
+    "id": "p16",
+    "name": "Seasonal Card 16",
+    "slug": "seasonal-card-16",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -1198,8 +1010,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "6",
-    "quantity": 5,
+    "sku": "16",
+    "quantity": 51,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -1211,8 +1023,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks2.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks2.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal2.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal2.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -1220,8 +1032,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks2.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks2.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal2.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal2.png"
       }
     ],
     "deleted_at": null,
@@ -1374,10 +1186,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "945be942-6f1b-43df-ad84-4c5831f711ca",
-    "id": "p7",
-    "name": "Seasonal Card 7",
-    "slug": "seasonal-card-7",
+    "_id": "8ed9c3c2-d1cb-4942-808f-699c7a59c978",
+    "id": "p17",
+    "name": "Seasonal Card 17",
+    "slug": "seasonal-card-17",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -1386,8 +1198,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "7",
-    "quantity": 36,
+    "sku": "17",
+    "quantity": 35,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -1399,8 +1211,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks3.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks3.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal3.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal3.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -1408,8 +1220,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks3.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks3.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal3.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal3.png"
       }
     ],
     "deleted_at": null,
@@ -1562,10 +1374,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "5fab4807-2f67-4bf6-bbba-f62bec9b990e",
-    "id": "p8",
-    "name": "Seasonal Card 8",
-    "slug": "seasonal-card-8",
+    "_id": "a16384df-c8f9-44b7-9e21-0c02125b2d8d",
+    "id": "p18",
+    "name": "Seasonal Card 18",
+    "slug": "seasonal-card-18",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -1574,8 +1386,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "8",
-    "quantity": 65,
+    "sku": "18",
+    "quantity": 95,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -1587,8 +1399,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks4.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks4.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal4.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal4.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -1596,8 +1408,8 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks4.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks4.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal4.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal4.png"
       }
     ],
     "deleted_at": null,
@@ -1750,10 +1562,10 @@
       "created_at": "2021-06-27T03:48:23.000Z",
       "updated_at": "2021-07-08T09:22:38.000Z"
     },
-    "_id": "8cc17ee5-a3bc-47c2-8ddc-370a86f40aad",
-    "id": "p9",
-    "name": "Seasonal Card 9",
-    "slug": "seasonal-card-9",
+    "_id": "c6640bcc-e161-4025-84c4-be7caee3322f",
+    "id": "p19",
+    "name": "Seasonal Card 19",
+    "slug": "seasonal-card-19",
     "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
     "type_id": 1,
     "price": 2,
@@ -1762,8 +1574,8 @@
     "language": "en",
     "min_price": 50,
     "max_price": 10000,
-    "sku": "9",
-    "quantity": 26,
+    "sku": "19",
+    "quantity": 42,
     "in_stock": 1,
     "is_taxable": 0,
     "shipping_class_id": null,
@@ -1775,8 +1587,8 @@
     "length": null,
     "image": {
       "id": "1",
-      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks5.png",
-      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks5.png",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal5.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal5.png",
       "_id": "66c75afcbdc1efe45d90236a"
     },
     "video": null,
@@ -1784,8 +1596,196 @@
       {
         "_id": "66c75afcbdc1efe45d90236b",
         "id": "573",
-        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks5.png",
-        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks5.png"
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal5.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal5.png"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-08T10:24:53.000Z",
+    "updated_at": "2021-12-23T18:16:06.000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "ratings": 4.67,
+    "total_reviews": 3,
+    "rating_count": [
+      {
+        "_id": "66c75afcbdc1efe45d90236c",
+        "rating": 5,
+        "total": 2,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      },
+      {
+        "_id": "66c75afcbdc1efe45d90236d",
+        "rating": 4,
+        "total": 1,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "blocked_dates": [],
+    "translated_languages": [
+      "en"
+    ],
+    "categories": [
+      {
+        "type": null,
+        "children": [],
+        "products_count": 0,
+        "_id": "66c75afcbdc1efe45d90236e",
+        "id": 1,
+        "name": "Greeting",
+        "slug": "Greeting",
+        "icon": "Greeting",
+        "language": "en",
+        "image": [],
+        "details": null,
+        "parent": null,
+        "type_id": 1,
+        "created_at": "2021-03-08T07:21:31.000Z",
+        "updated_at": "2021-03-08T07:21:31.000Z",
+        "deleted_at": null,
+        "parent_id": null,
+        "translated_languages": [
+          "en"
+        ],
+        "pivot": {
+          "product_id": 1,
+          "category_id": 1
+        }
+      },
+      {
+        "type": null,
+        "children": [],
+        "products_count": 0,
+        "_id": "66c75afcbdc1efe45d90236f",
+        "id": 2,
+        "name": "Seasonal Cards",
+        "slug": "seasonal-cards",
+        "icon": "SeasonalCards",
+        "language": "en",
+        "image": [],
+        "details": null,
+        "type_id": 1,
+        "created_at": "2021-03-08T07:22:04.000Z",
+        "updated_at": "2021-03-08T07:22:04.000Z",
+        "deleted_at": null,
+        "parent_id": 1,
+        "translated_languages": [
+          "en"
+        ],
+        "pivot": {
+          "product_id": 1,
+          "category_id": 2
+        }
+      }
+    ]
+  },
+  {
+    "shop": {
+      "address": {
+        "zip": "61032",
+        "city": "Freeport",
+        "state": "Illinois",
+        "country": "USA",
+        "street_address": "1986  Spinnaker Lane"
+      },
+      "settings": {
+        "location": {
+          "lat": 38.9032325,
+          "lng": -77.0211068,
+          "city": "Washington",
+          "state": "DC",
+          "country": "United States",
+          "formattedAddress": "New York Ave NW, Washington, DC, USA"
+        },
+        "contact": "018927525111",
+        "socials": [
+          {
+            "_id": "66c75afcbdc1efe45d902372",
+            "url": "https://www.facebook.com/",
+            "icon": "FacebookIcon"
+          },
+          {
+            "_id": "66c75afcbdc1efe45d902373",
+            "url": "https://www.instagram.com/",
+            "icon": "InstagramIcon"
+          },
+          {
+            "_id": "66c75afcbdc1efe45d902374",
+            "url": "https://www.twitter.com/",
+            "icon": "TwitterIcon"
+          }
+        ],
+        "website": "https://redq.io/"
+      },
+      "id": 6,
+      "owner_id": 1,
+      "name": "Grocery Shop",
+      "slug": "grocery-shop",
+      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "894",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+        "_id": "66c75afcbdc1efe45d902370"
+      },
+      "logo": {
+        "id": "893",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+        "_id": "66c75afcbdc1efe45d902371"
+      },
+      "is_active": 1,
+      "created_at": "2021-06-27T03:48:23.000Z",
+      "updated_at": "2021-07-08T09:22:38.000Z"
+    },
+    "_id": "eccdf1c8-3ce6-43af-bedd-9b5f8cc6b46a",
+    "id": "p20",
+    "name": "Seasonal Card 20",
+    "slug": "seasonal-card-20",
+    "description": "Our Indexx Greeting Cards are a perfect gift for any occasion. When traditional gift ideas fall short, why not surprise someone with the gift of cryptocurrency? This modern and thoughtful option allows you to send crypto in a beautifully designed greeting card, making it an ideal present for the tech-savvy recipient.",
+    "type_id": 1,
+    "price": 2,
+    "shop_id": 6,
+    "sale_price": 1000,
+    "language": "en",
+    "min_price": 50,
+    "max_price": 10000,
+    "sku": "20",
+    "quantity": 56,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "variable",
+    "unit": "1lb",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "1",
+      "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas6.png",
+      "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas6.png",
+      "_id": "66c75afcbdc1efe45d90236a"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "_id": "66c75afcbdc1efe45d90236b",
+        "id": "573",
+        "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas6.png",
+        "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas6.png"
       }
     ],
     "deleted_at": null,

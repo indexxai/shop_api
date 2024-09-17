@@ -217,9 +217,9 @@ export class OrdersService {
       let orderResult = await axios.get(
         `https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`,
       );
-      let data: Order = orderResult.data;
-
-      return data;
+      let data: any = orderResult.data;
+      console.log('data in getOrderByIdOrTrackingNumber', data);
+      return data?.data;
     } catch (error) {
       console.log(error);
     }

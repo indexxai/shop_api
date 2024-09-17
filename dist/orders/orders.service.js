@@ -150,7 +150,8 @@ let OrdersService = class OrdersService {
         try {
             let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${id}`);
             let data = orderResult.data;
-            return data;
+            console.log('data in getOrderByIdOrTrackingNumber', data);
+            return data === null || data === void 0 ? void 0 : data.data;
         }
         catch (error) {
             console.log(error);
