@@ -34,6 +34,8 @@ export declare class ConnectProductOrderPivot {
     order_quantity: number;
     unit_price: number;
     subtotal: number;
+    receiver_email: string;
+    personal_message: string;
 }
 export declare class CardInput {
     number: string;

@@ -16,7 +16,7 @@ class UserAddressInput {
 exports.UserAddressInput = UserAddressInput;
 class ConnectProductOrderPivot {
     static _OPENAPI_METADATA_FACTORY() {
-        return { product_id: { required: true, type: () => Number }, variation_option_id: { required: false, type: () => Number }, order_quantity: { required: true, type: () => Number }, unit_price: { required: true, type: () => Number }, subtotal: { required: true, type: () => Number } };
+        return { product_id: { required: true, type: () => Number }, variation_option_id: { required: false, type: () => Number }, order_quantity: { required: true, type: () => Number }, unit_price: { required: true, type: () => Number }, subtotal: { required: true, type: () => Number }, receiver_email: { required: true, type: () => String }, personal_message: { required: true, type: () => String } };
     }
 }
 exports.ConnectProductOrderPivot = ConnectProductOrderPivot;

@@ -68,6 +68,7 @@ let ProductsService = class ProductsService {
                     slugValue = value;
                 }
             }
+            console.log("searchText", searchText);
             data = (_a = fuse
                 .search({
                 $and: searchText,

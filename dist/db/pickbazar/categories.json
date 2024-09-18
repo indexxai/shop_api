@@ -9,9 +9,7 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": [
-            "en"
-        ],
+        "translated_languages": ["en"],
         "parent": null,
         "type_id": 1,
         "updated_at": "2024-08-21T07:21:31.000Z",
@@ -21,9 +19,7 @@
             "id": 1,
             "name": "Gift",
             "language": "en",
-            "translated_languages": [
-                "en"
-            ],
+            "translated_languages": ["en"],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -70,46 +66,6 @@
         },
         "children": [
             {
-                "id": 9,
-                "name": "Crypto Gift Cards",
-                "slug": "crypto-gift-cards",
-                "icon": null,
-                "image": [],
-                "details": null,
-                "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
-                "parent": {
-                    "id": 1,
-                    "name": "Gift",
-                    "slug": "gift",
-                    "icon": "Gift",
-                    "image": [],
-                    "details": null,
-                    "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
-                    "parent": null,
-                    "type_id": 1,
-                    "created_at": "2024-08-21-T07:21:31.000000Z",
-                    "updated_at": "2024-08-21T07:21:31.000000Z",
-                    "deleted_at": null,
-                    "parent_id": null,
-                    "type": null,
-                    "children": null
-                },
-                "type_id": 1,
-                "created_at": "2021-03-08T07:22:04.000000Z",
-                "updated_at": "2021-03-08T07:22:04.000000Z",
-                "deleted_at": null,
-                "products_count": 9,
-                "parent_id": 1,
-                "children": [],
-                "description": "The Gift of the Future! The Indexx Gift Card can be redeemed for our stable coin, IUSD+, and traded for any cryptocurrency on our platform. Give the ultimate flexible and valuable gift in the crypto space."
-            },
-            {
                 "id": 2,
                 "name": "Gift Cards",
                 "slug": "gift-cards",
@@ -117,9 +73,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 1,
                     "name": "Gift",
@@ -128,9 +82,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2024-08-21-T07:21:31.000000Z",
@@ -148,11 +100,117 @@
                 "parent_id": 1,
                 "children": [],
                 "description": "The Gift of the Future! The Indexx Gift Card can be redeemed for our stable coin, IUSD+, and traded for any cryptocurrency on our platform. Give the ultimate flexible and valuable gift in the crypto space."
+            }
+        ],
+        "created_at": "2024-08-22T17:09:45.535Z",
+        "description": "The Gift of the Future! Unlock endless possibilities with the Indexx Gift Card. Each card contains USD, which you can use to buy any cryptocurrency on our platform. Gift the ultimate in flexibility and value within the crypto space."
+    },
+    {
+        "products_count": 0,
+        "_id": "60c5ced7e0d4310148b7baf6",
+        "id": 11,
+        "name": "Crypto Gift",
+        "slug": "crypto",
+        "icon": "Crypto",
+        "image": [],
+        "details": null,
+        "language": "en",
+        "translated_languages": ["en"],
+        "parent": null,
+        "type_id": 1,
+        "updated_at": "2024-08-21T07:21:31.000Z",
+        "deleted_at": null,
+        "parent_id": null,
+        "type": {
+            "id": 1,
+            "name": "Gift",
+            "language": "en",
+            "translated_languages": ["en"],
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "neon",
+                "_id": "66c770d9f0995079778a4213"
+            },
+            "slug": "grocery",
+            "icon": "Crypto",
+            "promotional_sliders": [
+                {
+                    "_id": "66c770d9f0995079778a4214",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4215",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4216",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4217",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c770d9f0995079778a4218",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "updated_at": "2024-08-21T07:21:31.000Z",
+            "created_at": "2024-08-22T17:09:45.534Z",
+            "_id": "66c770d9f0995079778a4219"
+        },
+        "children": [
+            {
+                "id": 20,
+                "name": "Bitcoin Gift Cards",
+                "slug": "bitcoin-cards",
+                "icon": null,
+                "image": [],
+                "details": null,
+                "language": "en",
+                "translated_languages": ["en"],
+                "parent": {
+                    "id": 11,
+                    "name": "Crypto Gift Card",
+                    "slug": "crypto",
+                    "icon": "Crypto",
+                    "image": [],
+                    "details": null,
+                    "language": "en",
+                    "translated_languages": ["en"],
+                    "parent": null,
+                    "type_id": 1,
+                    "created_at": "2024-08-21-T07:21:31.000000Z",
+                    "updated_at": "2024-08-21T07:21:31.000000Z",
+                    "deleted_at": null,
+                    "parent_id": null,
+                    "type": null,
+                    "children": null
+                },
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000000Z",
+                "updated_at": "2021-03-08T07:22:04.000000Z",
+                "deleted_at": null,
+                "products_count": 9,
+                "parent_id": 11,
+                "children": [],
+                "description": "Everyone loves Bitcoin! Now you can give the renowned cryptocurrency as a gift with the Indexx Bitcoin Gift Card. Each card is pegged to Bitcoin, letting the recipient dive straight into the crypto space with the world's most popular digital currency. It’s the perfect fusion of celebration and investment, making any occasion special with the gift of Bitcoin!"
             },
             {
-                "id": 3,
-                "name": "Gift Pack",
-                "slug": "gift-pack",
+                "id": 30,
+                "name": "Tether Gift Cards",
+                "slug": "tether-cards",
                 "icon": null,
                 "image": {
                     "id": null,
@@ -161,20 +219,16 @@
                 },
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
-                    "id": 1,
-                    "name": "Gift",
-                    "slug": "gift",
-                    "icon": "Gift",
+                    "id": 11,
+                    "name": "Crypto Gift Card",
+                    "slug": "crypto",
+                    "icon": "Crypto",
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T07:22:04.000000Z",
@@ -189,13 +243,13 @@
                 "updated_at": "2021-03-08T07:22:04.000000Z",
                 "deleted_at": null,
                 "products_count": 11,
-                "parent_id": 1,
+                "parent_id": 11,
                 "children": [],
-                "description": "Introduce your loved ones to the world of crypto with the Indexx Gift Pack. This innovative gift includes a balanced mix of two Indexx cryptocurrencies, offering a unique and thoughtful way to start a crypto journey."
+                "description": "Give the gift of stability and versatility with the Indexx Tether (USDT) Gift Card. Pegged to the stable cryptocurrency Tether, this gift card allows your recipient to trade confidently on our platform without worrying about market volatility. It’s an ideal present for those looking to secure and grow their investments. Send a Tether Gift Card today and invest in their future with the reassuring stability of USDT!"
             }
         ],
         "created_at": "2024-08-22T17:09:45.535Z",
-        "description": "Gift your loved ones with future assets in the crypto space."
+        "description": "Everyone loves Bitcoin! Give a personalized Bitcoin Gift Card today! The Indexx Crypto Pack offers gift cards pegged to top cryptocurrencies like Bitcoin and Tether, with even more exciting options coming soon. While most of our gift cards contain USD redeemable on our exchange, your recipient can easily convert it into their favorite crypto. It's the perfect fusion of celebration and investment."
     },
     {
         "products_count": 0,
@@ -207,9 +261,7 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": [
-            "en"
-        ],
+        "translated_languages": ["en"],
         "parent": null,
         "type_id": 1,
         "updated_at": "2024-08-21T07:21:31.000Z",
@@ -219,9 +271,7 @@
             "id": 1,
             "name": "Greeting",
             "language": "en",
-            "translated_languages": [
-                "en"
-            ],
+            "translated_languages": ["en"],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -275,9 +325,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 4,
                     "name": "Greeting Cards",
@@ -286,9 +334,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2024-08-21-T07:21:31.000000Z",
@@ -305,7 +351,7 @@
                 "products_count": 5,
                 "parent_id": 4,
                 "children": [],
-                "description": "Out of gift ideas? Our Indexx Greeting Cards are perfect for any occasion. More than a card, it's the gift of the future. Invest in your child's future today—like your kids, their assets will grow too!"
+                "description": "Running out of gift ideas? Our Indexx Greeting Cards are perfect for any occasion. More than just a card, it's the gift of the future. Containing USD that can be used to buy crypto on our exchange, it's an investment in your child's future that'll grow as they do!"
             },
             {
                 "id": 6,
@@ -315,9 +361,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 4,
                     "name": "Greeting Cards",
@@ -326,9 +370,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T08:54:16.000000Z",
@@ -345,7 +387,7 @@
                 "products_count": 5,
                 "parent_id": 4,
                 "children": [],
-                "description": "Surprise someone special with the gift of the future on their big day. Our Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. It's more than a gift; it's a growing investment in their future."
+                "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!"
             },
             {
                 "id": 6,
@@ -355,9 +397,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 4,
                     "name": "Greeting Cards",
@@ -366,9 +406,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T08:54:16.000000Z",
@@ -385,11 +423,11 @@
                 "products_count": 5,
                 "parent_id": 4,
                 "children": [],
-                "description": "Surprise someone special with the gift of the future on their big day. Our Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. It's more than a gift; it's a growing investment in their future."
+                "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!"
             }
         ],
         "created_at": "2024-08-22T17:09:45.541Z",
-        "description": "A perfect way to celebrate every occasion with future investments."
+        "description": "Running out of gift ideas? Our Indexx Greeting Cards are perfect for any occasion. More than just a card, it's the gift of the future. Containing USD that can be used to buy crypto on our exchange, it's an investment in your child's future that'll grow as they do!"
     },
     {
         "products_count": 0,
@@ -401,9 +439,7 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": [
-            "en"
-        ],
+        "translated_languages": ["en"],
         "parent": null,
         "type_id": 1,
         "created_at": "2021-03-08T08:55:56.000Z",
@@ -414,9 +450,7 @@
             "id": 1,
             "name": "Carnival",
             "language": "en",
-            "translated_languages": [
-                "en"
-            ],
+            "translated_languages": ["en"],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -470,9 +504,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 7,
                     "name": "Carnival",
@@ -481,9 +513,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T08:55:56.000000Z",
@@ -500,10 +530,10 @@
                 "products_count": 20,
                 "parent_id": 7,
                 "children": [],
-                "description": " Experience the thrill of crypto with the Indexx Carnival Pack. This exciting bundle includes a diverse array of tokens and a special surprise bonus token from Indexx upon redemption. It's the perfect way to add an element of surprise and maximize your crypto adventure."
+                "description": "Experience the thrill of crypto investing with the Indexx Carnival Pack. This exciting bundle features USD that can be redeemed on our exchange for a diverse array of tokens, plus a special surprise bonus token from Indexx. Add an element of surprise and maximize your crypto adventure with this exhilarating package!"
             }
         ],
-        "description": "A perfect way to celebrate every occasion with future investments."
+        "description": "Experience the thrill of crypto investing with the Indexx Carnival Pack. This exciting bundle features USD that can be redeemed on our exchange for a diverse array of tokens, plus a special surprise bonus token from Indexx. Add an element of surprise and maximize your crypto adventure with this exhilarating package!"
     },
     {
         "products_count": 0,
@@ -515,9 +545,7 @@
         "image": [],
         "details": null,
         "language": "en",
-        "translated_languages": [
-            "en"
-        ],
+        "translated_languages": ["en"],
         "parent": null,
         "type_id": 1,
         "created_at": "2021-03-08T09:47:41.000Z",
@@ -528,9 +556,7 @@
             "id": 1,
             "name": "Hive Pack",
             "language": "en",
-            "translated_languages": [
-                "en"
-            ],
+            "translated_languages": ["en"],
             "settings": {
                 "isHome": true,
                 "layoutType": "classic",
@@ -584,9 +610,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -595,9 +619,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -614,19 +636,17 @@
                 "products_count": 7,
                 "parent_id": 13,
                 "children": [],
-                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
+                "description": "Kickstart someone's investment journey with the Indexx Hive Pack. It includes a mix of cryptocurrencies predefined by Indexx to maximize growth potential. This perfect blend makes for a significant and strategic investment, turning the Hive Pack into a robust gift for the future."
             },
             {
                 "id": 16,
                 "name": "Crypto Pack",
-                "slug": "crypto-pack",
+                "slug": "cy-pack",
                 "icon": null,
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -635,9 +655,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -654,7 +672,7 @@
                 "products_count": 7,
                 "parent_id": 13,
                 "children": [],
-                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
+                "description": "Kickstart someone's investment journey with the Indexx Hive Pack. It includes a mix of cryptocurrencies predefined by Indexx to maximize growth potential. This perfect blend makes for a significant and strategic investment, turning the Hive Pack into a robust gift for the future."
             },
             {
                 "id": 17,
@@ -664,9 +682,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -675,9 +691,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -694,7 +708,7 @@
                 "products_count": 4,
                 "parent_id": 13,
                 "children": [],
-                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
+                "description": "Kickstart someone's investment journey with the Indexx Hive Pack. It includes a mix of cryptocurrencies predefined by Indexx to maximize growth potential. This perfect blend makes for a significant and strategic investment, turning the Hive Pack into a robust gift for the future."
             },
             {
                 "id": 17,
@@ -704,9 +718,7 @@
                 "image": [],
                 "details": null,
                 "language": "en",
-                "translated_languages": [
-                    "en"
-                ],
+                "translated_languages": ["en"],
                 "parent": {
                     "id": 13,
                     "name": "Hive Pack",
@@ -715,9 +727,7 @@
                     "image": [],
                     "details": null,
                     "language": "en",
-                    "translated_languages": [
-                        "en"
-                    ],
+                    "translated_languages": ["en"],
                     "parent": null,
                     "type_id": 1,
                     "created_at": "2021-03-08T09:47:41.000000Z",
@@ -734,9 +744,9 @@
                 "products_count": 4,
                 "parent_id": 13,
                 "children": [],
-                "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
+                "description": "Kickstart someone's investment journey with the Indexx Hive Pack. It includes a mix of cryptocurrencies predefined by Indexx to maximize growth potential. This perfect blend makes for a significant and strategic investment, turning the Hive Pack into a robust gift for the future."
             }
         ],
-        "description": "Kickstart your investment journey with the Indexx Hive Pack. Our AI-curated selection of top Indexx and non-Indexx tokens maximizes your portfolio's growth potential. Dive into crypto easily with this comprehensive pack!"
+        "description": "Kickstart someone's investment journey with the Indexx Hive Pack. It includes a mix of cryptocurrencies predefined by Indexx to maximize growth potential. This perfect blend makes for a significant and strategic investment, turning the Hive Pack into a robust gift for the future."
     }
 ]
