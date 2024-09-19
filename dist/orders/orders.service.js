@@ -125,8 +125,13 @@ let OrdersService = class OrdersService {
             let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`);
             data = [orderResult.data.data];
         }
-        else {
+        else if (email) {
             let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getUserOrders/${email}`);
+            data = orderResult.data.data;
+        }
+        else {
+            console.log("I AM HERE");
+            let orderResult = await axios_1.default.get(`https://api.indexx.ai/api/v1/inex/shop/getOrders`);
             data = orderResult.data.data;
         }
         if (shop_id && shop_id !== 'undefined') {

@@ -173,10 +173,16 @@ export class OrdersService {
         `https://api.indexx.ai/api/v1/inex/shop/getUserOrderByTrackingNumber/${tracking_number}`,
       );
       data = [orderResult.data.data]; // Assuming API returns a single order
-    } else {
+    } else if(email) {
       // Fetch all orders data from the external API by email
       let orderResult = await axios.get(
         `https://api.indexx.ai/api/v1/inex/shop/getUserOrders/${email}`,
+      );
+      data = orderResult.data.data;
+    } else {
+      console.log("I AM HERE")
+      let orderResult = await axios.get(
+        `https://api.indexx.ai/api/v1/inex/shop/getOrders`,
       );
       data = orderResult.data.data;
     }
