@@ -30,7 +30,7 @@ let AuthService = class AuthService {
     }
     async login(loginInput) {
         console.log(loginInput);
-        if (loginInput.email === 'admin@demo.com') {
+        if (loginInput.email === 'admin@indexx.ai') {
             return {
                 token: 'jwt token',
                 permissions: ['store_owner', 'super_admin'],
