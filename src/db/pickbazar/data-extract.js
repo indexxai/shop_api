@@ -60,7 +60,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
         const giftPack = giftPacks.find(pack => pack.slug === product.slug);
 
         // Default to IUSD+ if no gift pack match is found
-        const currencies = giftPack ? giftPack.currencies : ['IUSD+'];
+        const currencies = giftPack ? giftPack.currencies : ['USD'];
 
         return {
             slug: product.slug,

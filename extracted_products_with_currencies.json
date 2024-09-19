@@ -4,7 +4,7 @@
         "name": "Gift Card $50",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/50--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -12,7 +12,7 @@
         "name": "Gift Card $100",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/100--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -20,7 +20,7 @@
         "name": "Gift Card $200",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/200--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -28,7 +28,7 @@
         "name": "Gift Card $300",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/300--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "name": "Gift Card $400",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/400--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -44,7 +44,7 @@
         "name": "Gift Card $500",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/500--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -52,7 +52,7 @@
         "name": "Gift Card $800",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/800--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -60,81 +60,87 @@
         "name": "Gift Card $1000",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Cards/1000--.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
-        "slug": "gift-pack-btc-inex-wibs-1",
-        "name": "Bitcoin + INEX & WIBS",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/1.png",
+        "slug": "crypto-gift-card-1",
+        "name": "Bitcoin Card 1",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_100.png",
         "currencies": [
-            "Bitcoin",
-            "INEX",
-            "WIBS"
+            "BTC"
         ]
     },
     {
-        "slug": "gift-pack-btc-inex-iusdp-1",
-        "name": "Bitcoin + INEX & IUSD+",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/3.png",
+        "slug": "crypto-gift-card-2",
+        "name": "Bitcoin Card 2",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_200.png",
         "currencies": [
-            "Bitcoin",
-            "INEX",
-            "IUSD+"
+            "BTC"
         ]
     },
     {
-        "slug": "gift-pack-btc-inex-iusdp-1",
-        "name": "Bitcoin + INEX & IUSD+",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/2.png",
+        "slug": "crypto-gift-card-3",
+        "name": "Bitcoin Card 3",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_300.png",
         "currencies": [
-            "Bitcoin",
-            "INEX",
-            "IUSD+"
+            "BTC"
         ]
     },
     {
-        "slug": "gift-pack-btc-inex-1",
-        "name": "Bitcoin + INEX",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/4.png",
+        "slug": "crypto-gift-card-4",
+        "name": "Bitcoin Card 4",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_500.png",
         "currencies": [
-            "Bitcoin",
-            "INEX"
+            "BTC"
         ]
     },
     {
-        "slug": "gift-pack-btc-wibs-1",
-        "name": "Bitcoin + WIBS",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/5.png",
+        "slug": "crypto-gift-card-5",
+        "name": "Bitcoin Card 5",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_1000.png",
         "currencies": [
-            "Bitcoin",
-            "WIBS"
+            "BTC"
         ]
     },
     {
-        "slug": "gift-pack-btc-iusdp-1",
-        "name": "Bitcoin + IUSD+",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/6.png",
+        "slug": "crypto-usdt-cards-1",
+        "name": "Tether Card 1",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+100.png",
         "currencies": [
-            "Bitcoin",
-            "IUSD+"
+            "USDT"
         ]
     },
     {
-        "slug": "gift-pack-btc-in500-1",
-        "name": "Bitcoin + IN500",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/7.png",
+        "slug": "crypto-usdt-cards-2",
+        "name": "Tether Card 2",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+200.png",
         "currencies": [
-            "Bitcoin",
-            "IN500"
+            "USDT"
         ]
     },
     {
-        "slug": "gift-pack-btc-fantasy-lotto-tckt-1",
-        "name": "Bitcoin + Fantasy Lotto Ticket",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/GIFTS/Gift+Packs/8.png",
+        "slug": "crypto-usdt-cards-3",
+        "name": "Tether Card 3",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+300.png",
         "currencies": [
-            "IUSD+"
+            "USDT"
+        ]
+    },
+    {
+        "slug": "crypto-usdt-cards-4",
+        "name": "Tether Card 4",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+500.png",
+        "currencies": [
+            "USDT"
+        ]
+    },
+    {
+        "slug": "crypto-usdt-cards-5",
+        "name": "Tether Card 5",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+1000.png",
+        "currencies": [
+            "USDT"
         ]
     },
     {
@@ -142,7 +148,7 @@
         "name": "Bonus Card $50",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Carnival/Bonus/h1+51.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -150,7 +156,7 @@
         "name": "Bonus Card $100",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Carnival/Bonus/h100.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -158,7 +164,7 @@
         "name": "Bonus Card $150",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Carnival/Bonus/h150.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -166,7 +172,7 @@
         "name": "Bonus Card $250",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Carnival/Bonus/h200+1.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -174,7 +180,7 @@
         "name": "Birthday Card 8",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-40.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -182,7 +188,7 @@
         "name": "Birthday Card 9",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-38.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -190,7 +196,15 @@
         "name": "Birthday Card 10",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-34.png",
         "currencies": [
-            "IUSD+"
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-1",
+        "name": "Birthday Card 1",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/BD1.png",
+        "currencies": [
+            "USD"
         ]
     },
     {
@@ -198,7 +212,7 @@
         "name": "Birthday Card 11",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-26.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -206,7 +220,7 @@
         "name": "Birthday Card 12",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-16.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -214,7 +228,7 @@
         "name": "Birthday Card 13",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-14.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -222,7 +236,7 @@
         "name": "Birthday Card 3",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-24+2.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -230,7 +244,7 @@
         "name": "Birthday Card 14",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-12.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -238,7 +252,7 @@
         "name": "Birthday Card 15",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-08.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -246,7 +260,7 @@
         "name": "Birthday Card 16",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-20.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -254,7 +268,7 @@
         "name": "Birthday Card 17",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-10.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -262,7 +276,7 @@
         "name": "Birthday Card 18",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-06.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -270,7 +284,7 @@
         "name": "Birthday Card 19",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-04.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -278,7 +292,7 @@
         "name": "Birthday Card 20",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-52.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -286,7 +300,7 @@
         "name": "Birthday Card 21",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-48.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -294,7 +308,7 @@
         "name": "Birthday Card 22",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-42.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -302,7 +316,7 @@
         "name": "Birthday Card 23",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-32.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -310,7 +324,7 @@
         "name": "Birthday Card 24",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-18.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -318,7 +332,7 @@
         "name": "Birthday Card 4",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-30+4.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -326,7 +340,7 @@
         "name": "Birthday Card 2",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-44.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -334,7 +348,7 @@
         "name": "Birthday Card 6",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-46+2.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -342,7 +356,7 @@
         "name": "Birthday Card 7",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-50+2.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -350,7 +364,7 @@
         "name": "Birthday Card 5",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-54+2.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -358,7 +372,7 @@
         "name": "Greeting Card 2",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/G-22.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -366,7 +380,7 @@
         "name": "Greeting Card 1",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/G-28.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -374,7 +388,47 @@
         "name": "Greeting Card 3",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/G-36+3.png",
         "currencies": [
-            "IUSD+"
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-gc-4",
+        "name": "Greeting Card 4",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/greet+01.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-gc-5",
+        "name": "Greeting Card 5",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/greet+02.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-gc-8",
+        "name": "Greeting Card 8",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/greet+03.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-gc-6",
+        "name": "Greeting Card 6",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/greet+04.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-gc-7",
+        "name": "Greeting Card 7",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Greeting+Cards/greet+05.png",
+        "currencies": [
+            "USD"
         ]
     },
     {
@@ -382,15 +436,175 @@
         "name": "Action Pack",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Hiv+Pack/New+Hive+Packs/grenn+ac.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
-        "slug": "crypto-pack",
+        "slug": "seasonal-card-1",
+        "name": "Seasonal Card 1",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas2.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-2",
+        "name": "Seasonal Card 2",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas3.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-3",
+        "name": "Seasonal Card 3",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas4.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-4",
+        "name": "Seasonal Card 4",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas5.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-5",
+        "name": "Seasonal Card 5",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks1.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-6",
+        "name": "Seasonal Card 6",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks2.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-7",
+        "name": "Seasonal Card 7",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks3.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-8",
+        "name": "Seasonal Card 8",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks4.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-9",
+        "name": "Seasonal Card 9",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/thanks5.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-10",
+        "name": "Seasonal Card 10",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas1.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-11",
+        "name": "Seasonal Card 11",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas7.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-12",
+        "name": "Seasonal Card 12",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas8.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-13",
+        "name": "Seasonal Card 13",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas9.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-14",
+        "name": "Seasonal Card 14",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas10.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-15",
+        "name": "Seasonal Card 15",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal1.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-16",
+        "name": "Seasonal Card 16",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal2.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-17",
+        "name": "Seasonal Card 17",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal3.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-18",
+        "name": "Seasonal Card 18",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal4.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-19",
+        "name": "Seasonal Card 19",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/hal5.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "seasonal-card-20",
+        "name": "Seasonal Card 20",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/Christmas6.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "cy-pack",
         "name": "Crypto Pack",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Hiv+Pack/New+Hive+Packs/Crypto+Purp.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -398,7 +612,7 @@
         "name": "Power Pack",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Hiv+Pack/New+Hive+Packs/royal+pack_02+1.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     },
     {
@@ -406,7 +620,7 @@
         "name": "Token Pack",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Hiv+Pack/New+Hive+Packs/blue+star+4.png",
         "currencies": [
-            "IUSD+"
+            "USD"
         ]
     }
 ]
