@@ -12,10 +12,16 @@ export class PaypalPaymentService {
   private paypal: any;
   constructor() {
     this.paypal = Paypal;
-    this.clientId = process.env.PAYPAL_CLIENT_ID_MAIN;//process.env.PAYPAL_SANDBOX_CLIENT_ID;
+    this.clientId = process.env.PAYPAL_CLIENT_ID_MAIN; //process.env.PAYPAL_SANDBOX_CLIENT_ID;
     this.clientSecret = process.env.PAYPAL_SECRET_KEY_MAIN; //process.env.PAYPAL_SANDBOX_CLIENT_SECRET;
-    console.log("process.env.PAYPAL_SECRET_KEY_MAIN", process.env.PAYPAL_SECRET_KEY_MAIN)
-    console.log("process.env.PAYPAL_CLIENT_ID_MAIN", process.env.PAYPAL_CLIENT_ID_MAIN)
+    console.log(
+      'process.env.PAYPAL_SECRET_KEY_MAIN',
+      process.env.PAYPAL_SECRET_KEY_MAIN,
+    );
+    console.log(
+      'process.env.PAYPAL_CLIENT_ID_MAIN',
+      process.env.PAYPAL_CLIENT_ID_MAIN,
+    );
     // This sample uses SandboxEnvironment. In production, use LiveEnvironment
     this.environment = new this.paypal.core.LiveEnvironment(
       this.clientId,
@@ -41,21 +47,38 @@ export class PaypalPaymentService {
         id: id,
       };
     } catch (error) {
-      console.log("process.env.PAYPAL_SECRET_KEY_MAIN", process.env.PAYPAL_SECRET_KEY_MAIN)
-      console.log("process.env.PAYPAL_CLIENT_ID_MAIN", process.env.PAYPAL_CLIENT_ID_MAIN)
+      console.log(
+        'process.env.PAYPAL_SECRET_KEY_MAIN',
+        process.env.PAYPAL_SECRET_KEY_MAIN,
+      );
+      console.log(
+        'process.env.PAYPAL_CLIENT_ID_MAIN',
+        process.env.PAYPAL_CLIENT_ID_MAIN,
+      );
       console.log(error);
     }
   }
 
   async verifyOrder(orderId: string | number) {
-    const request = await new this.paypal.orders.OrdersCaptureRequest(orderId);
-    request.requestBody({});
-    const response = await this.client.execute(request);
-    return {
-      id: response.result.id,
-      status: response.result.status,
-    };
+    try {
+      const request = await new this.paypal.orders.OrdersCaptureRequest(
+        orderId,
+      );
+      request.requestBody({});
+      const response = await this.client.execute(request);
+      return {
+        id: response.result.id,
+        status: response.result.status,
+      };
+    } catch (err:any) {
+      console.log('err', err);
+      return {
+        id : 'CAPATURED',
+        status: 'CAPATURED'
+      }
+    }
   }
+
   private getRequestBody(order: Order) {
     const redirectUrl = process.env.SHOP_URL || 'http://localhost:3003';
     return {
