@@ -5450,8 +5450,8 @@
         },
         "_id": "ce7ac26a-022c-4d14-9f63-c78e8d098d59",
         "id": "64166ca2-9a27-4b22-8a63-055639c93521",
-        "name": "Birthday Card 8",
-        "slug": "greetings-card-8",
+        "name": "Birthday Card 1",
+        "slug": "greetings-card-1",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -5473,8 +5473,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-40.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-40.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/1.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/1.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -5482,8 +5482,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-40.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-40.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/1.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/1.png"
             }
         ],
         "deleted_at": null,
@@ -6233,8 +6233,8 @@
         },
         "_id": "191631db-c790-4ad8-a514-f1da83ea2846",
         "id": "7443ac1d-cb4f-43bb-9e4a-de34490193c8",
-        "name": "Birthday Card 9",
-        "slug": "greetings-card-9",
+        "name": "Birthday Card 2",
+        "slug": "greetings-card-2",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -6256,8 +6256,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-38.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-38.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/2.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/2.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -6265,8 +6265,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-38.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-38.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/2.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/2.png"
             }
         ],
         "deleted_at": null,
@@ -7016,8 +7016,8 @@
         },
         "_id": "a2813c2c-bd23-4f5a-8d0a-7e7ca1f5e7e7",
         "id": "5480eae2-eda0-4a1a-b42a-35c6aadb544b",
-        "name": "Birthday Card 10",
-        "slug": "greetings-card-10",
+        "name": "Birthday Card 3",
+        "slug": "greetings-card-3",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -7039,8 +7039,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-34.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-34.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/3.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/3.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -7048,8 +7048,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-34.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-34.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/3.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/3.png"
             }
         ],
         "deleted_at": null,
@@ -7799,8 +7799,8 @@
         },
         "_id": "b2813c2c-bd23-4f5a-8d0a-7e7ca1f7e7e7",
         "id": "1480eae2-eda0-4a1a-b42a-35c6aadb744b",
-        "name": "Birthday Card 1",
-        "slug": "greetings-card-1",
+        "name": "Birthday Card 4",
+        "slug": "greetings-card-4",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -7822,8 +7822,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/BD1.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/BD1.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/4.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/4.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -7831,8 +7831,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/BD1.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/BD1.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/4.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/4.png"
             }
         ],
         "deleted_at": null,
@@ -8582,8 +8582,8 @@
         },
         "_id": "85f8f39b-0300-4d66-afcd-318c260ed653",
         "id": "caaa5a8d-12d2-4112-9a24-46fb826e55a3",
-        "name": "Birthday Card 11",
-        "slug": "greetings-card-11",
+        "name": "Birthday Card 5",
+        "slug": "greetings-card-5",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -8605,8 +8605,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-26.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-26.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/5.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/5.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -8614,8 +8614,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-26.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-26.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/5.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/5.png"
             }
         ],
         "deleted_at": null,
@@ -9365,8 +9365,8 @@
         },
         "_id": "8d75df30-3b84-4d23-999e-3dcefb4cdc55",
         "id": "467820fa-0012-43cc-a53f-b1de97dc4ccf",
-        "name": "Birthday Card 12",
-        "slug": "greetings-card-12",
+        "name": "Birthday Card 6",
+        "slug": "greetings-card-6",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -9388,8 +9388,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-16.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-16.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/6.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/6.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -9397,8 +9397,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-16.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-16.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/6.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/6.png"
             }
         ],
         "deleted_at": null,
@@ -10148,8 +10148,8 @@
         },
         "_id": "8eaee058-879e-40c8-b0eb-22e8186fc6d8",
         "id": "e8686d58-9b65-4b46-a7ea-fc7b4359b014",
-        "name": "Birthday Card 13",
-        "slug": "greetings-card-13",
+        "name": "Birthday Card 7",
+        "slug": "greetings-card-7",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -10171,8 +10171,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-14.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-14.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/7.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/7.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "video": null,
@@ -10180,8 +10180,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-14.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-14.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/7.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/7.png"
             }
         ],
         "deleted_at": null,
@@ -10931,8 +10931,8 @@
         },
         "_id": "25ce8617-ca1d-40ba-8869-c65295ca6bfb",
         "id": "0ad8df83-169d-4450-a62e-555f371c1197",
-        "name": "Birthday Card 3",
-        "slug": "greetings-card-3",
+        "name": "Birthday Card 8",
+        "slug": "greetings-card-8",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -10954,8 +10954,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-24+2.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-24+2.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/8.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/8.png",
             "_id": "66c75afbbdc1efe45d9022da"
         },
         "video": null,
@@ -10963,8 +10963,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022db",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-24+2.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-24+2.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/8.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/8.png"
             }
         ],
         "deleted_at": null,
@@ -12367,21 +12367,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 14",
-        "slug": "greetings-card-14",
+        "name": "Birthday Card 9",
+        "slug": "greetings-card-9",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-12.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-12.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/9.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/9.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-12.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-12.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/9.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/9.png"
             }
         ],
         "id": "a278c86b-9766-4aa3-b13e-bcaf2be38abf"
@@ -13100,21 +13100,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 15",
-        "slug": "greetings-card-15",
+        "name": "Birthday Card 10",
+        "slug": "greetings-card-10",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-08.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-08.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/10.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/10.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-08.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-08.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/10.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/10.png"
             }
         ],
         "id": "a266d64f-b5b0-4790-b229-4dcb8352efd8"
@@ -13833,21 +13833,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 16",
-        "slug": "greetings-card-16",
+        "name": "Birthday Card 11",
+        "slug": "greetings-card-11",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-20.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-20.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/11.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/11.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-20.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-20.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/11.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/11.png"
             }
         ],
         "id": "56cf0065-f6e7-4ec7-9ff6-f390ac6fcf2f"
@@ -14566,21 +14566,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 17",
-        "slug": "greetings-card-17",
+        "name": "Birthday Card 12",
+        "slug": "greetings-card-12",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-10.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-10.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/12.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/12.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-10.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-10.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/12.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/12.png"
             }
         ],
         "id": "103e0600-ffe6-4110-ae9a-23325e6fd483"
@@ -15299,21 +15299,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 18",
-        "slug": "greetings-card-18",
+        "name": "Birthday Card 13",
+        "slug": "greetings-card-13",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-06.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-06.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/13.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/13.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-06.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-06.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/13.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/13.png"
             }
         ],
         "id": "052f9c0e-354b-4f9d-92e0-fa499fd4c6fe"
@@ -16032,21 +16032,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 19",
-        "slug": "greetings-card-19",
+        "name": "Birthday Card 14",
+        "slug": "greetings-card-14",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-04.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-04.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/14.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/14.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-04.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-04.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/14.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/14.png"
             }
         ],
         "id": "a5119cef-8dd1-4a70-9736-0ee40521d698"
@@ -16765,21 +16765,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 20",
-        "slug": "greetings-card-20",
+        "name": "Birthday Card 15",
+        "slug": "greetings-card-15",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-52.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-52.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/15.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/15.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-52.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-52.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/15.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/15.png"
             }
         ],
         "id": "949a22f4-0387-4d8c-853d-90aa7262949e"
@@ -17498,21 +17498,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 21",
-        "slug": "greetings-card-21",
+        "name": "Birthday Card 16",
+        "slug": "greetings-card-16",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-48.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-48.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/16.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/16.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-48.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-48.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/16.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/16.png"
             }
         ],
         "id": "9a62bea9-5912-4c3e-9793-409d2a76363a"
@@ -18231,21 +18231,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 22",
-        "slug": "greetings-card-22",
+        "name": "Birthday Card 17",
+        "slug": "greetings-card-17",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-42.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-42.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/17.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/17.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-42.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-42.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/17.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/17.png"
             }
         ],
         "id": "2fb39c30-8447-43e1-966f-76f03a9375ef"
@@ -18964,21 +18964,21 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 23",
-        "slug": "greetings-card-23",
+        "name": "Birthday Card 18",
+        "slug": "greetings-card-18",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-32.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-32.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/18.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/18.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-32.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-32.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/18.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/18.png"
             }
         ],
         "id": "ff059b5c-78df-49de-b7d3-d156ed6c23b8"
@@ -19697,807 +19697,24 @@
         ],
         "tags": [],
         "author": null,
-        "name": "Birthday Card 24",
-        "slug": "greetings-card-24",
+        "name": "Birthday Card 19",
+        "slug": "greetings-card-19",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-18.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-18.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/19.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/19.png",
             "_id": "66c75afbbdc1efe45d9022c8"
         },
         "gallery": [
             {
                 "_id": "66c75afbbdc1efe45d9022c9",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-18.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-18.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/19.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/19.png"
             }
         ],
         "id": "754f5d99-e120-4c78-9eea-5098a9a605bc"
-    },
-    {
-        "shop": {
-            "address": {
-                "zip": "61032",
-                "city": "Freeport",
-                "state": "Illinois",
-                "country": "USA",
-                "street_address": "1986  Spinnaker Lane"
-            },
-            "settings": {
-                "location": {
-                    "lat": 38.9032325,
-                    "lng": -77.0211068,
-                    "city": "Washington",
-                    "state": "DC",
-                    "country": "United States",
-                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
-                },
-                "contact": "018927525111",
-                "socials": [
-                    {
-                        "_id": "66c75afbbdc1efe45d9022f4",
-                        "url": "https://www.facebook.com/",
-                        "icon": "FacebookIcon"
-                    },
-                    {
-                        "_id": "66c75afbbdc1efe45d9022f5",
-                        "url": "https://www.instagram.com/",
-                        "icon": "InstagramIcon"
-                    },
-                    {
-                        "_id": "66c75afbbdc1efe45d9022f6",
-                        "url": "https://www.twitter.com/",
-                        "icon": "TwitterIcon"
-                    }
-                ],
-                "website": "https://redq.io/"
-            },
-            "id": 6,
-            "owner_id": 1,
-            "name": "Grocery Shop",
-            "slug": "grocery-shop",
-            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
-            "cover_image": {
-                "id": "894",
-                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
-                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
-                "_id": "66c75afbbdc1efe45d9022f2"
-            },
-            "logo": {
-                "id": "893",
-                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
-                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
-                "_id": "66c75afbbdc1efe45d9022f3"
-            },
-            "is_active": 1,
-            "created_at": "2021-06-27T03:48:23.000Z",
-            "updated_at": "2021-07-08T09:22:38.000Z"
-        },
-        "_id": "26ce98fe-38c8-4aa0-8e1e-f084b85032f6",
-        "id": "0c879621-f064-4c93-82af-56af8e3e69c7",
-        "name": "Birthday Card 4",
-        "slug": "greetings-card-4",
-        "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
-        "type_id": 1,
-        "price": 2,
-        "shop_id": 6,
-        "sale_price": 50,
-        "language": "en",
-        "min_price": 50,
-        "max_price": 10000,
-        "sku": "1",
-        "quantity": 18,
-        "in_stock": 1,
-        "is_taxable": 0,
-        "shipping_class_id": null,
-        "status": "publish",
-        "product_type": "variable",
-        "unit": "1lb",
-        "height": null,
-        "width": null,
-        "length": null,
-        "image": {
-            "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-30+4.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-30+4.png",
-            "_id": "66c75afbbdc1efe45d9022ec"
-        },
-        "video": null,
-        "gallery": [
-            {
-                "_id": "66c75afbbdc1efe45d9022ed",
-                "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-30+4.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-30+4.png"
-            }
-        ],
-        "deleted_at": null,
-        "created_at": "2021-03-08T10:24:53.000Z",
-        "updated_at": "2021-12-23T18:16:06.000Z",
-        "author_id": null,
-        "manufacturer_id": null,
-        "is_digital": 0,
-        "is_external": 0,
-        "external_product_url": null,
-        "external_product_button_text": null,
-        "ratings": 4.67,
-        "total_reviews": 3,
-        "rating_count": [
-            {
-                "_id": "66c75afbbdc1efe45d9022ee",
-                "rating": 5,
-                "total": 2,
-                "positive_feedbacks_count": 0,
-                "negative_feedbacks_count": 0,
-                "my_feedback": null,
-                "abusive_reports_count": 0
-            },
-            {
-                "_id": "66c75afbbdc1efe45d9022ef",
-                "rating": 4,
-                "total": 1,
-                "positive_feedbacks_count": 0,
-                "negative_feedbacks_count": 0,
-                "my_feedback": null,
-                "abusive_reports_count": 0
-            }
-        ],
-        "my_review": null,
-        "in_wishlist": false,
-        "blocked_dates": [],
-        "translated_languages": [
-            "en"
-        ],
-        "categories": [
-            {
-                "type": null,
-                "children": [],
-                "products_count": 0,
-                "_id": "66c75afbbdc1efe45d9022f0",
-                "id": 1,
-                "name": "Greeting",
-                "slug": "Greeting",
-                "icon": "Greeting",
-                "language": "en",
-                "image": [],
-                "details": null,
-                "parent": null,
-                "type_id": 1,
-                "created_at": "2021-03-08T07:21:31.000Z",
-                "updated_at": "2021-03-08T07:21:31.000Z",
-                "deleted_at": null,
-                "parent_id": null,
-                "translated_languages": [
-                    "en"
-                ],
-                "pivot": {
-                    "product_id": 1,
-                    "category_id": 1
-                }
-            },
-            {
-                "type": null,
-                "children": [],
-                "products_count": 0,
-                "_id": "66c75afbbdc1efe45d9022f1",
-                "id": 2,
-                "name": "Birthday Cards",
-                "slug": "birthday-cards",
-                "icon": "BirthdayCards",
-                "language": "en",
-                "image": [],
-                "details": null,
-                "type_id": 1,
-                "created_at": "2021-03-08T07:22:04.000Z",
-                "updated_at": "2021-03-08T07:22:04.000Z",
-                "deleted_at": null,
-                "parent_id": 1,
-                "translated_languages": [
-                    "en"
-                ],
-                "pivot": {
-                    "product_id": 1,
-                    "category_id": 2
-                }
-            }
-        ],
-        "type": {
-            "id": 1,
-            "name": "Grocery",
-            "settings": {
-                "isHome": true,
-                "layoutType": "classic",
-                "productCard": "helium",
-                "_id": "66c75afbbdc1efe45d9022f7"
-            },
-            "slug": "grocery",
-            "language": "en",
-            "icon": "FruitsVegetable",
-            "promotional_sliders": [
-                {
-                    "_id": "66c75afbbdc1efe45d9022f8",
-                    "id": "902",
-                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
-                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
-                },
-                {
-                    "_id": "66c75afbbdc1efe45d9022f9",
-                    "id": "903",
-                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
-                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
-                },
-                {
-                    "_id": "66c75afbbdc1efe45d9022fa",
-                    "id": "904",
-                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
-                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
-                },
-                {
-                    "_id": "66c75afbbdc1efe45d9022fb",
-                    "id": "905",
-                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
-                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
-                },
-                {
-                    "_id": "66c75afbbdc1efe45d9022fc",
-                    "id": "906",
-                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
-                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
-                }
-            ],
-            "created_at": "2021-03-08T07:18:25.000Z",
-            "updated_at": "2021-09-26T15:23:32.000Z",
-            "translated_languages": [
-                "en"
-            ],
-            "_id": "66c75afbbdc1efe45d9022fd"
-        },
-        "variations": [
-            {
-                "id": 50,
-                "attribute_id": 3,
-                "value": "50",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 100,
-                "attribute_id": 3,
-                "value": "100",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 300,
-                "attribute_id": 3,
-                "value": "300",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 500,
-                "attribute_id": 3,
-                "value": "500",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 1000,
-                "attribute_id": 3,
-                "value": "1000",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 2000,
-                "attribute_id": 3,
-                "value": "2000",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 4000,
-                "attribute_id": 3,
-                "value": "4000",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            },
-            {
-                "id": 10000,
-                "attribute_id": 3,
-                "value": "10000",
-                "attribute": {
-                    "id": 3,
-                    "slug": "available-in",
-                    "name": "Available In",
-                    "values": [
-                        {
-                            "id": 8,
-                            "attribute_id": 3,
-                            "value": "50"
-                        },
-                        {
-                            "id": 9,
-                            "attribute_id": 3,
-                            "value": "100"
-                        },
-                        {
-                            "id": 10,
-                            "attribute_id": 3,
-                            "value": "300"
-                        },
-                        {
-                            "id": 11,
-                            "attribute_id": 3,
-                            "value": "500"
-                        },
-                        {
-                            "id": 12,
-                            "attribute_id": 3,
-                            "value": "1000"
-                        },
-                        {
-                            "id": 13,
-                            "attribute_id": 3,
-                            "value": "2000"
-                        },
-                        {
-                            "id": 14,
-                            "attribute_id": 3,
-                            "value": "4000"
-                        },
-                        {
-                            "id": 15,
-                            "attribute_id": 3,
-                            "value": "10000"
-                        }
-                    ]
-                }
-            }
-        ],
-        "metas": [],
-        "manufacturer": null,
-        "variation_options": [
-            {
-                "id": 247,
-                "title": "50",
-                "price": 50,
-                "sale_price": null,
-                "quantity": "100",
-                "is_disable": 0,
-                "sku": "200101",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "50"
-                    }
-                ]
-            },
-            {
-                "id": 248,
-                "title": "100",
-                "price": 100,
-                "sale_price": null,
-                "quantity": "200",
-                "is_disable": 0,
-                "sku": "200102",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "100"
-                    }
-                ]
-            },
-            {
-                "id": 249,
-                "title": "300",
-                "price": 300,
-                "sale_price": null,
-                "quantity": "50",
-                "is_disable": 0,
-                "sku": "200103",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "300"
-                    }
-                ]
-            },
-            {
-                "id": 250,
-                "title": "500",
-                "price": 500,
-                "sale_price": null,
-                "quantity": "60",
-                "is_disable": 0,
-                "sku": "200104",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "500"
-                    }
-                ]
-            },
-            {
-                "id": 251,
-                "title": "1000",
-                "price": 1000,
-                "sale_price": null,
-                "quantity": "70",
-                "is_disable": 0,
-                "sku": "200105",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "1000"
-                    }
-                ]
-            },
-            {
-                "id": 252,
-                "title": "2000",
-                "price": 2000,
-                "sale_price": null,
-                "quantity": "80",
-                "is_disable": 0,
-                "sku": "200106",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "2000"
-                    }
-                ]
-            },
-            {
-                "id": 253,
-                "title": "4000",
-                "price": 4000,
-                "sale_price": null,
-                "quantity": "90",
-                "is_disable": 0,
-                "sku": "200107",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "4000"
-                    }
-                ]
-            },
-            {
-                "id": 254,
-                "title": "10000",
-                "price": 10000,
-                "sale_price": null,
-                "quantity": "100",
-                "is_disable": 0,
-                "sku": "200108",
-                "options": [
-                    {
-                        "name": "Available In",
-                        "value": "10000"
-                    }
-                ]
-            }
-        ],
-        "tags": [],
-        "author": null
     },
     {
         "shop": {
@@ -20560,8 +19777,8 @@
         },
         "_id": "9d4e96e0-ef44-4719-848f-b03cb3c67d68",
         "id": "8b208240-cfca-4e35-b1e0-3c214ddad844",
-        "name": "Birthday Card 2",
-        "slug": "greetings-card-2",
+        "name": "Birthday Card 20",
+        "slug": "greetings-card-20",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -20583,8 +19800,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-44.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-44.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/20.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/20.png",
             "_id": "66c75afbbdc1efe45d9022fe"
         },
         "video": null,
@@ -20592,8 +19809,8 @@
             {
                 "_id": "66c75afbbdc1efe45d9022ff",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-44.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-44.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/20.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/20.png"
             }
         ],
         "deleted_at": null,
@@ -21343,8 +20560,8 @@
         },
         "_id": "f444d0b7-c62f-4794-bdf2-b854cc6b2214",
         "id": "e36cc75e-4d3e-48c6-8e13-36180ef30906",
-        "name": "Birthday Card 6",
-        "slug": "greetings-card-6",
+        "name": "Birthday Card 21",
+        "slug": "greetings-card-21",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -21366,8 +20583,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-46+2.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-46+2.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/21.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/21.png",
             "_id": "66c75afbbdc1efe45d902310"
         },
         "video": null,
@@ -21375,8 +20592,8 @@
             {
                 "_id": "66c75afbbdc1efe45d902311",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-46+2.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-46+2.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/21.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/21.png"
             }
         ],
         "deleted_at": null,
@@ -22126,8 +21343,8 @@
         },
         "_id": "b1cc5d3d-f7c1-4338-81ac-e6d05e1fb1f0",
         "id": "63322188-941a-4eef-b86a-a22c00fe07af",
-        "name": "Birthday Card 7",
-        "slug": "greetings-card-7",
+        "name": "Birthday Card 22",
+        "slug": "greetings-card-22",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -22149,8 +21366,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-50+2.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-50+2.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/22.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/22.png",
             "_id": "66c75afcbdc1efe45d902322"
         },
         "video": null,
@@ -22158,8 +21375,8 @@
             {
                 "_id": "66c75afcbdc1efe45d902323",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-50+2.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-50+2.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/22.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/22.png"
             }
         ],
         "deleted_at": null,
@@ -22909,8 +22126,8 @@
         },
         "_id": "2b1827ef-1a59-47b6-bfb3-aafdb7fd2072",
         "id": "f1853975-79d8-4fe3-bbef-ca7c27ccb35a",
-        "name": "Birthday Card 5",
-        "slug": "greetings-card-5",
+        "name": "Birthday Card 23",
+        "slug": "greetings-card-23",
         "description": "Surprise someone special with the ultimate future-focused gift on their big day. The Indexx Birthday Cards combine heartfelt wishes with the excitement of cryptocurrency. Each card contains USD, easily convertible to crypto, turning any birthday into a growing investment in their future. Give them the gift that appreciates with time!",
         "type_id": 1,
         "price": 2,
@@ -22932,8 +22149,8 @@
         "length": null,
         "image": {
             "id": "1",
-            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-54+2.png",
-            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-54+2.png",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/23.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/23.png",
             "_id": "66c75afcbdc1efe45d902334"
         },
         "video": null,
@@ -22941,8 +22158,8 @@
             {
                 "_id": "66c75afcbdc1efe45d902335",
                 "id": "573",
-                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-54+2.png",
-                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-54+2.png"
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/23.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/23.png"
             }
         ],
         "deleted_at": null,
