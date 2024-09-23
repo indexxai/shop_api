@@ -68,7 +68,7 @@
         "name": "Bitcoin Card 1",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_100.png",
         "currencies": [
-            "BTC"
+            "USD"
         ]
     },
     {
@@ -76,7 +76,7 @@
         "name": "Bitcoin Card 2",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_200.png",
         "currencies": [
-            "BTC"
+            "USD"
         ]
     },
     {
@@ -84,7 +84,7 @@
         "name": "Bitcoin Card 3",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_300.png",
         "currencies": [
-            "BTC"
+            "USD"
         ]
     },
     {
@@ -92,7 +92,7 @@
         "name": "Bitcoin Card 4",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_500.png",
         "currencies": [
-            "BTC"
+            "USD"
         ]
     },
     {
@@ -100,7 +100,7 @@
         "name": "Bitcoin Card 5",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/btc_1000.png",
         "currencies": [
-            "BTC"
+            "USD"
         ]
     },
     {
@@ -108,7 +108,7 @@
         "name": "Tether Card 1",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+100.png",
         "currencies": [
-            "USDT"
+            "USD"
         ]
     },
     {
@@ -116,7 +116,7 @@
         "name": "Tether Card 2",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+200.png",
         "currencies": [
-            "USDT"
+            "USD"
         ]
     },
     {
@@ -124,7 +124,7 @@
         "name": "Tether Card 3",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+300.png",
         "currencies": [
-            "USDT"
+            "USD"
         ]
     },
     {
@@ -132,7 +132,7 @@
         "name": "Tether Card 4",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+500.png",
         "currencies": [
-            "USDT"
+            "USD"
         ]
     },
     {
@@ -140,7 +140,7 @@
         "name": "Tether Card 5",
         "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Crypto/usdt+1000.png",
         "currencies": [
-            "USDT"
+            "USD"
         ]
     },
     {
@@ -176,161 +176,9 @@
         ]
     },
     {
-        "slug": "greetings-card-8",
-        "name": "Birthday Card 8",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-40.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-9",
-        "name": "Birthday Card 9",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-38.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-10",
-        "name": "Birthday Card 10",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-34.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
         "slug": "greetings-card-1",
         "name": "Birthday Card 1",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/BD1.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-11",
-        "name": "Birthday Card 11",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-26.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-12",
-        "name": "Birthday Card 12",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-16.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-13",
-        "name": "Birthday Card 13",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-14.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-3",
-        "name": "Birthday Card 3",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-24+2.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-14",
-        "name": "Birthday Card 14",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-12.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-15",
-        "name": "Birthday Card 15",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-08.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-16",
-        "name": "Birthday Card 16",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-20.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-17",
-        "name": "Birthday Card 17",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-10.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-18",
-        "name": "Birthday Card 18",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-06.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-19",
-        "name": "Birthday Card 19",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-04.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-20",
-        "name": "Birthday Card 20",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-52.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-21",
-        "name": "Birthday Card 21",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-48.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-22",
-        "name": "Birthday Card 22",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-42.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-23",
-        "name": "Birthday Card 23",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-32.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-24",
-        "name": "Birthday Card 24",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-18.png",
-        "currencies": [
-            "USD"
-        ]
-    },
-    {
-        "slug": "greetings-card-4",
-        "name": "Birthday Card 4",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-30+4.png",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/1.png",
         "currencies": [
             "USD"
         ]
@@ -338,23 +186,23 @@
     {
         "slug": "greetings-card-2",
         "name": "Birthday Card 2",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-44.png",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/2.png",
         "currencies": [
             "USD"
         ]
     },
     {
-        "slug": "greetings-card-6",
-        "name": "Birthday Card 6",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-46+2.png",
+        "slug": "greetings-card-3",
+        "name": "Birthday Card 3",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/3.png",
         "currencies": [
             "USD"
         ]
     },
     {
-        "slug": "greetings-card-7",
-        "name": "Birthday Card 7",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-50+2.png",
+        "slug": "greetings-card-4",
+        "name": "Birthday Card 4",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/4.png",
         "currencies": [
             "USD"
         ]
@@ -362,7 +210,151 @@
     {
         "slug": "greetings-card-5",
         "name": "Birthday Card 5",
-        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/G-54+2.png",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/5.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-6",
+        "name": "Birthday Card 6",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/6.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-7",
+        "name": "Birthday Card 7",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/7.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-8",
+        "name": "Birthday Card 8",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/8.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-9",
+        "name": "Birthday Card 9",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/9.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-10",
+        "name": "Birthday Card 10",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/10.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-11",
+        "name": "Birthday Card 11",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/11.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-12",
+        "name": "Birthday Card 12",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/12.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-13",
+        "name": "Birthday Card 13",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/13.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-14",
+        "name": "Birthday Card 14",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/14.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-15",
+        "name": "Birthday Card 15",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/15.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-16",
+        "name": "Birthday Card 16",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/16.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-17",
+        "name": "Birthday Card 17",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/17.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-18",
+        "name": "Birthday Card 18",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/18.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-19",
+        "name": "Birthday Card 19",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/19.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-20",
+        "name": "Birthday Card 20",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/20.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-21",
+        "name": "Birthday Card 21",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/21.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-22",
+        "name": "Birthday Card 22",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/22.png",
+        "currencies": [
+            "USD"
+        ]
+    },
+    {
+        "slug": "greetings-card-23",
+        "name": "Birthday Card 23",
+        "image": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Birthday+cards/23.png",
         "currencies": [
             "USD"
         ]
