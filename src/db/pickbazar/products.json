@@ -311,7 +311,7 @@
     "type_id": 1,
     "price": 100,
     "shop_id": 6,
-    "sale_price": 1,
+    "sale_price": 100,
     "language": "en",
     "min_price": 100,
     "max_price": 100,
