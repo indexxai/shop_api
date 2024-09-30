@@ -128,7 +128,7 @@
     "defaultAi": "openai",
     "maxShopDistance": null,
     "siteLink": "https://shop.indexx.ai",
-    "copyrightText": "Copyright \u00a9 Indexx.ai. All rights reserved worldwide.",
+    "copyrightText": "Copyright \u00a9 Indexx.ai All rights reserved worldwide.",
     "externalText": "",
     "externalLink": "https://indexx.ai",
     "smsEvent": {
