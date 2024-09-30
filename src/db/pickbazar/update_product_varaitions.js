@@ -19,10 +19,7 @@ const newVariations = [
                 { "id": 9, "attribute_id": 3, "value": "100" },
                 { "id": 10, "attribute_id": 3, "value": "300" },
                 { "id": 11, "attribute_id": 3, "value": "500" },
-                { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
+                { "id": 12, "attribute_id": 3, "value": "1000" }
             ]
         }
     },
@@ -40,9 +37,6 @@ const newVariations = [
                 { "id": 10, "attribute_id": 3, "value": "300" },
                 { "id": 11, "attribute_id": 3, "value": "500" },
                 { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
             ]
         }
     },
@@ -59,10 +53,7 @@ const newVariations = [
                 { "id": 9, "attribute_id": 3, "value": "100" },
                 { "id": 10, "attribute_id": 3, "value": "300" },
                 { "id": 11, "attribute_id": 3, "value": "500" },
-                { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
+                { "id": 12, "attribute_id": 3, "value": "1000" }
             ]
         }
     },
@@ -80,9 +71,6 @@ const newVariations = [
                 { "id": 10, "attribute_id": 3, "value": "300" },
                 { "id": 11, "attribute_id": 3, "value": "500" },
                 { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
             ]
         }
     },
@@ -99,70 +87,7 @@ const newVariations = [
                 { "id": 9, "attribute_id": 3, "value": "100" },
                 { "id": 10, "attribute_id": 3, "value": "300" },
                 { "id": 11, "attribute_id": 3, "value": "500" },
-                { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
-            ]
-        }
-    },
-    {
-        "id": 2000,
-        "attribute_id": 3,
-        "value": "2000",
-        "attribute": {
-            "id": 3,
-            "slug": "available-in",
-            "name": "Available In",
-            "values": [
-                { "id": 8, "attribute_id": 3, "value": "50" },
-                { "id": 9, "attribute_id": 3, "value": "100" },
-                { "id": 10, "attribute_id": 3, "value": "300" },
-                { "id": 11, "attribute_id": 3, "value": "500" },
-                { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
-            ]
-        }
-    },
-    {
-        "id": 4000,
-        "attribute_id": 3,
-        "value": "4000",
-        "attribute": {
-            "id": 3,
-            "slug": "available-in",
-            "name": "Available In",
-            "values": [
-                { "id": 8, "attribute_id": 3, "value": "50" },
-                { "id": 9, "attribute_id": 3, "value": "100" },
-                { "id": 10, "attribute_id": 3, "value": "300" },
-                { "id": 11, "attribute_id": 3, "value": "500" },
-                { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
-            ]
-        }
-    },
-    {
-        "id": 10000,
-        "attribute_id": 3,
-        "value": "10000",
-        "attribute": {
-            "id": 3,
-            "slug": "available-in",
-            "name": "Available In",
-            "values": [
-                { "id": 8, "attribute_id": 3, "value": "50" },
-                { "id": 9, "attribute_id": 3, "value": "100" },
-                { "id": 10, "attribute_id": 3, "value": "300" },
-                { "id": 11, "attribute_id": 3, "value": "500" },
-                { "id": 12, "attribute_id": 3, "value": "1000" },
-                { "id": 13, "attribute_id": 3, "value": "2000" },
-                { "id": 14, "attribute_id": 3, "value": "4000" },
-                { "id": 15, "attribute_id": 3, "value": "10000" }
+                { "id": 12, "attribute_id": 3, "value": "1000" }
             ]
         }
     }
@@ -241,51 +166,6 @@ const newVariationOptions = [
             {
                 "name": "Available In",
                 "value": "1000"
-            }
-        ]
-    },
-    {
-        "id": 252,
-        "title": "2000",
-        "price": 2000,
-        "sale_price": null,
-        "quantity": "80",
-        "is_disable": 0,
-        "sku": "200106",
-        "options": [
-            {
-                "name": "Available In",
-                "value": "2000"
-            }
-        ]
-    },
-    {
-        "id": 253,
-        "title": "4000",
-        "price": 4000,
-        "sale_price": null,
-        "quantity": "90",
-        "is_disable": 0,
-        "sku": "200107",
-        "options": [
-            {
-                "name": "Available In",
-                "value": "4000"
-            }
-        ]
-    },
-    {
-        "id": 254,
-        "title": "10000",
-        "price": 10000,
-        "sale_price": null,
-        "quantity": "100",
-        "is_disable": 0,
-        "sku": "200108",
-        "options": [
-            {
-                "name": "Available In",
-                "value": "10000"
             }
         ]
     }
