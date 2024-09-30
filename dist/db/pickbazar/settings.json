@@ -67,15 +67,15 @@
             "contact": "+129290122122",
             "socials": [
                 {
-                    "url": "https://www.facebook.com/redqinc",
+                    "url": "https://www.facebook.com/profile.php?id=100086225564460",
                     "icon": "FacebookIcon"
                 },
                 {
-                    "url": "https://twitter.com/RedqTeam",
+                    "url": "https://x.com/Indexx_ai",
                     "icon": "TwitterIcon"
                 },
                 {
-                    "url": "https://www.instagram.com/redqteam",
+                    "url": "https://www.instagram.com/indexx_ai/",
                     "icon": "InstagramIcon"
                 }
             ],
@@ -128,9 +128,9 @@
         "defaultAi": "openai",
         "maxShopDistance": null,
         "siteLink": "https://shop.indexx.ai",
-        "copyrightText": "Copyright \u00a9 REDQ. All rights reserved worldwide.",
-        "externalText": "REDQ",
-        "externalLink": "https://redq.io",
+        "copyrightText": "Copyright \u00a9 Indexx.ai. All rights reserved worldwide.",
+        "externalText": "",
+        "externalLink": "https://indexx.ai",
         "smsEvent": {
             "admin": {
                 "statusChangeOrder": false,
