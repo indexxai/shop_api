@@ -130,9 +130,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -152,9 +150,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -177,9 +173,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -232,9 +226,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d902129"
     },
     "variations": [],
@@ -375,9 +367,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -397,9 +387,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -422,9 +410,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -477,9 +463,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90213b"
     },
     "variations": [],
@@ -620,9 +604,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -642,9 +624,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -667,9 +647,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -722,9 +700,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90214d"
     },
     "variations": [],
@@ -865,9 +841,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -887,9 +861,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -912,9 +884,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -967,9 +937,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90215f"
     },
     "variations": [],
@@ -1110,9 +1078,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -1132,9 +1098,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -1157,9 +1121,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -1212,9 +1174,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d902171"
     },
     "variations": [],
@@ -1355,9 +1315,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -1377,9 +1335,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -1402,9 +1358,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -1457,9 +1411,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d902183"
     },
     "variations": [],
@@ -1600,9 +1552,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -1622,9 +1572,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -1647,9 +1595,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -1702,9 +1648,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d902195"
     },
     "variations": [],
@@ -1845,9 +1789,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -1867,9 +1809,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -1892,9 +1832,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -1947,9 +1885,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -2090,9 +2026,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -2112,9 +2046,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -2137,9 +2069,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -2192,9 +2122,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -2335,9 +2263,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -2357,9 +2283,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -2382,9 +2306,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -2437,9 +2359,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -2580,9 +2500,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -2602,9 +2520,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -2627,9 +2543,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -2682,9 +2596,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -2825,9 +2737,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -2847,9 +2757,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -2872,9 +2780,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -2927,9 +2833,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -3070,9 +2974,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -3092,9 +2994,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -3117,9 +3017,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -3172,9 +3070,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -3315,9 +3211,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -3337,9 +3231,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -3362,9 +3254,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -3417,9 +3307,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -3560,9 +3448,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -3582,9 +3468,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -3607,9 +3491,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -3662,9 +3544,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -3805,9 +3685,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -3827,9 +3705,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -3852,9 +3728,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -3907,9 +3781,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -4050,9 +3922,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -4072,9 +3942,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -4097,9 +3965,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -4152,9 +4018,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -4295,9 +4159,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -4317,9 +4179,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -4342,9 +4202,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -4397,9 +4255,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9021a7"
     },
     "variations": [],
@@ -4540,9 +4396,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -4562,9 +4416,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -4587,9 +4439,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -4642,9 +4492,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d902249"
     },
     "variations": [],
@@ -4785,9 +4633,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -4807,9 +4653,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -4832,9 +4676,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -4887,9 +4729,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90225b"
     },
     "variations": [],
@@ -5030,9 +4870,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -5052,9 +4890,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -5077,9 +4913,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -5132,9 +4966,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90226d"
     },
     "variations": [],
@@ -5275,9 +5107,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -5297,9 +5127,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -5322,9 +5150,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -5377,9 +5203,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90227f"
     },
     "variations": [],
@@ -5520,9 +5344,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -5530,9 +5352,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -5542,9 +5364,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -5567,9 +5387,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -5622,9 +5440,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -6027,9 +5843,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -6037,9 +5851,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -6049,9 +5863,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -6074,9 +5886,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -6129,9 +5939,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -6534,9 +6342,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -6544,9 +6350,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -6556,9 +6362,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -6581,9 +6385,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -6636,9 +6438,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -7041,9 +6841,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -7051,9 +6849,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -7063,9 +6861,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -7088,9 +6884,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -7143,9 +6937,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -7548,9 +7340,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -7558,9 +7348,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -7570,9 +7360,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -7595,9 +7383,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -7650,9 +7436,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -8055,9 +7839,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -8065,9 +7847,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -8077,9 +7859,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -8102,9 +7882,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -8157,9 +7935,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -8562,9 +8338,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -8572,9 +8346,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022cc",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -8584,9 +8358,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -8609,9 +8381,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -8664,9 +8434,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -9069,9 +8837,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -9079,9 +8845,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d9022de",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -9091,9 +8857,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -9116,9 +8880,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -9171,9 +8933,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022eb"
     },
     "variations": [
@@ -9537,9 +9297,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -9610,9 +9368,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -9994,9 +9750,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -10067,9 +9821,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -10451,9 +10203,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -10524,9 +10274,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -10908,9 +10656,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -10981,9 +10727,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -11365,9 +11109,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -11438,9 +11180,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -11822,9 +11562,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -11895,9 +11633,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -12279,9 +12015,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -12352,9 +12086,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -12736,9 +12468,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -12809,9 +12539,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -13193,9 +12921,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -13266,9 +12992,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -13650,9 +13374,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -13723,9 +13445,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -14107,9 +13827,7 @@
     "total_reviews": 3,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "id": 1,
@@ -14180,9 +13898,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d9022d9"
     },
     "variations": [
@@ -14603,9 +14319,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -14613,9 +14327,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d902302",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -14625,9 +14339,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -14650,9 +14362,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -14705,9 +14415,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d90230f"
     },
     "variations": [
@@ -15110,9 +14818,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -15120,9 +14826,9 @@
         "products_count": 0,
         "_id": "66c75afbbdc1efe45d902314",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -15132,9 +14838,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -15157,9 +14861,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -15212,9 +14914,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afbbdc1efe45d902321"
     },
     "variations": [
@@ -15617,9 +15317,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -15627,9 +15325,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d902326",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -15639,9 +15337,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -15664,9 +15360,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -15719,9 +15413,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902333"
     },
     "variations": [
@@ -16124,9 +15816,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -16134,9 +15824,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d902338",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -16146,9 +15836,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -16171,9 +15859,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -16226,9 +15912,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902345"
     },
     "variations": [
@@ -16631,9 +16315,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -16641,9 +16323,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90234a",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -16653,9 +16335,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -16678,9 +16358,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -16733,9 +16411,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -17138,9 +16814,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -17148,9 +16822,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90235c",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -17160,9 +16834,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -17185,9 +16857,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -17240,9 +16910,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902369"
     },
     "variations": [
@@ -17645,9 +17313,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -17655,9 +17321,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -17667,9 +17333,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -17692,9 +17356,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -17747,9 +17409,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d90237b"
     },
     "variations": [
@@ -18152,9 +17812,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -18162,9 +17820,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90234a",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -18174,9 +17832,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -18199,9 +17855,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -18254,9 +17908,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -18659,9 +18311,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -18669,9 +18319,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90234a",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -18681,9 +18331,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -18706,9 +18354,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -18761,9 +18407,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -19166,9 +18810,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -19176,9 +18818,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90234a",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -19188,9 +18830,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -19213,9 +18853,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -19268,9 +18906,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -19673,9 +19309,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -19683,9 +19317,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90234a",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -19695,9 +19329,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -19720,9 +19352,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -19775,9 +19405,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -20180,9 +19808,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -20190,9 +19816,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90234a",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -20202,9 +19828,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -20227,9 +19851,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -20282,9 +19904,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -20687,9 +20307,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -20709,9 +20327,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -20734,9 +20350,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -20789,9 +20403,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d9023d5"
     },
     "variations": [],
@@ -20932,9 +20544,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -20942,9 +20552,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -20954,9 +20564,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -20979,9 +20587,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -21034,9 +20640,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -21439,9 +21043,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -21449,9 +21051,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -21461,9 +21063,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -21486,9 +21086,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -21541,9 +21139,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -21946,9 +21542,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -21956,9 +21550,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -21968,9 +21562,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -21993,9 +21585,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -22048,9 +21638,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -22453,9 +22041,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -22463,9 +22049,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -22475,9 +22061,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -22500,9 +22084,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -22555,9 +22137,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -22960,9 +22540,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -22970,9 +22548,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -22982,9 +22560,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -23007,9 +22583,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -23062,9 +22636,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -23467,9 +23039,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -23477,9 +23047,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -23489,9 +23059,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -23514,9 +23082,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -23569,9 +23135,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -23974,9 +23538,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -23984,9 +23546,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -23996,9 +23558,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -24021,9 +23581,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -24076,9 +23634,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -24481,9 +24037,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -24491,9 +24045,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -24503,9 +24057,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -24528,9 +24080,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -24583,9 +24133,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -24988,9 +24536,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -24998,9 +24544,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -25010,9 +24556,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -25035,9 +24579,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -25090,9 +24632,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -25495,9 +25035,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -25505,9 +25043,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -25517,9 +25055,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -25542,9 +25078,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -25597,9 +25131,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -26002,9 +25534,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -26012,9 +25542,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -26024,9 +25554,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -26049,9 +25577,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -26104,9 +25630,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -26509,9 +26033,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -26519,9 +26041,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -26531,9 +26053,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -26556,9 +26076,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -26611,9 +26129,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -27016,9 +26532,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -27026,9 +26540,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -27038,9 +26552,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -27063,9 +26575,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -27118,9 +26628,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -27523,9 +27031,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -27533,9 +27039,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -27545,9 +27051,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -27570,9 +27074,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -27625,9 +27127,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -28030,9 +27530,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -28040,9 +27538,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -28052,9 +27550,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -28077,9 +27573,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -28132,9 +27626,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -28537,9 +28029,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -28547,9 +28037,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -28559,9 +28049,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -28584,9 +28072,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -28639,9 +28125,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -29044,9 +28528,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -29054,9 +28536,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -29066,9 +28548,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -29091,9 +28571,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -29146,9 +28624,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -29551,9 +29027,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -29561,9 +29035,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -29573,9 +29047,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -29598,9 +29070,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -29653,9 +29123,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -30058,9 +29526,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -30068,9 +29534,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -30080,9 +29546,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -30105,9 +29569,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -30160,9 +29622,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -30565,9 +30025,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -30575,9 +30033,9 @@
         "products_count": 0,
         "_id": "66c75afcbdc1efe45d90236e",
         "id": 1,
-        "name": "Greeting",
+        "name": "Greeting Cards",
         "slug": "greeting",
-        "icon": "Greeting",
+        "icon": "GreetingCards",
         "language": "en",
         "image": [],
         "details": null,
@@ -30587,9 +30045,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -30612,9 +30068,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -30667,9 +30121,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902357"
     },
     "variations": [
@@ -31072,9 +30524,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -31094,9 +30544,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -31119,9 +30567,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -31174,9 +30620,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d90242f"
     },
     "variations": [],
@@ -31317,9 +30761,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -31339,9 +30781,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -31364,9 +30804,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -31419,9 +30857,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d902489"
     },
     "variations": [],
@@ -31562,9 +30998,7 @@
     "my_review": null,
     "in_wishlist": false,
     "blocked_dates": [],
-    "translated_languages": [
-      "en"
-    ],
+    "translated_languages": ["en"],
     "categories": [
       {
         "type": null,
@@ -31584,9 +31018,7 @@
         "updated_at": "2021-03-08T07:21:31.000Z",
         "deleted_at": null,
         "parent_id": null,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 1
@@ -31609,9 +31041,7 @@
         "updated_at": "2021-03-08T07:22:04.000Z",
         "deleted_at": null,
         "parent_id": 1,
-        "translated_languages": [
-          "en"
-        ],
+        "translated_languages": ["en"],
         "pivot": {
           "product_id": 1,
           "category_id": 2
@@ -31664,9 +31094,7 @@
       ],
       "created_at": "2021-03-08T07:18:25.000Z",
       "updated_at": "2021-09-26T15:23:32.000Z",
-      "translated_languages": [
-        "en"
-      ],
+      "translated_languages": ["en"],
       "_id": "66c75afcbdc1efe45d9024e3"
     },
     "variations": [],
