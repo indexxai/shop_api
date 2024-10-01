@@ -44,7 +44,7 @@ let ProductsService = class ProductsService {
     create(createProductDto) {
         return this.products[0];
     }
-    getProducts({ limit, page, search }) {
+    getProducts0({ limit, page, search }) {
         var _a;
         if (!page)
             page = 1;
@@ -57,6 +57,7 @@ let ProductsService = class ProductsService {
         if (search) {
             const parseSearchParams = search.split(';');
             const searchText = [];
+            console.log('searchJoin in 0', parseSearchParams);
             for (const searchParam of parseSearchParams) {
                 const [key, value] = searchParam.split(':');
                 if (key !== 'slug') {
@@ -86,6 +87,143 @@ let ProductsService = class ProductsService {
         }
         console.log('after data', data.length);
         if (slugValue) {
+            data.sort((a, b) => a.name.localeCompare(b.name, undefined, {
+                numeric: true,
+                sensitivity: 'base',
+            }));
+        }
+        const results = data.slice(startIndex, endIndex);
+        const url = `/products?search=${search}&limit=${limit}`;
+        return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
+    }
+    getProducts1({ limit, page, search }) {
+        var _a;
+        if (!page)
+            page = 1;
+        if (!limit)
+            limit = 30;
+        const startIndex = (page - 1) * limit;
+        const endIndex = page * limit;
+        let data = this.products;
+        let slugValue = '';
+        let hasName = false;
+        let nameValue = '';
+        const searchText = [];
+        if (search) {
+            const parseSearchParams = search.split(';');
+            console.log('searchJoin', parseSearchParams);
+            for (const searchParam of parseSearchParams) {
+                const [key, value] = searchParam.split(':');
+                if (key === 'name') {
+                    hasName = true;
+                    nameValue = value;
+                }
+            }
+            for (const searchParam of parseSearchParams) {
+                const [key, value] = searchParam.split(':');
+                if (!hasName) {
+                    if (key !== 'slug') {
+                        searchText.push({
+                            [key]: value,
+                        });
+                    }
+                    if (key === 'categories.slug') {
+                        slugValue = value;
+                    }
+                }
+            }
+            console.log('searchText', searchText, data.length);
+            if (hasName) {
+                const nameRegex = new RegExp(`^${nameValue}`, 'i');
+                data = data.filter((product) => nameRegex.test(product.name));
+            }
+            else {
+                data = (_a = fuse
+                    .search({
+                    $and: searchText,
+                })) === null || _a === void 0 ? void 0 : _a.map(({ item }) => item);
+            }
+        }
+        console.log('before data', data.length);
+        if (!hasName && slugValue) {
+            if (slugValue === 'power-pack') {
+                console.log('true in power');
+                data = data.filter((product) => product.categories.some((category) => category.slug === 'power-pack'));
+            }
+            else if (slugValue === 'token-pack') {
+                console.log('true in token');
+                data = data.filter((product) => product.categories.some((category) => category.slug === 'token-pack'));
+            }
+        }
+        console.log('after data', data.length);
+        if (slugValue || hasName) {
+            data.sort((a, b) => a.name.localeCompare(b.name, undefined, {
+                numeric: true,
+                sensitivity: 'base',
+            }));
+        }
+        const results = data.slice(startIndex, endIndex);
+        const url = `/products?search=${search}&limit=${limit}`;
+        return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
+    }
+    getProducts({ limit, page, search }) {
+        var _a;
+        if (!page)
+            page = 1;
+        if (!limit)
+            limit = 30;
+        const startIndex = (page - 1) * limit;
+        const endIndex = page * limit;
+        let data = this.products;
+        let slugValue = '';
+        let hasName = false;
+        let nameValue = '';
+        const searchText = [];
+        if (search) {
+            const parseSearchParams = search.split(';');
+            console.log('searchJoin', parseSearchParams);
+            for (const searchParam of parseSearchParams) {
+                const [key, value] = searchParam.split(':');
+                if (key === 'name') {
+                    hasName = true;
+                    nameValue = value;
+                }
+            }
+            for (const searchParam of parseSearchParams) {
+                const [key, value] = searchParam.split(':');
+                if (key === 'categories.slug') {
+                    slugValue = value;
+                }
+                if (key !== 'slug') {
+                    searchText.push({
+                        [key]: value,
+                    });
+                }
+            }
+            console.log('searchText', searchText, data.length);
+            if (hasName) {
+                const nameRegex = new RegExp(`^${nameValue}`, 'i');
+                data = data.filter((product) => {
+                    const matchesName = nameRegex.test(product.name);
+                    const matchesCategory = slugValue
+                        ? product.categories.some((category) => category.slug === slugValue)
+                        : true;
+                    return matchesName && matchesCategory;
+                });
+            }
+            else {
+                data = (_a = fuse
+                    .search({
+                    $and: searchText,
+                })) === null || _a === void 0 ? void 0 : _a.map(({ item }) => item);
+            }
+        }
+        console.log('before data', data.length);
+        if (!hasName && slugValue) {
+            data = data.filter((product) => product.categories.some((category) => category.slug === slugValue));
+        }
+        console.log('after data', data.length);
+        if (slugValue || hasName) {
             data.sort((a, b) => a.name.localeCompare(b.name, undefined, {
                 numeric: true,
                 sensitivity: 'base',

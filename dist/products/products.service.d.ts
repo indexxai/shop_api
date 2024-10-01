@@ -9,6 +9,8 @@ export declare class ProductsService {
     private popularProducts;
     private bestSellingProducts;
     create(createProductDto: CreateProductDto): any;
+    getProducts0({ limit, page, search }: GetProductsDto): ProductPaginator;
+    getProducts1({ limit, page, search }: GetProductsDto): ProductPaginator;
     getProducts({ limit, page, search }: GetProductsDto): ProductPaginator;
     getProductBySlug(slug: string): Product;
     getPopularProducts({ limit, type_slug }: GetPopularProductsDto): Product[];
