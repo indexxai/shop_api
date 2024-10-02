@@ -107,7 +107,7 @@ export class ProductsService {
     };
   }
 
-  getProducts1({ limit, page, search }: GetProductsDto): ProductPaginator {
+  getProducts({ limit, page, search }: GetProductsDto): ProductPaginator {
     if (!page) page = 1;
     if (!limit) limit = 30;
     const startIndex = (page - 1) * limit;
@@ -205,7 +205,7 @@ export class ProductsService {
     };
   }
 
-  getProducts({ limit, page, search }: GetProductsDto): ProductPaginator {
+  getProducts1({ limit, page, search }: GetProductsDto): ProductPaginator {
     if (!page) page = 1;
     if (!limit) limit = 30;
     const startIndex = (page - 1) * limit;

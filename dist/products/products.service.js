@@ -96,7 +96,7 @@ let ProductsService = class ProductsService {
         const url = `/products?search=${search}&limit=${limit}`;
         return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
     }
-    getProducts1({ limit, page, search }) {
+    getProducts({ limit, page, search }) {
         var _a;
         if (!page)
             page = 1;
@@ -166,7 +166,7 @@ let ProductsService = class ProductsService {
         const url = `/products?search=${search}&limit=${limit}`;
         return Object.assign({ data: results }, (0, paginate_1.paginate)(data.length, page, limit, results.length, url));
     }
-    getProducts({ limit, page, search }) {
+    getProducts1({ limit, page, search }) {
         var _a;
         if (!page)
             page = 1;
