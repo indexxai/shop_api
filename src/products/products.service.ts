@@ -181,7 +181,29 @@ export class ProductsService {
         data = data.filter((product) =>
           product.categories.some((category) => category.slug === 'token-pack'),
         );
+      } else if (slugValue === 'seasonal-cards/new-year-cards') {
+        console.log('true in token');
+        data = data.filter((product) =>
+          product.categories.some((category) => category.slug === 'seasonal-cards/new-year-cards'),
+        );
+      } else if (slugValue === 'seasonal-cards/christmas-cards') {
+        console.log('true in token');
+        data = data.filter((product) =>
+          product.categories.some((category) => category.slug === 'seasonal-cards/christmas-cards'),
+        );
+      } else if (slugValue === 'seasonal-cards/thanksgiving-cards') {
+        console.log('true in token');
+        data = data.filter((product) =>
+          product.categories.some((category) => category.slug === 'seasonal-cards/thanksgiving-cards'),
+        );
       }
+      else if (slugValue === 'seasonal-cards/halloween-cards') {
+        console.log('true in token');
+        data = data.filter((product) =>
+          product.categories.some((category) => category.slug === 'seasonal-cards/halloween-cards'),
+        );
+      }
+      console.log('slugValue', slugValue, data.length);
     }
 
     console.log('after data', data.length);

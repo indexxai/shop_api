@@ -20577,7 +20577,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -21076,7 +21076,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -21575,7 +21575,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -22074,7 +22074,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -22573,7 +22573,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/thanksgiving-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -23072,7 +23072,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/thanksgiving-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -23571,7 +23571,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/thanksgiving-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -24070,7 +24070,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/thanksgiving-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -24569,7 +24569,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/thanksgiving-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -25068,7 +25068,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -25567,7 +25567,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -26066,7 +26066,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -26565,7 +26565,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -27064,7 +27064,4997 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 21",
+        "slug": "seasonal-card-21",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear1.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear1.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear1.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear1.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 22",
+        "slug": "seasonal-card-22",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear2.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear2.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear2.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear2.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 23",
+        "slug": "seasonal-card-23",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear3.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear3.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear3.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear3.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 24",
+        "slug": "seasonal-card-24",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear4.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear4.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear4.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear4.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 25",
+        "slug": "seasonal-card-25",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear5.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear5.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear5.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear5.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 26",
+        "slug": "seasonal-card-26",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear6.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear6.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear6.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear6.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 27",
+        "slug": "seasonal-card-27",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear7.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear7.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear7.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear7.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 28",
+        "slug": "seasonal-card-28",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear8.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear8.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear8.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear8.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 29",
+        "slug": "seasonal-card-29",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear9.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear9.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear9.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear9.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
+                "icon": "SeasonalCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:22:04.000Z",
+                "updated_at": "2021-03-08T07:22:04.000Z",
+                "deleted_at": null,
+                "parent_id": 1,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 2
+                }
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Grocery",
+            "settings": {
+                "isHome": true,
+                "layoutType": "classic",
+                "productCard": "helium",
+                "_id": "66c75afcbdc1efe45d902351"
+            },
+            "slug": "grocery",
+            "language": "en",
+            "icon": "FruitsVegetable",
+            "promotional_sliders": [
+                {
+                    "_id": "66c75afcbdc1efe45d902352",
+                    "id": "902",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902353",
+                    "id": "903",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902354",
+                    "id": "904",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902355",
+                    "id": "905",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+                },
+                {
+                    "_id": "66c75afcbdc1efe45d902356",
+                    "id": "906",
+                    "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+                    "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+                }
+            ],
+            "created_at": "2021-03-08T07:18:25.000Z",
+            "updated_at": "2021-09-26T15:23:32.000Z",
+            "translated_languages": ["en"],
+            "_id": "66c75afcbdc1efe45d902357"
+        },
+        "variations": [
+            {
+                "id": 50,
+                "attribute_id": 3,
+                "value": "50",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 100,
+                "attribute_id": 3,
+                "value": "100",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 300,
+                "attribute_id": 3,
+                "value": "300",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 500,
+                "attribute_id": 3,
+                "value": "500",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 1000,
+                "attribute_id": 3,
+                "value": "1000",
+                "attribute": {
+                    "id": 3,
+                    "slug": "available-in",
+                    "name": "Available In",
+                    "values": [
+                        {
+                            "id": 8,
+                            "attribute_id": 3,
+                            "value": "50"
+                        },
+                        {
+                            "id": 9,
+                            "attribute_id": 3,
+                            "value": "100"
+                        },
+                        {
+                            "id": 10,
+                            "attribute_id": 3,
+                            "value": "300"
+                        },
+                        {
+                            "id": 11,
+                            "attribute_id": 3,
+                            "value": "500"
+                        },
+                        {
+                            "id": 12,
+                            "attribute_id": 3,
+                            "value": "1000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "metas": [],
+        "manufacturer": null,
+        "variation_options": [
+            {
+                "id": 247,
+                "title": "50",
+                "price": 50,
+                "sale_price": null,
+                "quantity": "100",
+                "is_disable": 0,
+                "sku": "200101",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "50"
+                    }
+                ]
+            },
+            {
+                "id": 248,
+                "title": "100",
+                "price": 100,
+                "sale_price": null,
+                "quantity": "200",
+                "is_disable": 0,
+                "sku": "200102",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "id": 249,
+                "title": "300",
+                "price": 300,
+                "sale_price": null,
+                "quantity": "50",
+                "is_disable": 0,
+                "sku": "200103",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "id": 250,
+                "title": "500",
+                "price": 500,
+                "sale_price": null,
+                "quantity": "60",
+                "is_disable": 0,
+                "sku": "200104",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "500"
+                    }
+                ]
+            },
+            {
+                "id": 251,
+                "title": "1000",
+                "price": 1000,
+                "sale_price": null,
+                "quantity": "70",
+                "is_disable": 0,
+                "sku": "200105",
+                "options": [
+                    {
+                        "name": "Available In",
+                        "value": "1000"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "author": null
+    },
+    {
+        "shop": {
+            "address": {
+                "zip": "61032",
+                "city": "Freeport",
+                "state": "Illinois",
+                "country": "USA",
+                "street_address": "1986  Spinnaker Lane"
+            },
+            "settings": {
+                "location": {
+                    "lat": 38.9032325,
+                    "lng": -77.0211068,
+                    "city": "Washington",
+                    "state": "DC",
+                    "country": "United States",
+                    "formattedAddress": "New York Ave NW, Washington, DC, USA"
+                },
+                "contact": "018927525111",
+                "socials": [
+                    {
+                        "_id": "66c75afcbdc1efe45d902372",
+                        "url": "https://www.facebook.com/",
+                        "icon": "FacebookIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902373",
+                        "url": "https://www.instagram.com/",
+                        "icon": "InstagramIcon"
+                    },
+                    {
+                        "_id": "66c75afcbdc1efe45d902374",
+                        "url": "https://www.twitter.com/",
+                        "icon": "TwitterIcon"
+                    }
+                ],
+                "website": "https://redq.io/"
+            },
+            "id": 6,
+            "owner_id": 1,
+            "name": "Grocery Shop",
+            "slug": "grocery-shop",
+            "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+            "cover_image": {
+                "id": "894",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902370"
+            },
+            "logo": {
+                "id": "893",
+                "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+                "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg",
+                "_id": "66c75afcbdc1efe45d902371"
+            },
+            "is_active": 1,
+            "created_at": "2021-06-27T03:48:23.000Z",
+            "updated_at": "2021-07-08T09:22:38.000Z"
+        },
+        "_id": "d17d9dd5-e901-4869-b885-c74ccc6bd7b5",
+        "id": "p11",
+        "name": "Seasonal Card 30",
+        "slug": "seasonal-card-30",
+        "description": "Make every holiday and season extra special with Indexx Seasonal Cards. Packed with USD that can be converted into any cryptocurrency on our exchange, these cards are perfect for celebrating holidays and seasonal events. Gift your loved ones the excitement of crypto and the potential for future growth. Celebrate today and invest in tomorrow!",
+        "type_id": 1,
+        "price": 2,
+        "shop_id": 6,
+        "sale_price": 50,
+        "language": "en",
+        "min_price": 50,
+        "max_price": 1000,
+        "sku": "11",
+        "quantity": 19,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "variable",
+        "unit": "1lb",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+            "id": "1",
+            "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear10.png",
+            "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear10.png",
+            "_id": "66c75afcbdc1efe45d90236a"
+        },
+        "video": null,
+        "gallery": [
+            {
+                "_id": "66c75afcbdc1efe45d90236b",
+                "id": "573",
+                "original": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear10.png",
+                "thumbnail": "https://indexx-exchange.s3.ap-northeast-1.amazonaws.com/indexx-shop/Greeting/Seasonal/New+Year/newyear10.png"
+            }
+        ],
+        "deleted_at": null,
+        "created_at": "2021-03-08T10:24:53.000Z",
+        "updated_at": "2021-12-23T18:16:06.000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 0,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.67,
+        "total_reviews": 3,
+        "rating_count": [
+            {
+                "_id": "66c75afcbdc1efe45d90236c",
+                "rating": 5,
+                "total": 2,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            },
+            {
+                "_id": "66c75afcbdc1efe45d90236d",
+                "rating": 4,
+                "total": 1,
+                "positive_feedbacks_count": 0,
+                "negative_feedbacks_count": 0,
+                "my_feedback": null,
+                "abusive_reports_count": 0
+            }
+        ],
+        "my_review": null,
+        "in_wishlist": false,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "categories": [
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236e",
+                "id": 1,
+                "name": "Greeting Cards",
+                "slug": "greeting",
+                "icon": "GreetingCards",
+                "language": "en",
+                "image": [],
+                "details": null,
+                "parent": null,
+                "type_id": 1,
+                "created_at": "2021-03-08T07:21:31.000Z",
+                "updated_at": "2021-03-08T07:21:31.000Z",
+                "deleted_at": null,
+                "parent_id": null,
+                "translated_languages": ["en"],
+                "pivot": {
+                    "product_id": 1,
+                    "category_id": 1
+                }
+            },
+            {
+                "type": null,
+                "children": [],
+                "products_count": 0,
+                "_id": "66c75afcbdc1efe45d90236f",
+                "id": 2,
+                "name": "Seasonal Cards",
+                "slug": "seasonal-cards/new-year-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -27563,7 +32553,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/halloween-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -28062,7 +33052,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/halloween-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -28561,7 +33551,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/halloween-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -29060,7 +34050,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/halloween-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -29559,7 +34549,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/halloween-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
@@ -30058,7 +35048,7 @@
                 "_id": "66c75afcbdc1efe45d90236f",
                 "id": 2,
                 "name": "Seasonal Cards",
-                "slug": "seasonal-cards",
+                "slug": "seasonal-cards/christmas-cards",
                 "icon": "SeasonalCards",
                 "language": "en",
                 "image": [],
