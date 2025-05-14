@@ -21,6 +21,9 @@ export class CreateOrderDto {
   shipping_address?: UserAddressInput;
   payment_intent: PaymentIntent;
   language?: string;
+  payment_currency_symbol?: string;
+  payment_currency_rate?: number;
+  payment_currency_code?: string;
 }
 
 export class UserAddressInput {
